@@ -9,6 +9,7 @@
 
   <sdefs>
     <sdef n="n"      c="Noun"/>
+    <sdef n="num"    c="Numeral"/>
     <sdef n="post"   c="Postposition"/>
     <sdef n="cnjcoo" c="Co-ordinator"/>
     <sdef n="cnjsub" c="Sub-ordinator"/>
@@ -5477,6 +5478,9 @@
       <e>     <p><l/><r><s n="cnjsub"/></r></p></e>
     </pardef>
 
+    <pardef n="دو__num">
+      <e>     <p><l/><r><s n="num"/></r></p></e>
+    </pardef>
 
   </pardefs>
   <section id="main" type="standard">
@@ -5501,6 +5505,10 @@
     <e lm="کو"><i>کو</i><par n="پر__post"/></e>
     <e lm="کا"><i>کا</i><par n="پر__post"/></e>
 
+
+    <!-- Numerals -->
+    <e lm="دو"><i>دو</i><par n="دو__num"/></e>
+    <e lm="سات"><i>سات</i><par n="دو__num"/></e>
 
     <!-- Nouns -->
 

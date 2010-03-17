@@ -1,10 +1,10 @@
 * text=auto !eol
 /Makefile -text
+/apertium-ur-hi.hi.dix -text
 /apertium-ur-hi.ur-hi.dix -text
 /apertium-ur-hi.ur-hi.t1x -text
 /apertium-ur-hi.ur.dix -text
 dev/conversion/adj.chopped.dix -text
-dev/conversion/hi.dix -text
 dev/conversion/nouns.chopped.dix -text
 dev/en-hi-ur.list -text
 /modes.xml -text

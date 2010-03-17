@@ -163,6 +163,8 @@
     <e c="musalmān"><p><l>مسلمان<s n="n"/><s n="m"/></l><r>मुसलमान<s n="n"/><s n="m"/></r></p></e>
     <e c="musalmānī"><p><l>مسلمانی<s n="n"/><s n="f"/></l><r><s n="n"/>मुसलमानी<s n="f"/></r></p></e>
 
+    <e c="humlā"><p><l>حملہ<s n="n"/><s n="m"/></l><r>हमला<s n="n"/><s n="m"/></r></p></e>
+
     <!-- Adjectives -->
 
     <e c="achhā"><p><l>اچھا<s n="adj"/></l><r>अच्छा<s n="adj"/></r></p></e>

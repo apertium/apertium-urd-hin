@@ -1,0 +1,20 @@
+<dictionary>
+  <alphabet/>
+  <sdefs>
+    <sdef n="n"           c="Common noun"/>
+    <sdef n="cnjcoo"      c="Co-ordinator"/>
+    <sdef n="np"          c="Proper noun"/>
+    <sdef n="f"           c="Feminine"/>
+    <sdef n="m"           c="Masculine"/>
+  </sdefs>
+  <section id="main" id="standard">
+    <!-- Conjunctions -->
+    <e c="aur"><p><l>اور<s n="cnjcoo"/></l><r>और<s n="cnjcoo"/></r></p></e>
+
+    <!-- Postpositions -->
+
+    <!-- Nouns -->
+
+
+  </section>
+</dictionary>

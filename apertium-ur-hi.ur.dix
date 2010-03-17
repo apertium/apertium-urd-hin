@@ -26,5445 +26,8 @@
   </sdefs>
 
   <pardefs>
-    <pardef n="کلی__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>اں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="خط/ہ__n">
-      <e>
-        <p>
-          <l>ے</l>
-          <r>ہ<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ے</l>
-          <r>ہ<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ے</l>
-          <r>ہ<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ہ</l>
-          <r>ہ<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r>ہ<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r>ہ<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="کو/ا__n">
-      <e>
-        <p>
-          <l>ے</l>
-          <r>ا<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ے</l>
-          <r>ا<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ے</l>
-          <r>ا<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ا</l>
-          <r>ا<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r>ا<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r>ا<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="گدی__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>اں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="طبیعت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>اں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="حکایت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="جج__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="اَ/مر__n">
-      <e>
-        <p>
-          <l>مر</l>
-          <r>مر<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>مر</l>
-          <r>مر<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وامِر</l>
-          <r>مر<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وامِر</l>
-          <r>مر<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="رِیا__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ؤں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ئیں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="آب__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="آنت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="دعا__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ؤ</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ؤں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ئیں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="حالت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="اخبار__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ات</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ات</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="آنسو__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ؤ</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ؤں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="کنی/ا__n">
-      <e>
-        <p>
-          <l>ا</l>
-          <r>ا<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ا</l>
-          <r>ا<s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ا</l>
-          <r>ا<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>اں</l>
-          <r>ا<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r>ا<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r>ا<s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="بھوت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="/آخر__n">
-      <e>
-        <p>
-          <l>آخر</l>
-          <r>آخر<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>آخر</l>
-          <r>آخر<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>اَواخِر</l>
-          <r>آخر<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>اَواخِر</l>
-          <r>آخر<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="قطع__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ے</l>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ے</l>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ے</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="لطافت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="خط__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="بازو__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ؤ</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ؤ</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ؤں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ؤں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ئیں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="المی/ہ__n">
-      <e>
-        <p>
-          <l>ے</l>
-          <r>ہ<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ے</l>
-          <r>ہ<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ے</l>
-          <r>ہ<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ہ</l>
-          <r>ہ<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ہ</l>
-          <r>ہ<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ہ</l>
-          <r>ہ<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ہ</l>
-          <r>ہ<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ہ</l>
-          <r>ہ<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ہ</l>
-          <r>ہ<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ہ</l>
-          <r>ہ<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r>ہ<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r>ہ<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="طاقت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>اں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="حرکت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="رعنائی__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>اں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="ثقافت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="اذیت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="حیوان__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ات</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ات</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="کرتوت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="مصلحت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="/آخِر__n">
-      <e>
-        <p>
-          <l>آخِر</l>
-          <r>آخِر<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>آخِر</l>
-          <r>آخِر<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>اَواخِر</l>
-          <r>آخِر<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>اَواخِر</l>
-          <r>آخِر<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="ت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="ضیافت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>اں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="علت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="آفت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="حیرت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="اشتہار__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ات</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ات</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="/آخَر__n">
-      <e>
-        <p>
-          <l>آخَر</l>
-          <r>آخَر<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>آخَر</l>
-          <r>آخَر<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>اَواخِر</l>
-          <r>آخَر<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>اَواخِر</l>
-          <r>آخَر<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="جہت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="حقیقت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="بدو__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ؤ</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ؤں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="ہو/اں__n">
-      <e>
-        <p>
-          <l>اں</l>
-          <r>اں<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وںں</l>
-          <r>اں<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وںں</l>
-          <r>اں<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r>اں<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r>اں<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r>اں<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="غیرت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="غنیمت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="ام/ر__n">
-      <e>
-        <p>
-          <l>اَوِر</l>
-          <r>ر<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>اَوِر</l>
-          <r>ر<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ر</l>
-          <r>ر<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ر</l>
-          <r>ر<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="جنت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="دانت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="حکومت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="کل/ا__n">
-      <e>
-        <p>
-          <l>ے</l>
-          <r>ا<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ے</l>
-          <r>ا<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ے</l>
-          <r>ا<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ا</l>
-          <r>ا<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ا</l>
-          <r>ا<s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ا</l>
-          <r>ا<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ا</l>
-          <r>ا<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>اؤ</l>
-          <r>ا<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>اؤں</l>
-          <r>ا<s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ائیں</l>
-          <r>ا<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r>ا<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r>ا<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="ما/ں__n">
-      <e>
-        <p>
-          <l>ں</l>
-          <r>ں<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ں</l>
-          <r>ں<s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ں</l>
-          <r>ں<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ؤ</l>
-          <r>ں<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ؤں</l>
-          <r>ں<s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ئیں</l>
-          <r>ں<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="جیت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="غلاظت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="مکان__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ات</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ات</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="ولائیت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="جو/ں__n">
-      <e>
-        <p>
-          <l>ں</l>
-          <r>ں<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ں</l>
-          <r>ں<s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ں</l>
-          <r>ں<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ؤں</l>
-          <r>ں<s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ؤں</l>
-          <r>ں<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ئیں</l>
-          <r>ں<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="خصلت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="ضرورت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>اں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="بخار__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ات</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ات</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="اثر__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ات</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ات</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="حکمت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="فیض__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="راہدار/ی__n">
-      <e>
-        <p>
-          <l>ؤں</l>
-          <r>ی<s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ؤں</l>
-          <r>ی<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ی</l>
-          <r>ی<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ی</l>
-          <r>ی<s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ی</l>
-          <r>ی<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ئیں</l>
-          <r>ی<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="جات__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="حماقت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="خاصیت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="آیت__n">
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l/>
-          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>و</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>وں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>یں</l>
-          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
 
+    <!-- Postpositions -->
 
     <pardef n="پر__post">
       <e>       <p><l/><r><s n="post"/></r></p></e>
@@ -5481,6 +44,7 @@
       <e>       <p><l>ے</l><r>ا<s n="post"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
     </pardef>
 
+    <!-- Conjunctions -->
 
     <pardef n="اور__cnjcoo">
       <e>       <p><l/><r><s n="cnjcoo"/></r></p></e>
@@ -5490,9 +54,1033 @@
       <e>       <p><l/><r><s n="cnjsub"/></r></p></e>
     </pardef>
 
+    <!-- Numerals -->
+
     <pardef n="دو__num">
       <e>       <p><l/><r><s n="num"/></r></p></e>
     </pardef>
+
+    <!-- Nouns -->
+
+    <pardef n="کلی__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>اں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+    <pardef n="خط/ہ__n">
+      <e>       <p><l>ے</l><r>ہ<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ے</l><r>ہ<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ے</l><r>ہ<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ہ</l><r>ہ<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>و</l><r>ہ<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r>ہ<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+    <pardef n="کو/ا__n">
+      <e>       <p><l>ے</l><r>ا<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ے</l><r>ا<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ے</l><r>ا<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ا</l><r>ا<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>و</l><r>ا<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r>ا<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+    <pardef n="گدی__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>اں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+    <pardef n="طبیعت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>اں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="حکایت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="جج__n">
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+    <pardef n="اَ/مر__n">
+      <e>       <p><l>مر</l><r>مر<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>مر</l><r>مر<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وامِر</l><r>مر<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>وامِر</l><r>مر<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+    <pardef n="رِیا__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ؤں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ئیں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="آب__n">
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+    <pardef n="آنت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="دعا__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ؤ</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ؤں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ئیں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="حالت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="اخبار__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ات</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ات</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="آنسو__n">
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ؤ</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ؤں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+    <pardef n="کنی/ا__n">
+      <e>       <p><l>ا</l><r>ا<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ا</l><r>ا<s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ا</l><r>ا<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>اں</l><r>ا<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>و</l><r>ا<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r>ا<s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+    <pardef n="بھوت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="/آخر__n">
+      <e>       <p><l>آخر</l><r>آخر<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>آخر</l><r>آخر<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l>اَواخِر</l><r>آخر<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>اَواخِر</l><r>آخر<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+    <pardef n="قطع__n">
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ے</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ے</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ے</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+    <pardef n="لطافت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="خط__n">
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="بازو__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ؤ</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ؤ</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ؤں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ؤں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ئیں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="المی/ہ__n">
+      <e>       <p><l>ے</l><r>ہ<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ے</l><r>ہ<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ے</l><r>ہ<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ہ</l><r>ہ<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ہ</l><r>ہ<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ہ</l><r>ہ<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ہ</l><r>ہ<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ہ</l><r>ہ<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ہ</l><r>ہ<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ہ</l><r>ہ<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>و</l><r>ہ<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r>ہ<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+    <pardef n="طاقت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>اں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="حرکت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="رعنائی__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>اں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="ثقافت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="اذیت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="حیوان__n">
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ات</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ات</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+    <pardef n="کرتوت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="مصلحت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="/آخِر__n">
+      <e>       <p><l>آخِر</l><r>آخِر<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>آخِر</l><r>آخِر<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l>اَواخِر</l><r>آخِر<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>اَواخِر</l><r>آخِر<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+    <pardef n="ت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="ضیافت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>اں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="علت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="آفت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="حیرت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="اشتہار__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ات</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ات</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="/آخَر__n">
+      <e>       <p><l>آخَر</l><r>آخَر<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>آخَر</l><r>آخَر<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l>اَواخِر</l><r>آخَر<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>اَواخِر</l><r>آخَر<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+    <pardef n="جہت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="حقیقت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="بدو__n">
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ؤ</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ؤں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+    <pardef n="ہو/اں__n">
+      <e>       <p><l>اں</l><r>اں<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>وںں</l><r>اں<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وںں</l><r>اں<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>یں</l><r>اں<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r>اں<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>یں</l><r>اں<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="غیرت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="غنیمت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="ام/ر__n">
+      <e>       <p><l>اَوِر</l><r>ر<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>اَوِر</l><r>ر<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ر</l><r>ر<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ر</l><r>ر<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+    </pardef>
+    <pardef n="جنت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="دانت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="حکومت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="کل/ا__n">
+      <e>       <p><l>ے</l><r>ا<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ے</l><r>ا<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ے</l><r>ا<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ا</l><r>ا<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ا</l><r>ا<s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ا</l><r>ا<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ا</l><r>ا<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>اؤ</l><r>ا<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>اؤں</l><r>ا<s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ائیں</l><r>ا<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>و</l><r>ا<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r>ا<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+    <pardef n="ما/ں__n">
+      <e>       <p><l>ں</l><r>ں<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ں</l><r>ں<s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ں</l><r>ں<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ؤ</l><r>ں<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ؤں</l><r>ں<s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ئیں</l><r>ں<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="جیت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="غلاظت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="مکان__n">
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ات</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ات</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+    <pardef n="ولائیت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="جو/ں__n">
+      <e>       <p><l>ں</l><r>ں<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ں</l><r>ں<s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ں</l><r>ں<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ؤں</l><r>ں<s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ؤں</l><r>ں<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ئیں</l><r>ں<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="خصلت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="ضرورت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>اں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="بخار__n">
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ات</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ات</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+    <pardef n="اثر__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ات</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ات</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="حکمت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="فیض__n">
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+    <pardef n="راہدار/ی__n">
+      <e>       <p><l>ؤں</l><r>ی<s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ؤں</l><r>ی<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ی</l><r>ی<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ی</l><r>ی<s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ی</l><r>ی<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ئیں</l><r>ی<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="جات__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="حماقت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="خاصیت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="آیت__n">
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>وں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>یں</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+
 
   </pardefs>
   <section id="main" type="standard">

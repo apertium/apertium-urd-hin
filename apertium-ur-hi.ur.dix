@@ -9,6 +9,7 @@
 
   <sdefs>
     <sdef n="n"      c="Noun"/>
+    <sdef n="np"     c="Proper noun"/>
     <sdef n="num"    c="Numeral"/>
     <sdef n="post"   c="Postposition"/>
     <sdef n="cnjcoo" c="Co-ordinator"/>
@@ -19,6 +20,8 @@
  
     <sdef n="sg"     c="Singular"/>
     <sdef n="pl"     c="Plural"/>
+
+    <sdef n="ant"    c="Anthroponym"/>
 
     <sdef n="nom"    c="Nominative"/>
     <sdef n="obl"    c="Oblique"/>
@@ -58,6 +61,12 @@
 
     <pardef n="دو__num">
       <e>       <p><l/><r><s n="num"/></r></p></e>
+    </pardef>
+
+    <!-- Proper nouns -->
+
+    <pardef n="عامل__np">
+            <e>       <p><l/><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
     </pardef>
 
     <!-- Nouns -->
@@ -4296,6 +4305,10 @@
     <e lm="شرمگاہ"><i>شرمگاہ</i><par n="ت__n"/></e>
     <e lm="نظریہ"><i>نظری</i><par n="خط/ہ__n"/></e>
     <e lm="ستون"><i>ستون</i><par n="جج__n"/></e>
+
+    <!-- Proper nouns -->
+
+    <e lm="عامل"><i>عامل</i><par n="عامل__np"/></e>
 
   </section>
 </dictionary>

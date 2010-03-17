@@ -17,6 +17,8 @@
     <sdef n="m"           c="Masculine"/>
 
     <sdef n="ind"         c="Indefinite"/>
+
+    <sdef n="ant"         c="Anthroponym"/>
   </sdefs>
   <section id="main" type="standard">
     <!-- Conjunctions -->
@@ -171,6 +173,10 @@
 
     <e c="pahāṛ"><p><l>پہاڑ<s n="n"/><s n="m"/></l><r>पहाड़<s n="n"/><s n="m"/></r></p></e>
     <e c="betī"><p><l>بیٹی<s n="n"/><s n="f"/></l><r>बेटी<s n="n"/><s n="f"/></r></p></e>
+
+    <!-- Proper nouns -->
+
+    <e c="āmil"><p><l>عامل<s n="np"/><s n="ant"/><s n="m"/></l><r>आमिल<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
     <!-- Adjectives -->
 

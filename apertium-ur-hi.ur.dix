@@ -8,18 +8,20 @@
   <alphabet>ئعابپتٹثجچحخدڈذرڑزژسشصضطظعغفقکگلمنوہ,ھءیےf</alphabet>
 
   <sdefs>
-    <sdef n="n"    c="Noun"/>
-    <sdef n="post" c="Postposition"/>
+    <sdef n="n"      c="Noun"/>
+    <sdef n="post"   c="Postposition"/>
+    <sdef n="cnjcoo" c="Co-ordinator"/>
+    <sdef n="cnjsub" c="Sub-ordinator"/>
 
-    <sdef n="m"    c="Masculine"/>
-    <sdef n="f"    c="Feminine"/>
+    <sdef n="m"      c="Masculine"/>
+    <sdef n="f"      c="Feminine"/>
+ 
+    <sdef n="sg"     c="Singular"/>
+    <sdef n="pl"     c="Plural"/>
 
-    <sdef n="sg"   c="Singular"/>
-    <sdef n="pl"   c="Plural"/>
-
-    <sdef n="nom"  c="Nominative"/>
-    <sdef n="obl"  c="Oblique"/>
-    <sdef n="voc"  c="Vocative"/>
+    <sdef n="nom"    c="Nominative"/>
+    <sdef n="obl"    c="Oblique"/>
+    <sdef n="voc"    c="Vocative"/>
   </sdefs>
 
   <pardefs>
@@ -5466,8 +5468,29 @@
     <pardef n="پر__post">
       <e>     <p><l/><r><s n="post"/></r></p></e>
     </pardef>
+
+    <pardef n="اور__cnjcoo">
+      <e>     <p><l/><r><s n="cnjcoo"/></r></p></e>
+    </pardef>
+
+    <pardef n="پر__cnjsub">
+      <e>     <p><l/><r><s n="cnjsub"/></r></p></e>
+    </pardef>
+
+
   </pardefs>
   <section id="main" type="standard">
+
+
+    <!-- Conjunctions -->
+
+    <e lm="اور"><i>اور</i><par n="اور__cnjcoo"/></e>
+    <e lm="ہم"><i>ہم</i><par n="اور__cnjcoo"/></e>
+
+    <e lm="پر"><i>پر</i><par n="پر__cnjsub"/></e>
+    <e lm="اگر"><i>اگر</i><par n="پر__cnjsub"/></e>
+    <e lm="اگرچہ"><i>اگرچہ</i><par n="پر__cnjsub"/></e>
+
 
     <!-- Postpositions -->
 

@@ -4,6 +4,8 @@
     <sdef n="n"           c="Common noun"/>
     <sdef n="cnjcoo"      c="Co-ordinator"/>
     <sdef n="cnjsub"      c="Sub-ordinator"/>
+    <sdef n="det"         c="Determiner"/>
+    <sdef n="num"         c="Numeral"/>
     <sdef n="adv"         c="Adverb"/>
     <sdef n="adj"         c="Adjective"/>
     <sdef n="post"        c="Postposition"/>
@@ -13,6 +15,8 @@
 
     <sdef n="f"           c="Feminine"/>
     <sdef n="m"           c="Masculine"/>
+
+    <sdef n="ind"         c="Indefinite"/>
   </sdefs>
   <section id="main" type="standard">
     <!-- Conjunctions -->
@@ -34,7 +38,103 @@
 
     <!-- Determiners -->
 
+    <e c="ek"><p><l>ایک<s n="det"/><s n="ind"/></l><r>एक<s n="det"/><s n="ind"/></r></p></e>
+
     <!-- Pronouns -->
+
+    <!-- Numerals -->
+
+    <e c="ek"><p><l>ایک<s n="num"/></l><r>एक<s n="num"/></r></p></e>
+    <e c="do"><p><l>دو<s n="num"/></l><r>दो<s n="num"/></r></p></e>
+    <e c="tīn"><p><l>تین<s n="num"/></l><r>तीन<s n="num"/></r></p></e>
+    <e c="ćār"><p><l>چار<s n="num"/></l><r>चार<s n="num"/></r></p></e>
+    <e c="pāca"><p><l>پانچ<s n="num"/></l><r>पाँच<s n="num"/></r></p></e>
+    <e c="ćhe"><p><l>چھہ<s n="num"/></l><r>छह<s n="num"/></r></p></e>
+    <e c="sāt"><p><l>سات<s n="num"/></l><r>सात<s n="num"/></r></p></e>
+    <e c="āṭh"><p><l>آٹھ<s n="num"/></l><r>आठ<s n="num"/></r></p></e>
+    <e c="nau"><p><l>نو<s n="num"/></l><r>नौ<s n="num"/></r></p></e>
+    <e c="das"><p><l>دس<s n="num"/></l><r>दस<s n="num"/></r></p></e>
+
+    <e c="aṭṭhāīs"><p><l>اٹھائیس<s n="num"/></l><r>अट्ठाईस<s n="num"/></r></p></e>
+    <e c="aṭṭhānave"><p><l>اٹھانوے<s n="num"/></l><r>अट्ठानवे<s n="num"/></r></p></e>
+    <e c="aṭṭhāvan"><p><l>اٹھاون<s n="num"/></l><r>अट्ठावन<s n="num"/></r></p></e>
+    <e c="aṭṭhāsī"><p><l>اٹھاسی<s n="num"/></l><r>अट्ठासी<s n="num"/></r></p></e>
+    <e c="aṭhhattar"><p><l>اٹھہتر<s n="num"/></l><r>अठहत्तर<s n="num"/></r></p></e>
+    <e c="aṭhārah"><p><l>اٹھارہ--<s n="num"/></l><r>अठारह<s n="num"/></r></p></e>
+    <e c="aṛtālīs"><p><l>اڑتالیس<s n="num"/></l><r>अड़तालीस<s n="num"/></r></p></e>
+    <e c="aṛtīs"><p><l>اڑتیس<s n="num"/></l><r>अड़तीस<s n="num"/></r></p></e>
+    <e c="aṛsaṭh"><p><l>اڑسٹھ<s n="num"/></l><r>अड़सठ<s n="num"/></r></p></e>
+    <e c="assī"><p><l>اسی<s n="num"/></l><r>अस्सी<s n="num"/></r></p></e>
+    <e c="iktālīs"><p><l>اکتالیس<s n="num"/></l><r>इकतालीस<s n="num"/></r></p></e>
+    <e c="iksaṭh"><p><l>اکسٹھ<s n="num"/></l><r>इकसठ<s n="num"/></r></p></e>
+    <e c="ik-hattar"><p><l>اکہتر<s n="num"/></l><r>इकहत्तर<s n="num"/></r></p></e>
+    <e c="ikkīs"><p><l>اکیس<s n="num"/></l><r>इक्कीस<s n="num"/></r></p></e>
+    <e c="unćās"><p><l>انچاس<s n="num"/></l><r>उनचास<s n="num"/></r></p></e>
+    <e c="untālīs"><p><l>انتالیس<s n="num"/></l><r>उनतालीस<s n="num"/></r></p></e>
+    <e c="untīs"><p><l>انتیس<s n="num"/></l><r>उनतीस<s n="num"/></r></p></e>
+    <e c="unsaṭh"><p><l>انسٹھ<s n="num"/></l><r>उनसठ<s n="num"/></r></p></e>
+    <e c="unhattar"><p><l>انہتر<s n="num"/></l><r>उनहत्तर<s n="num"/></r></p></e>
+    <e c="unnīs"><p><l>انیس<s n="num"/></l><r>उन्नीस<s n="num"/></r></p></e>
+    <e c="gyārah"><p><l>گیارہ<s n="num"/></l><r>ग्यारह<s n="num"/></r></p></e>
+    <e c="ćavālīs"><p><l>چوالیس<s n="num"/></l><r>चवालीस<s n="num"/></r></p></e>
+    <e c="ćālīs"><p><l>چالیس<s n="num"/></l><r>चालीस<s n="num"/></r></p></e>
+    <e c="ćauṅtīs"><p><l>چونتیس<s n="num"/></l><r>चौंतीस<s n="num"/></r></p></e>
+    <e c="ćauṅsaṭh"><p><l>چونسٹھ<s n="num"/></l><r>चौंसठ<s n="num"/></r></p></e>
+    <e c="ćaudah"><p><l>چودہ<s n="num"/></l><r>चौदह<s n="num"/></r></p></e>
+    <e c="ćaubīs"><p><l>چوبیس<s n="num"/></l><r>चौबीस<s n="num"/></r></p></e>
+    <e c="ćaurānave"><p><l>چورانوے<s n="num"/></l><r>चौरानवे<s n="num"/></r></p></e>
+    <e c="ćaurāsī"><p><l>چوراسی<s n="num"/></l><r>चौरासी<s n="num"/></r></p></e>
+    <e c="ćauhattar"><p><l>چوہتر<s n="num"/></l><r>चौहत्तर<s n="num"/></r></p></e>
+    <e c="ćhattīs"><p><l>چھتیس<s n="num"/></l><r>छत्तीस<s n="num"/></r></p></e>
+    <e c="ćhappan"><p><l>چھپن<s n="num"/></l><r>छप्पन<s n="num"/></r></p></e>
+    <e c="ćhabbīs"><p><l>چھبیس<s n="num"/></l><r>छब्बीस<s n="num"/></r></p></e>
+    <e c="ćhiyānave"><p><l>چھیانوے<s n="num"/></l><r>छियानवे<s n="num"/></r></p></e>
+    <e c="ćhiyālīs"><p><l>چھیالیس<s n="num"/></l><r>छियालीस<s n="num"/></r></p></e>
+    <e c="ćhiyāsaṭh"><p><l>چھیاسٹھ<s n="num"/></l><r>छियासठ<s n="num"/></r></p></e>
+    <e c="ćhiyāsī"><p><l>چھیاسی<s n="num"/></l><r>छियासी<s n="num"/></r></p></e>
+    <e c="ćhihattar"><p><l>چھہتر‏<s n="num"/></l><r>छिहत्तर<s n="num"/></r></p></e>
+    <e c="tirapan"><p><l>ترپن<s n="num"/></l><r>तिरपन<s n="num"/></r></p></e>
+    <e c="tirsaṭh"><p><l>ترستھ<s n="num"/></l><r>तिरसठ<s n="num"/></r></p></e>
+    <e c="tirānave"><p><l>ترانوے<s n="num"/></l><r>तिरानवे<s n="num"/></r></p></e>
+    <e c="tirāsī"><p><l>تراسی<s n="num"/></l><r>तिरासी<s n="num"/></r></p></e>
+    <e c="tihattar"><p><l>تہتر<s n="num"/></l><r>तिहत्तर<s n="num"/></r></p></e>
+    <e c="tīs"><p><l>تیس<s n="num"/></l><r>तीस<s n="num"/></r></p></e>
+    <e c="teīs"><p><l>تیئیس<s n="num"/></l><r>तेईस<s n="num"/></r></p></e>
+    <e c="terah"><p><l>تیرہ<s n="num"/></l><r>तेरह<s n="num"/></r></p></e>
+    <e c="taiṃtālīs"><p><l>تینتالیس<s n="num"/></l><r>तैंतालीस<s n="num"/></r></p></e>
+    <e c="taiṃtīs"><p><l>تینتیس<s n="num"/></l><r>तैंतीस<s n="num"/></r></p></e>
+    <e c="navāsī"><p><l>نواسی‏<s n="num"/></l><r>नवासी<s n="num"/></r></p></e>
+    <e c="paćpan"><p><l>پچپن<s n="num"/></l><r>पचपन<s n="num"/></r></p></e>
+    <e c="paćānave"><p><l>پچانوے<s n="num"/></l><r>पचानवे<s n="num"/></r></p></e>
+    <e c="paćās"><p><l>پچاس<s n="num"/></l><r>पचास<s n="num"/></r></p></e>
+    <e c="paćāsī"><p><l>پچاسی<s n="num"/></l><r>पचासी<s n="num"/></r></p></e>
+    <e c="paccīs"><p><l>پچیس<s n="num"/></l><r>पच्चीस<s n="num"/></r></p></e>
+    <e c="pandrah"><p><l>پندرہ<s n="num"/></l><r>पन्द्रह<s n="num"/></r></p></e>
+    <e c="paiṃtālīs"><p><l>پینتالیس<s n="num"/></l><r>पैंतालीस<s n="num"/></r></p></e>
+    <e c="paiṃtīs"><p><l>پینتیس<s n="num"/></l><r>पैंतीस<s n="num"/></r></p></e>
+    <e c="paiñsaṭh"><p><l>پینستھ<s n="num"/></l><r>पैंसठ<s n="num"/></r></p></e>
+    <e c="battīs"><p><l>بتیس<s n="num"/></l><r>बत्तीस<s n="num"/></r></p></e>
+    <e c="bayālīs"><p><l>بیالیس<s n="num"/></l><r>बयालीस<s n="num"/></r></p></e>
+    <e c="bayāsī"><p><l>بیاسی<s n="num"/></l><r>बयासी<s n="num"/></r></p></e>
+    <e c="bahattar"><p><l>بہتر<s n="num"/></l><r>बहत्तर<s n="num"/></r></p></e>
+    <e c="bāīs"><p><l>بائیس<s n="num"/></l><r>बाईस<s n="num"/></r></p></e>
+    <e c="bānave"><p><l>بانوے<s n="num"/></l><r>बानवे<s n="num"/></r></p></e>
+    <e c="bārah"><p><l>بارہ<s n="num"/></l><r>बारह<s n="num"/></r></p></e>
+    <e c="bāvan"><p><l>باون<s n="num"/></l><r>बावन<s n="num"/></r></p></e>
+    <e c="bāsaṭh"><p><l>باسٹھ<s n="num"/></l><r>बासठ<s n="num"/></r></p></e>
+    <e c="bīs"><p><l>بیس<s n="num"/></l><r>बीस<s n="num"/></r></p></e>
+    <e c="sat-hattar"><p><l>ستہتر<s n="num"/></l><r>सतहत्तर<s n="num"/></r></p></e>
+    <e c="sattar"><p><l>ستر<s n="num"/></l><r>सत्तर<s n="num"/></r></p></e>
+    <e c="sattāīs"><p><l>ستائیس<s n="num"/></l><r>सत्ताईस<s n="num"/></r></p></e>
+    <e c="sattānave"><p><l>ستانوے‏<s n="num"/></l><r>सत्तानवे<s n="num"/></r></p></e>
+    <e c="sattāvan"><p><l>ستاون<s n="num"/></l><r>सत्तावन<s n="num"/></r></p></e>
+    <e c="sattāsī"><p><l>ستاسی‏<s n="num"/></l><r>सत्तासी<s n="num"/></r></p></e>
+    <e c="satrah"><p><l>سترہ<s n="num"/></l><r>सत्रह<s n="num"/></r></p></e>
+    <e c="sāṭh"><p><l>ساٹھ<s n="num"/></l><r>साठ<s n="num"/></r></p></e>
+    <e c="saiṃtālīs"><p><l>سینتالیس<s n="num"/></l><r>सैंतालीस<s n="num"/></r></p></e>
+    <e c="saiṃtīs"><p><l>سینتیس<s n="num"/></l><r>सैंतीस<s n="num"/></r></p></e>
+    <e c="solah"><p><l>سولہ<s n="num"/></l><r>सोलह<s n="num"/></r></p></e>
+    <e c="sau"><p><l>سو<s n="num"/></l><r>सौ<s n="num"/></r></p></e>
 
     <!-- Nouns -->
 
@@ -76,6 +176,7 @@
 
     <e c="bolnā"><p><l>بولنا<s n="vblex"/></l><r>बोलना<s n="vblex"/></r></p></e>
     <e c="dauṛnā"><p><l>دوڑنا<s n="vblex"/></l><r>दौड़ना<s n="vblex"/></r></p></e>
+    <e c="likhnā"><p><l>لکھنا<s n="vblex"/></l><r>लिखना<s n="vblex"/></r></p></e>
     <e c="sunnā"><p><l>سننا<s n="vblex"/></l><r>सुनना<s n="vblex"/></r></p></e>
 
   </section>

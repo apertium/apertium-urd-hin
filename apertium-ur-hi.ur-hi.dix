@@ -5,8 +5,12 @@
     <sdef n="cnjcoo"      c="Co-ordinator"/>
     <sdef n="cnjsub"      c="Sub-ordinator"/>
     <sdef n="adv"         c="Adverb"/>
+    <sdef n="adj"         c="Adjective"/>
     <sdef n="post"        c="Postposition"/>
+    <sdef n="vbser"       c="Verb (to be, honā)"/>
+    <sdef n="vblex"       c="Common verb"/>
     <sdef n="np"          c="Proper noun"/>
+
     <sdef n="f"           c="Feminine"/>
     <sdef n="m"           c="Masculine"/>
   </sdefs>
@@ -28,6 +32,10 @@
     <e c="ko"><p><l>کو<s n="post"/></l><r><s n="post"/></r></p></e>
     <e c="kā"><p><l>کا<s n="post"/></l><r>का<s n="post"/></r></p></e>
 
+    <!-- Determiners -->
+
+    <!-- Pronouns -->
+
     <!-- Nouns -->
 
     <e c="zabān"><p><l>زبان<s n="n"/><s n="f"/></l><r>ज़बान<s n="n"/><s n="f"/></r></p></e>
@@ -37,7 +45,7 @@
     <e c="strī"><p><l>ستری<s n="n"/><s n="f"/></l><r>स्त्री<s n="n"/><s n="f"/></r></p></e>
 
     <e c="ādmī"><p><l>آدمی<s n="n"/><s n="m"/></l><r>आदमी<s n="n"/><s n="m"/></r></p></e>
-    <e c="mard" r="LR"><p><l>مرد<s n="n"/><s n="m"/></l><r>आदमी<s n="n"/><s n="m"/></r></p></e>
+    <e c="mard,ādmī" r="LR"><p><l>مرد<s n="n"/><s n="m"/></l><r>आदमी<s n="n"/><s n="m"/></r></p></e>
     <e c="puruṣ"><p><l>پرش<s n="n"/><s n="m"/></l><r>पुरुष<s n="n"/><s n="m"/></r></p></e>
 
     <e c="āj"><p><l>آج<s n="n"/><s n="m"/></l><r>आज<s n="n"/><s n="m"/></r></p></e>
@@ -45,6 +53,7 @@
     <e c="zor"><p><l>زور<s n="n"/><s n="m"/></l><r>ज़ोर<s n="n"/><s n="m"/></r></p></e>
     <e c="saṅg"><p><l>سنگ<s n="n"/><s n="m"/></l><r>संग<s n="n"/><s n="m"/></r></p></e>
     <e c="mithyā"><p><l>متھیا<s n="n"/><s n="m"/></l><r>मिथ्या<s n="n"/><s n="m"/></r></p></e>
+    <e c="jahez,dahej"><p><l>جہیز<s n="n"/><s n="m"/></l><r>दहेज<s n="n"/><s n="m"/></r></p></e>
 
     <!-- Adjectives -->
 
@@ -61,6 +70,13 @@
     <e c="saṅg"><p><l>سنگ<s n="adv"/></l><r>संग<s n="adv"/></r></p></e>
     <e c="mithyā"><p><l>متھیا<s n="adv"/></l><r>मिथ्या<s n="adv"/></r></p></e>
     <e c="ham"><p><l>ہم<s n="adv"/></l><r>हम<s n="adv"/></r></p></e>
+
+    <!-- Verbs -->
+    <e c="honā"><p><l>ہونا<s n="vbser"/></l><r>होना<s n="vbser"/></r></p></e>
+
+    <e c="bolnā"><p><l>بولنا<s n="vblex"/></l><r>बोलना<s n="vblex"/></r></p></e>
+    <e c="dauṛnā"><p><l>دوڑنا<s n="vblex"/></l><r>दौड़ना<s n="vblex"/></r></p></e>
+    <e c="sunnā"><p><l>سننا<s n="vblex"/></l><r>सुनना<s n="vblex"/></r></p></e>
 
   </section>
 </dictionary>

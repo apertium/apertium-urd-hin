@@ -1,3 +1,7 @@
 * text=auto !eol
+/Makefile -text
 /apertium-ur-hi.ur-hi.dix -text
+/apertium-ur-hi.ur-hi.t1x -text
 /apertium-ur-hi.ur.dix -text
+/modes.xml -text
+/ur-hi.prob -text svneol=unset#unset

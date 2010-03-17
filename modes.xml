@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modes>
+  <mode name="ur-hi" install="yes">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="ur-hi.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="ur-hi.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-ur-hi.ur-hi.t1x"/>
+        <file name="ur-hi.t1x.bin"/>
+        <file name="ur-hi.autobil.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="ur-hi.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="ur-hi.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+  
+  <mode name="ur-hi-morph" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="ur-hi.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="ur-hi-tagger" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="ur-hi.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="ur-hi.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="ur-hi-transfer" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="ur-hi.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="ur-hi.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-ur-hi.ur-hi.t1x"/>
+        <file name="ur-hi.t1x.bin"/>
+        <file name="ur-hi.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+</modes>

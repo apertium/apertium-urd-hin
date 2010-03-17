@@ -155,6 +155,13 @@
     <e c="mithyā"><p><l>متھیا<s n="n"/><s n="m"/></l><r>मिथ्या<s n="n"/><s n="m"/></r></p></e>
     <e c="jahez,dahej"><p><l>جہیز<s n="n"/><s n="m"/></l><r>दहेज<s n="n"/><s n="m"/></r></p></e>
 
+    <e c="masjid"><p><l>مسجد<s n="n"/><s n="m"/></l><r>मसजिद<s n="n"/><s n="m"/></r></p></e>
+    <e c="namāz"><p><l>نماز<s n="n"/><s n="f"/></l><r>नमाज़<s n="n"/><s n="f"/></r></p></e>
+
+    <e c="muslim"><p><l>مسلم<s n="n"/><s n="m"/></l><r>मुस्लिम<s n="n"/><s n="m"/></r></p></e>
+    <e c="musalmān"><p><l>مسلمان<s n="n"/><s n="m"/></l><r>मुसलमान<s n="n"/><s n="m"/></r></p></e>
+    <e c="musalmānī"><p><l>مسلمانی<s n="n"/><s n="f"/></l><r><s n="n"/>मुसलमानी<s n="f"/></r></p></e>
+
     <!-- Adjectives -->
 
     <e c="achhā"><p><l>اچھا<s n="adj"/></l><r>अच्छा<s n="adj"/></r></p></e>

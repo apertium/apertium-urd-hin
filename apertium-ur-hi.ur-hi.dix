@@ -3,17 +3,40 @@
   <sdefs>
     <sdef n="n"           c="Common noun"/>
     <sdef n="cnjcoo"      c="Co-ordinator"/>
+    <sdef n="cnjsub"      c="Sub-ordinator"/>
+    <sdef n="post"        c="Postposition"/>
     <sdef n="np"          c="Proper noun"/>
     <sdef n="f"           c="Feminine"/>
     <sdef n="m"           c="Masculine"/>
   </sdefs>
-  <section id="main" id="standard">
+  <section id="main" type="standard">
     <!-- Conjunctions -->
     <e c="aur"><p><l>اور<s n="cnjcoo"/></l><r>और<s n="cnjcoo"/></r></p></e>
 
+    <e c="par"><p><l>پر<s n="cnjsub"/></l><r>पर<s n="cnjsub"/></r></p></e>
+    <e c="agar"><p><l>اگر<s n="cnjsub"/></l><r>अगर<s n="cnjsub"/></r></p></e>
+    <e c="agarce"><p><l>اگرچہ<s n="cnjsub"/></l><r>अगरचे<s n="cnjsub"/></r></p></e>
+
     <!-- Postpositions -->
 
+    <e c="binā"><p><l>بنا<s n="post"/></l><r>बिना<s n="post"/></r></p></e>
+    <e c="se"><p><l>سے<s n="post"/></l><r>से<s n="post"/></r></p></e>
+    <e c="mẽ"><p><l>میں<s n="post"/></l><r>में<s n="post"/></r></p></e>
+    <e c="par"><p><l>پر<s n="post"/></l><r>पर<s n="post"/></r></p></e>
+    <e c="ko"><p><l>کو<s n="post"/></l><r><s n="post"/></r></p></e>
+    <e c="kā"><p><l>کا<s n="post"/></l><r>का<s n="post"/></r></p></e>
+
     <!-- Nouns -->
+
+    <e c="zabān"><p><l>زبان<s n="n"/><s n="f"/></l><r>ज़बान<s n="n"/><s n="f"/></r></p></e>
+    <e c="bhāṣā"><p><l>بھاشا<s n="n"/><s n="f"/></l><r>भाषा<s n="n"/><s n="f"/></r></p></e>
+
+    <e c="aurat"><p><l>عورت<s n="n"/><s n="f"/></l><r>औरत<s n="n"/><s n="f"/></r></p></e>
+    <e c="strī"><p><l>ستری<s n="n"/><s n="f"/></l><r>स्त्री<s n="n"/><s n="f"/></r></p></e>
+
+    <e c="ādmī"><p><l>آدمی<s n="n"/><s n="m"/></l><r>आदमी<s n="n"/><s n="m"/></r></p></e>
+    <e c="mard" r="LR"><p><l>مرد<s n="n"/><s n="m"/></l><r>आदमी<s n="n"/><s n="m"/></r></p></e>
+    <e c="puruṣ"><p><l>پرش<s n="n"/><s n="m"/></l><r>पुरुष<s n="n"/><s n="m"/></r></p></e>
 
 
   </section>

@@ -4,6 +4,7 @@
     <sdef n="n"           c="Common noun"/>
     <sdef n="cnjcoo"      c="Co-ordinator"/>
     <sdef n="cnjsub"      c="Sub-ordinator"/>
+    <sdef n="adv"         c="Adverb"/>
     <sdef n="post"        c="Postposition"/>
     <sdef n="np"          c="Proper noun"/>
     <sdef n="f"           c="Feminine"/>
@@ -12,6 +13,7 @@
   <section id="main" type="standard">
     <!-- Conjunctions -->
     <e c="aur"><p><l>اور<s n="cnjcoo"/></l><r>और<s n="cnjcoo"/></r></p></e>
+    <e c="ham"><p><l>ہم<s n="cnjcoo"/></l><r>हम<s n="cnjcoo"/></r></p></e>
 
     <e c="par"><p><l>پر<s n="cnjsub"/></l><r>पर<s n="cnjsub"/></r></p></e>
     <e c="agar"><p><l>اگر<s n="cnjsub"/></l><r>अगर<s n="cnjsub"/></r></p></e>
@@ -38,6 +40,27 @@
     <e c="mard" r="LR"><p><l>مرد<s n="n"/><s n="m"/></l><r>आदमी<s n="n"/><s n="m"/></r></p></e>
     <e c="puruṣ"><p><l>پرش<s n="n"/><s n="m"/></l><r>पुरुष<s n="n"/><s n="m"/></r></p></e>
 
+    <e c="āj"><p><l>آج<s n="n"/><s n="m"/></l><r>आज<s n="n"/><s n="m"/></r></p></e>
+    <e c="akhir"><p><l>آخر<s n="n"/><s n="m"/></l><r>आख़िर<s n="n"/><s n="m"/></r></p></e>
+    <e c="zor"><p><l>زور<s n="n"/><s n="m"/></l><r>ज़ोर<s n="n"/><s n="m"/></r></p></e>
+    <e c="saṅg"><p><l>سنگ<s n="n"/><s n="m"/></l><r>संग<s n="n"/><s n="m"/></r></p></e>
+    <e c="mithyā"><p><l>متھیا<s n="n"/><s n="m"/></l><r>मिथ्या<s n="n"/><s n="m"/></r></p></e>
+
+    <!-- Adjectives -->
+
+    <e c="achhā"><p><l>اچھا<s n="adj"/></l><r>अच्छा<s n="adj"/></r></p></e>
+    <e c="mithyā"><p><l>متھیا<s n="adj"/></l><r>मिथ्या<s n="adj"/></r></p></e>
+
+    <!-- Adverbs -->
+
+    <e c="āj"><p><l>آج<s n="adv"/></l><r>आज<s n="adv"/></r></p></e>
+    <e c="akhir"><p><l>آخر<s n="adv"/></l><r>आख़िर<s n="adv"/></r></p></e>
+    <e c="achhā"><p><l>اچھا<s n="adv"/></l><r>अच्छा<s n="adv"/></r></p></e>
+    <e c="bilkhul"><p><l>بالکل<s n="adv"/></l><r>बिल्कुल<s n="adv"/></r></p></e>
+    <e c="zor"><p><l>زور<s n="adv"/></l><r>ज़ोर<s n="adv"/></r></p></e>
+    <e c="saṅg"><p><l>سنگ<s n="adv"/></l><r>संग<s n="adv"/></r></p></e>
+    <e c="mithyā"><p><l>متھیا<s n="adv"/></l><r>मिथ्या<s n="adv"/></r></p></e>
+    <e c="ham"><p><l>ہم<s n="adv"/></l><r>हम<s n="adv"/></r></p></e>
 
   </section>
 </dictionary>

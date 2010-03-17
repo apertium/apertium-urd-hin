@@ -3,5 +3,6 @@
 /apertium-ur-hi.ur-hi.dix -text
 /apertium-ur-hi.ur-hi.t1x -text
 /apertium-ur-hi.ur.dix -text
+dev/en-hi-ur.list -text
 /modes.xml -text
 /ur-hi.prob -text svneol=unset#unset

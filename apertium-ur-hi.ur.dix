@@ -9,6 +9,7 @@
 
   <sdefs>
     <sdef n="n"    c="Noun"/>
+    <sdef n="post" c="Postposition"/>
 
     <sdef n="m"    c="Masculine"/>
     <sdef n="f"    c="Feminine"/>
@@ -5460,8 +5461,26 @@
         </p>
       </e>
     </pardef>
+
+
+    <pardef n="پر__post">
+      <e>     <p><l/><r><s n="post"/></r></p></e>
+    </pardef>
   </pardefs>
   <section id="main" type="standard">
+
+    <!-- Postpositions -->
+
+    <e lm="بنا"><i>بنا</i><par n="پر__post"/></e>
+    <e lm="سے"><i>سے</i><par n="پر__post"/></e>
+    <e lm="میں"><i>میں</i><par n="پر__post"/></e>
+    <e lm="پر"><i>پر</i><par n="پر__post"/></e>
+    <e lm="کو"><i>کو</i><par n="پر__post"/></e>
+    <e lm="کا"><i>کا</i><par n="پر__post"/></e>
+
+
+    <!-- Nouns -->
+
     <e lm="کینہ"><i>کین</i><par n="خط/ہ__n"/></e>
     <e lm="شعبدہ"><i>شعبد</i><par n="خط/ہ__n"/></e>
     <e lm="کبوتر"><i>کبوتر</i><par n="جج__n"/></e>

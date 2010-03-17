@@ -5,7 +5,7 @@
   Licence: GPL only
   -->
 <dictionary>
-  <alphabet>ئعابپتٹثجچحخدڈذرڑزژسشصضطظعغفقکگلمنوہ,ھءیےf</alphabet>
+  <alphabet>ئعابپتٹثجچحخدڈذرڑزژسشصضطظعغفقکگلمنوہ,ھءیےيں</alphabet>
 
   <sdefs>
     <sdef n="n"      c="Noun"/>
@@ -5467,19 +5467,31 @@
 
 
     <pardef n="پر__post">
-      <e>     <p><l/><r><s n="post"/></r></p></e>
+      <e>       <p><l/><r><s n="post"/></r></p></e>
     </pardef>
 
+    <pardef n="ک/ا__post">
+      <e>       <p><l>ا</l><r>ا<s n="post"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ے</l><r>ا<s n="post"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ا</l><r>ا<s n="post"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ے</l><r>ا<s n="post"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ی</l><r>ا<s n="post"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ے</l><r>ا<s n="post"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e>       <p><l>ا</l><r>ا<s n="post"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ے</l><r>ا<s n="post"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+
+
     <pardef n="اور__cnjcoo">
-      <e>     <p><l/><r><s n="cnjcoo"/></r></p></e>
+      <e>       <p><l/><r><s n="cnjcoo"/></r></p></e>
     </pardef>
 
     <pardef n="پر__cnjsub">
-      <e>     <p><l/><r><s n="cnjsub"/></r></p></e>
+      <e>       <p><l/><r><s n="cnjsub"/></r></p></e>
     </pardef>
 
     <pardef n="دو__num">
-      <e>     <p><l/><r><s n="num"/></r></p></e>
+      <e>       <p><l/><r><s n="num"/></r></p></e>
     </pardef>
 
   </pardefs>
@@ -5505,6 +5517,7 @@
     <e lm="کو"><i>کو</i><par n="پر__post"/></e>
     <e lm="کا"><i>کا</i><par n="پر__post"/></e>
 
+    <e lm="کا"><i>ک</i><par n="ک/ا__post"/></e>
 
     <!-- Numerals -->
     <e lm="دو"><i>دو</i><par n="دو__num"/></e>

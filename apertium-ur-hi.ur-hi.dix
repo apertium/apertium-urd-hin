@@ -165,6 +165,13 @@
 
     <e c="humlā"><p><l>حملہ<s n="n"/><s n="m"/></l><r>हमला<s n="n"/><s n="m"/></r></p></e>
 
+    <e c="jagah"><p><l>جگہ<s n="n"/><s n="f"/></l><r>जगह<s n="n"/><s n="f"/></r></p></e>
+    <e c="mašriq"><p><l>مشرق<s n="n"/><s n="m"/></l><r>पूर्व<s n="n"/><s n="m"/></r></p></e>
+    <e c="nām"><p><l>نام<s n="n"/><s n="m"/></l><r>नाम<s n="n"/><s n="m"/></r></p></e>
+
+    <e c="pahāṛ"><p><l>پہاڑ<s n="n"/><s n="m"/></l><r>पहाड़<s n="n"/><s n="m"/></r></p></e>
+    <e c="betī"><p><l>بیٹی<s n="n"/><s n="f"/></l><r>बेटी<s n="n"/><s n="f"/></r></p></e>
+
     <!-- Adjectives -->
 
     <e c="achhā"><p><l>اچھا<s n="adj"/></l><r>अच्छा<s n="adj"/></r></p></e>

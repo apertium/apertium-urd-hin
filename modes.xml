@@ -17,9 +17,6 @@
       <program name="lt-proc $1">
         <file name="ur-hi.autogen.bin"/>
       </program>
-      <program name="lt-proc -p">
-        <file name="ur-hi.autopgen.bin"/>
-      </program>
     </pipeline>
   </mode>
   

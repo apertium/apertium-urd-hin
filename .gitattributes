@@ -8,4 +8,5 @@ dev/conversion/adj.chopped.dix -text
 dev/conversion/nouns.chopped.dix -text
 dev/en-hi-ur.list -text
 /modes.xml -text
+/pending-tests.sh -text
 /ur-hi.prob -text svneol=unset#unset

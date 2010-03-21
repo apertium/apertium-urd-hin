@@ -1,7 +1,9 @@
 <dictionary>
-  <alphabet>किपीडियाविविहिनदीकिपीडियापरवागतहैक्तजोकोकारदेताहैहिनदीमेंलेखअआइईउऊएओऐऔऋॠऌॡऍऑपािीुूेोैौृॄॢॣॅॉपापिपीपुपूपेपोपैपौपृपॄपॢपॣपॅपॉथशबसबहुभाषीय</alphabet>
+  <alphabet>ँंःऄअआइईउऊऋऌऍऎएऐऑऒओऔकखगघङचछझजञटठडढणतथदधनऩपफबभमयरऱलळऴवशषसह़ऽािीुूृॄॅॆेैॉॊोौ्ॐ॓॔क़ख़ग़ज़ड़ढ़फ़य़ॠॡॢॣ०१२३४५६७८९ॱॲॻॼॽॾॿ</alphabet>
   <sdefs>
+    <sdef n="ant"     c="Anthroponym"/>
     <sdef n="n"       c="Noun"/>
+    <sdef n="np"      c="Proper noun"/>
     <sdef n="num"     c="Numeral"/>
     <sdef n="adj"     c="Adjective"/>
     <sdef n="adv"     c="Adverb"/>
@@ -58,8 +60,15 @@
       </e>
     </pardef>
 
-    <!-- Nouns -->
-
+    <!-- Nouns -->	
+    <pardef n="आमिल__n_m">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="ऊब__n_f">
       <e>
         <p>
@@ -1745,6 +1754,7 @@
     <e lm="होना"><i></i><par n="/होना__vbser"/></e>
 
     <!-- Nouns -->
+    <e lm="आमिल"><i>आमिल</i><par n="आमिल__n_m"/></e>
     <e lm="मसूरी"><i>मसूर</i><par n="ध/ी__n_f"/></e>
     <e lm="लकडबग्घा"><i>लकडबग्घ</i><par n="ध/ा__n_m"/></e>
     <e lm="परिहार"><i>परिहार</i><par n="ऐ__n_m"/></e>

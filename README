@@ -1,0 +1,12 @@
+This is a useful program for transliterating from Devanagari to IAST:
+
+  http://www.linguistik.uni-erlangen.de/~sakrause/transliterate/
+
+$ ./transliterate -f tmpfile -t iast
+दो हमलों में
+do hamaloṃ meṃ
+
+$ ./transliterate -f tmpfile -t iast
+आमिल की बेटी
+āmila kī beṭī
+

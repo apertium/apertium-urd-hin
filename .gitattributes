@@ -9,6 +9,7 @@ dev/conversion/adj.chopped.dix -text
 dev/conversion/nouns.chopped.dix -text
 dev/en-hi-ur.list -text
 dev/hi.txt -text svneol=unset#application/octet-stream
+dev/ur.txt -text
 dev/wikt-nouns.sh -text
 /modes.xml -text
 /pending-tests.sh -text

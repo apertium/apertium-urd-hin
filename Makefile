@@ -14,10 +14,10 @@ all:
 
 	# Hindi -> Urdu
 
-	#lt-comp lr $(BASENAME).$(LANG2).dix $(PREFIX2).automorf.bin
-	#lt-comp rl $(BASENAME).$(PREFIX1).dix $(PREFIX2).autobil.bin
-	#lt-comp rl $(BASENAME).$(LANG1).dix $(PREFIX2).autogen.bin
-	#apertium-preprocess-transfer $(BASENAME).$(PREFIX2).t1x $(PREFIX2).t1x.bin
+	lt-comp lr $(BASENAME).$(LANG2).dix $(PREFIX2).automorf.bin
+	lt-comp rl $(BASENAME).$(PREFIX1).dix $(PREFIX2).autobil.bin
+	lt-comp rl $(BASENAME).$(LANG1).dix $(PREFIX2).autogen.bin
+	apertium-preprocess-transfer $(BASENAME).$(PREFIX2).t1x $(PREFIX2).t1x.bin
 
 	apertium-gen-modes modes.xml
 	cp *.mode modes/

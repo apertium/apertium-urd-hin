@@ -1,4 +1,4 @@
-<dictionary>
+﻿<dictionary>
   <alphabet/>
   <sdefs>
     <sdef n="n"           c="Common noun"/>
@@ -8,26 +8,70 @@
     <sdef n="num"         c="Numeral"/>
     <sdef n="adv"         c="Adverb"/>
     <sdef n="adj"         c="Adjective"/>
+    <sdef n="prn"         c="Pronoun"/>
     <sdef n="post"        c="Postposition"/>
     <sdef n="vbser"       c="Verb (to be, honā)"/>
-    <sdef n="vblex"       c="Common verb"/>
+    <sdef n="vblex"       c="Verb"/>
+    <sdef n="vbmod"       c="Modal verb"/>
     <sdef n="np"          c="Proper noun"/>
+    <sdef n="pp" 	  c="Past participle"/> 
+    <sdef n="pri" 	  c="Present indicative"/> 
+    <sdef n="pr"          c="Preposition"/> 
+ 
+    <sdef n="nom"         c="Nominative"/>
+   
+    <sdef n="obl"         c="Oblique"/>
+    <sdef n="voc"         c="Vocative"/>
+    <sdef n="ind"         c="Indefinite"/>
+    
+    <sdef n="dem"         c="Demonstrative"/>
 
     <sdef n="f"           c="Feminine"/>
     <sdef n="m"           c="Masculine"/>
+    <sdef n="GD"          c="Gender dependent"/>
 
-    <sdef n="ind"         c="Indefinite"/>
+
+   
+    <sdef n="sg"          c="Singular"/>
+    <sdef n="pl"          c="Plural"/>
+    <sdef n="ND"          c="Nature dependent"/>
+    
+    <sdef n="p1"          c="First person"/>
+    <sdef n="p2"          c="Second person"/>
+    <sdef n="p3"          c="Third person"/>
+
+
+    <sdef n="inf"         c="Infinitive"/>
+    <sdef n="pres"        c="Present tense"/>
+    <sdef n="past" 	  c="Past"/> 
+
 
     <sdef n="ant"         c="Anthroponym"/>
+    <sdef n="sent"        c="Sentence marker"/>
   </sdefs>
-  <section id="main" type="standard">
+  
+
+<section id="main" type="standard">
+
+    <!-- Punctuation -->
+    
+     <e c="mark"><p><l>؟<s n="sent"/></l><r>?<s n="sent"/></r></p></e>
+     <e c="Full stop"><p><l>.<s n="sent"/></l><r>.<s n="sent"/></r></p></e>
+     <e c="exclamation mark"><p><l>!<s n="sent"/></l><r>!<s n="sent"/></r></p></e>
+     <e c="coma"><p><l>،<s n="sent"/></l><r>,<s n="sent"/></r></p></e>
+
+
     <!-- Conjunctions -->
     <e c="aur"><p><l>اور<s n="cnjcoo"/></l><r>और<s n="cnjcoo"/></r></p></e>
     <e c="ham"><p><l>ہم<s n="cnjcoo"/></l><r>हम<s n="cnjcoo"/></r></p></e>
+    <e c="Lakin"><p><l>لیکن<s n="cnjcoo"/></l><r>मगर<s n="cnjcoo"/></r></p></e>
 
     <e c="par"><p><l>پر<s n="cnjsub"/></l><r>पर<s n="cnjsub"/></r></p></e>
     <e c="agar"><p><l>اگر<s n="cnjsub"/></l><r>अगर<s n="cnjsub"/></r></p></e>
     <e c="agarce"><p><l>اگرچہ<s n="cnjsub"/></l><r>अगरचे<s n="cnjsub"/></r></p></e>
+    <e c="keh"><p><l>کہ<s n="cnjsub"/></l><r>कि<s n="cnjsub"/></r></p></e>
+    <e c="halanke"><p><l>حالانکہ<s n="cnjsub"/></l><r>हालांकि<s n="cnjsub"/></r></p></e>
+    <e c="ya"><p><l>یا<s n="cnjsub"/></l><r>या<s n="cnjsub"/></r></p></e>
 
     <!-- Postpositions -->
 
@@ -35,12 +79,15 @@
     <e c="se"><p><l>سے<s n="post"/></l><r>से<s n="post"/></r></p></e>
     <e c="mẽ"><p><l>میں<s n="post"/></l><r>में<s n="post"/></r></p></e>
     <e c="par"><p><l>پر<s n="post"/></l><r>पर<s n="post"/></r></p></e>
-    <e c="ko"><p><l>کو<s n="post"/></l><r><s n="post"/></r></p></e>
+    <e c="ko"><p><l>کو<s n="post"/></l><r>को<s n="post"/></r></p></e>
     <e c="kā"><p><l>کا<s n="post"/></l><r>का<s n="post"/></r></p></e>
+    <e c="ke"><p><l>کے<s n="post"/></l><r>के<s n="post"/></r></p></e>
+    <e c="ne"><p><l>نے<s n="post"/></l><r>ने<s n="post"/></r></p></e>
+    <e c="ne"><p><l>کی<s n="post"/></l><r>की<s n="post"/></r></p></e>
 
     <!-- Determiners -->
 
-    <e c="ek"><p><l>ایک<s n="det"/><s n="ind"/></l><r>एक<s n="det"/><s n="ind"/></r></p></e>
+
 
     <!-- Pronouns -->
 
@@ -51,7 +98,7 @@
     <e c="tīn"><p><l>تین<s n="num"/></l><r>तीन<s n="num"/></r></p></e>
     <e c="ćār"><p><l>چار<s n="num"/></l><r>चार<s n="num"/></r></p></e>
     <e c="pāca"><p><l>پانچ<s n="num"/></l><r>पाँच<s n="num"/></r></p></e>
-    <e c="ćhe"><p><l>چھہ<s n="num"/></l><r>छह<s n="num"/></r></p></e>
+    <e c="ćhe"><p><l>چھہ<s n="num"/></l><r>छः<s n="num"/></r></p></e>
     <e c="sāt"><p><l>سات<s n="num"/></l><r>सात<s n="num"/></r></p></e>
     <e c="āṭh"><p><l>آٹھ<s n="num"/></l><r>आठ<s n="num"/></r></p></e>
     <e c="nau"><p><l>نو<s n="num"/></l><r>नौ<s n="num"/></r></p></e>
@@ -140,6 +187,39 @@
 
     <!-- Nouns -->
 
+
+    <e c="kursi"><p><l>کرسی<s n="n"/><s n="f"/></l><r>कुर्सी<s n="n"/><s n="f"/></r></p></e>
+    <e c="maez"><p><l>میز<s n="n"/><s n="f"/></l><r>मेज<s n="n"/><s n="f"/></r></p></e>
+    <e c="logon"><p><l>لوگوں<s n="n"/><s n="m"/></l><r>लोगों<s n="n"/><s n="m"/></r></p></e>
+    <e c="sawal"><p><l>سوال<s n="n"/><s n="m"/></l><r>सवाल<s n="n"/><s n="m"/></r></p></e>
+    <e c="bol"><p><l>بول<s n="n"/><s n="m"/></l><r>बोल<s n="n"/><s n="m"/></r></p></e>
+    <e c="talash"><p><l>تلاش<s n="n"/><s n="f"/></l><r>खोज<s n="n"/><s n="f"/></r></p></e>
+    <e c="khatam"><p><l>ختم<s n="n"/><s n="m"/></l><r>समाप्त<s n="n"/><s n="m"/></r></p></e>
+    <e c="ginti"><p><l>گنتی<s n="n"/><s n="f"/></l><r>गिनती<s n="n"/><s n="f"/></r></p></e>
+    <e c="aisa"><p><l>ایسا<s n="n"/><s n="m"/></l><r>ऐसा<s n="n"/><s n="m"/></r></p></e>
+    <e c="gin"><p><l>گن<s n="n"/><s n="m"/></l><r>गुण<s n="n"/><s n="m"/></r></p></e>
+    <e c="dekh"><p><l>دیکھ<s n="n"/><s n="f"/></l><r>देख<s n="n"/><s n="f"/></r></p></e>
+    <e c="ankhon"><p><l>آنکھوں<s n="n"/><s n="f"/></l><r>आँखों<s n="n"/><s n="f"/></r></p></e>
+    <e c="chhup"><p><l>چھپ<s n="n"/><s n="m"/></l><r>छुप<s n="n"/><s n="m"/></r></p></e>
+    <e c="andar"><p><l>اندر<s n="n"/><s n="m"/></l><r>अंदर<s n="n"/><s n="m"/></r></p></e>
+    <e c="bachon"><p><l>بچوں<s n="n"/><s n="m"/></l><r>बच्चे<s n="n"/><s n="m"/></r></p></e>
+    <e c="bahin"><p><l>بہن<s n="n"/><s n="f"/></l><r>बहन<s n="n"/><s n="f"/></r></p></e>
+    <e c="hāth"><p><l>ہاتھ<s n="n"/><s n="m"/></l><r>हाथ<s n="n"/><s n="m"/></r></p></e>
+    <e c="bīllī"><p><l>بلی<s n="n"/><s n="f"/></l><r>बिल्ली<s n="n"/><s n="f"/></r></p></e>
+    <e c="dārakhāt"><p><l>درخت<s n="n"/><s n="m"/></l><r>पेड़<s n="n"/><s n="m"/></r></p></e>
+    <e c="khīrkī"><p><l>کھڑکی<s n="n"/><s n="f"/></l><r>खिड़की<s n="n"/><s n="f"/></r></p></e>
+    <e c="sāāl"><p><l>سال<s n="n"/><s n="m"/></l><r>बरस<s n="n"/><s n="m"/></r></p></e>
+    <e c="kuttā"><p><l>کتا<s n="n"/><s n="m"/></l><r>कुत्ता<s n="n"/><s n="m"/></r></p></e>
+    <e c="kuttāy"><p><l>کتے<s n="n"/><s n="m"/></l><r>कुत्ते<s n="n"/><s n="m"/></r></p></e>
+    <e c="kutton"><p><l>کتوں<s n="n"/><s n="m"/></l><r>कुत्तों<s n="n"/><s n="m"/></r></p></e>
+    <e c="maā"><p><l>ماں<s n="n"/><s n="f"/></l><r>माता<s n="n"/><s n="f"/></r></p></e>
+    <e c="lārki"><p><l>لڑکی<s n="n"/><s n="f"/></l><r>कन्या<s n="n"/><s n="f"/></r></p></e>
+    <e c="lārka"><p><l>لڑکا<s n="n"/><s n="m"/></l><r>बालक<s n="n"/><s n="m"/></r></p></e>
+    <e c="Khel"><p><l>کھیل<s n="n"/><s n="m"/></l><r>खेल<s n="n"/><s n="m"/></r></p></e>
+    <e c="James"><p><l>جیمز<s n="n"/><s n="m"/></l><r>जेम्स<s n="n"/><s n="m"/></r></p></e>
+    <e c="Māryām"><p><l>مریم<s n="n"/><s n="f"/></l><r>मरियम<s n="n"/><s n="f"/></r></p></e>
+    <e c="Thandāk"><p><l>ٹھنڈک<s n="n"/><s n="f"/></l><r>ठंडक<s n="n"/><s n="f"/></r></p></e> 
+    <e c="Bagāh"><p><l>باغ<s n="n"/><s n="m"/></l><r>बाग<s n="n"/><s n="m"/></r></p></e> 
     <e c="zabān"><p><l>زبان<s n="n"/><s n="f"/></l><r>ज़बान<s n="n"/><s n="f"/></r></p></e>
     <e c="bhāṣā"><p><l>بھاشا<s n="n"/><s n="f"/></l><r>भाषा<s n="n"/><s n="f"/></r></p></e>
 
@@ -149,42 +229,91 @@
     <e c="ādmī"><p><l>آدمی<s n="n"/><s n="m"/></l><r>आदमी<s n="n"/><s n="m"/></r></p></e>
     <e c="mard,ādmī" r="LR"><p><l>مرد<s n="n"/><s n="m"/></l><r>आदमी<s n="n"/><s n="m"/></r></p></e>
     <e c="puruṣ"><p><l>پرش<s n="n"/><s n="m"/></l><r>पुरुष<s n="n"/><s n="m"/></r></p></e>
-
+    <e c="wāqt"><p><l>وقت<s n="n"/><s n="m"/></l><r>समय<s n="n"/><s n="m"/></r></p></e>
     <e c="āj"><p><l>آج<s n="n"/><s n="m"/></l><r>आज<s n="n"/><s n="m"/></r></p></e>
     <e c="akhir"><p><l>آخر<s n="n"/><s n="m"/></l><r>आख़िर<s n="n"/><s n="m"/></r></p></e>
     <e c="zor"><p><l>زور<s n="n"/><s n="m"/></l><r>ज़ोर<s n="n"/><s n="m"/></r></p></e>
     <e c="saṅg"><p><l>سنگ<s n="n"/><s n="m"/></l><r>संग<s n="n"/><s n="m"/></r></p></e>
     <e c="mithyā"><p><l>متھیا<s n="n"/><s n="m"/></l><r>मिथ्या<s n="n"/><s n="m"/></r></p></e>
     <e c="jahez,dahej"><p><l>جہیز<s n="n"/><s n="m"/></l><r>दहेज<s n="n"/><s n="m"/></r></p></e>
-
+    <e c="'pāni"><p><l>پانی<s n="n"/><s n="m"/></l><r>पानी<s n="n"/><s n="m"/></r></p></e>
     <e c="'ilāqā"><p><l>علاقہ<s n="n"/><s n="m"/></l><r>इलाक़ा<s n="n"/><s n="m"/></r></p></e>
     <e c="masjid"><p><l>مسجد<s n="n"/><s n="m"/></l><r>मसजिद<s n="n"/><s n="m"/></r></p></e>
     <e c="namāz"><p><l>نماز<s n="n"/><s n="f"/></l><r>नमाज़<s n="n"/><s n="f"/></r></p></e>
-
+    <e c="parinda"><p><l>پرندہ<s n="n"/><s n="m"/></l><r>पंछी<s n="n"/><s n="m"/></r></p></e>
     <e c="muslim"><p><l>مسلم<s n="n"/><s n="m"/></l><r>मुस्लिम<s n="n"/><s n="m"/></r></p></e>
     <e c="musalmān"><p><l>مسلمان<s n="n"/><s n="m"/></l><r>मुसलमान<s n="n"/><s n="m"/></r></p></e>
     <e c="musalmānī"><p><l>مسلمانی<s n="n"/><s n="f"/></l><r><s n="n"/>मुसलमानी<s n="f"/></r></p></e>
-
+    <e c="janwār"><p><l>جانور<s n="n"/><s n="m"/></l><r>प्राणी<s n="n"/><s n="m"/></r></p></e>
     <e c="humlā"><p><l>حملہ<s n="n"/><s n="m"/></l><r>हमला<s n="n"/><s n="m"/></r></p></e>
-
+    <e c="ser"><p><l>سر<s n="n"/><s n="m"/></l><r>सिर<s n="n"/><s n="m"/></r></p></e>
     <e c="jagah"><p><l>جگہ<s n="n"/><s n="f"/></l><r>जगह<s n="n"/><s n="f"/></r></p></e>
     <e c="mašriq"><p><l>مشرق<s n="n"/><s n="m"/></l><r>पूर्व<s n="n"/><s n="m"/></r></p></e>
     <e c="nām"><p><l>نام<s n="n"/><s n="m"/></l><r>नाम<s n="n"/><s n="m"/></r></p></e>
-
+    <e c="awaaz"><p><l>آواز<s n="n"/><s n="m"/></l><r>आवाज़<s n="n"/><s n="m"/></r></p></e>
     <e c="pahāṛ"><p><l>پہاڑ<s n="n"/><s n="m"/></l><r>पहाड़<s n="n"/><s n="m"/></r></p></e>
     <e c="betī"><p><l>بیٹی<s n="n"/><s n="f"/></l><r>बेटी<s n="n"/><s n="f"/></r></p></e>
+    <e c="ghār"><p><l>گھر<s n="n"/><s n="m"/></l><r>घर<s n="n"/><s n="m"/></r></p></e>
+    <e c="dosre"><p><l>دوسرے<s n="n"/><s n="m"/></l><r>दूसरे<s n="n"/><s n="m"/></r></p></e>
+    <e c="hāns"><p><l>ہنس<s n="n"/><s n="m"/></l><r>हंस<s n="n"/><s n="m"/></r></p></e>
+    <e c="tāk"><p><l>تک<s n="n"/><s n="m"/></l><r>तक<s n="n"/><s n="m"/></r></p></e>
+
 
     <!-- Proper nouns -->
 
-    <e c="āmil"><p><l>عامل<s n="np"/><s n="ant"/><s n="m"/></l><r>आमिल<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e c="āmil"><p><l>عامل<s n="np"/><s n="ant"/><s n="m"/>></l><r>आमिल<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+   
+    <!-- Pronoun -->   
+   <e c="yeh"><p><l>یہ<s n="prn"/></l><r>यह<s n="prn"/></r></p></e>
+   <e c="woh"><p><l>وہ<s n="prn"/></l><r>वह<s n="prn"/></r></p></e>
+   <e c="uske"><p><l>اسکے<s n="prn"/></l><r>उसके<s n="prn"/></r></p></e>
+   <e c="un"><p><l>ان<s n="prn"/></l><r>इन<s n="prn"/></r></p></e>
+   <e c="aap"><p><l>آپ<s n="prn"/></l><r>आप<s n="prn"/></r></p></e>
+   <e c="uski"><p><l>اسکی<s n="prn"/></l><r>उसकी<s n="prn"/></r></p></e>
+   <e c="usay"><p><l>اسے<s n="prn"/></l><r>उसे<s n="prn"/></r></p></e>
+   <e c="tum"><p><l>تم<s n="prn"/></l><r>तुम<s n="prn"/></r></p></e>
+   <e c="apni"><p><l>اپنی<s n="prn"/></l><r>अपनी<s n="prn"/></r></p></e>
+   <e c="unho"><p><l>انہوں<s n="prn"/></l><r>उन्होंने<s n="prn"/></r></p></e>
+   <e c="mujhe"><p><l>مجھے<s n="prn"/></l><r>मुझे<s n="prn"/></r></p></e>
+   <e c="uska"><p><l>اسکا<s n="prn"/></l><r>उसका<s n="prn"/></r></p></e>
+   <e c="tumhe"><p><l>تمھیں<s n="prn"/></l><r>तुम्हें<s n="prn"/></r></p></e>
+   <e c="is"><p><l>اس<s n="prn"/></l><r>उस<s n="prn"/></r></p></e>
 
-    <!-- Adjectives -->
-
+   <!-- Adjectives -->
+  
+    <e c="sā"><p><l>سا<s n="adj"/></l><r>सा<s n="adj"/></r></p></e>
+    <e c="tārhan"><p><l>طرح<s n="adj"/></l><r>तरह<s n="adj"/></r></p></e>
+    <e c="Gārm"><p><l>گرم<s n="adj"/></l><r>गर्म<s n="adj"/></r></p></e>
     <e c="achhā"><p><l>اچھا<s n="adj"/></l><r>अच्छा<s n="adj"/></r></p></e>
     <e c="mithyā"><p><l>متھیا<s n="adj"/></l><r>मिथ्या<s n="adj"/></r></p></e>
+    <e c="Badāy"><p><l>بڑے<s n="adj"/></l><r>महान<s n="adj"/></r></p></e>
+    <e c="chhotā"><p><l>چھوٹا<s n="adj"/></l><r>छोटा<s n="adj"/></r></p></e>
+    <e c="chhotī"><p><l>چھوٹی<s n="adj"/></l><r>छोटी<s n="adj"/></r></p></e>
+    <e c="achhī"><p><l>اچھی<s n="adj"/></l><r>अच्छी<s n="adj"/></r></p></e>
+    <e c="khush"><p><l>خوش<s n="adj"/></l><r>ख़ुश<s n="adj"/></r></p></e>
+    <e c="purane"><p><l>پرانے<s n="adj"/></l><r>पुराने<s n="adj"/></r></p></e>  
+    <e c="kuch"><p><l>کچھ<s n="adj"/></l><r>कुछ<s n="adj"/></r></p></e>  
+    <e c="peche"><p><l>پیچھے<s n="adj"/></l><r>वापस<s n="adj"/></r></p></e>  
+    <e c="har"><p><l>ہر<s n="adj"/></l><r>हर<s n="adj"/></r></p></e>  
+    <e c="nazdeek"><p><l>نزدیک<s n="adj"/></l><r>नज़दीक<s n="adj"/></r></p></e>  
 
     <!-- Adverbs -->
 
+    <e c="wahan"><p><l>وہاں<s n="adv"/></l><r>वहां<s n="adv"/></r></p></e>
+    <e c="abhi"><p><l>ابھی<s n="adv"/></l><r>अभी<s n="adv"/></r></p></e>
+    <e c="kabhi"><p><l>کبھی<s n="adv"/></l><r>कभी<s n="adv"/></r></p></e>
+    <e c="tou"><p><l>تو<s n="adv"/></l><r>तो<s n="adv"/></r></p></e>
+    <e c="yaqeenan"><p><l>یقیناً<s n="adv"/></l><r>यक़ीनन<s n="adv"/></r></p></e>
+    <e c="dono"><p><l>دونوں<s n="adv"/></l><r>दोनों<s n="adv"/></r></p></e>
+    <e c="aāb"><p><l>اب<s n="adv"/></l><r>अब<s n="adv"/></r></p></e>
+    <e c="bhī"><p><l>بھی<s n="adv"/></l><r>भी<s n="adv"/></r></p></e>
+    <e c="samne"><p><l>سامنے<s n="adv"/></l><r>सामने<s n="adv"/></r></p></e>
+    <e c="Nahi"><p><l>نہیں<s n="adv"/></l><r>नहीं<s n="adv"/></r></p></e>
+    <e c="Baahir"><p><l>باھر<s n="adv"/></l><r>बाहर<s n="adv"/></r></p></e>
+    <e c="Tab"><p><l>تب<s n="adv"/></l><r>तब<s n="adv"/></r></p></e>
+    <e c="Buhat"><p><l>بہت<s n="adv"/></l><r>बहुत<s n="adv"/></r></p></e>
+    <e c="Mosām"><p><l>موسم<s n="adv"/></l><r>मौसम<s n="adv"/></r></p></e>
+    <e c="Kāhān"><p><l>کہاں<s n="adv"/></l><r>कहाँ<s n="adv"/></r></p></e>
     <e c="āj"><p><l>آج<s n="adv"/></l><r>आज<s n="adv"/></r></p></e>
     <e c="akhir"><p><l>آخر<s n="adv"/></l><r>आख़िर<s n="adv"/></r></p></e>
     <e c="achhā"><p><l>اچھا<s n="adv"/></l><r>अच्छा<s n="adv"/></r></p></e>
@@ -193,14 +322,87 @@
     <e c="saṅg"><p><l>سنگ<s n="adv"/></l><r>संग<s n="adv"/></r></p></e>
     <e c="mithyā"><p><l>متھیا<s n="adv"/></l><r>मिथ्या<s n="adv"/></r></p></e>
     <e c="ham"><p><l>ہم<s n="adv"/></l><r>हम<s n="adv"/></r></p></e>
+    <e c="Kāl"><p><l>کل<s n="adv"/></l><r>कल<s n="adv"/></r></p></e>
+    <e c="hameshā"><p><l>ہمیشہ<s n="adv"/></l><r>हमेशा<s n="adv"/></r></p></e>
+    <e c="jāldi"><p><l>جلدی<s n="adv"/></l><r>तेज़ी<s n="adv"/></r></p></e>
+    <e c="kyon"><p><l>کیوں<s n="adv"/></l><r>क्यों<s n="adv"/></r></p></e>
+    <e c="jab"><p><l>جب<s n="adv"/></l><r>जब<s n="adv"/></r></p></e>
+    <e c="ird"><p><l>ارد<s n="adv"/></l><r>इधर<s n="adv"/></r></p></e>    
+    <e c="gird"><p><l>گرد<s n="adv"/></l><r>उधर<s n="adv"/></r></p></e>
+    <e c="peche"><p><l>پیچھے<s n="adv"/></l><r>पीछे<s n="adv"/></r></p></e>
+    <e c="shayad"><p><l>شاید<s n="adv"/></l><r>शायद<s n="adv"/></r></p></e>
+    <e c="ahista"><p><l>آہستہ<s n="adv"/></l><r>धीरे<s n="adv"/></r></p></e>
+    <e c="phir"><p><l>پھر<s n="adv"/></l><r>फिर<s n="adv"/></r></p></e>
+    <e c="ehtiyat"><p><l>احتیاط<s n="adv"/></l><r>सावधानी<s n="adv"/></r></p></e>
+    <e c="koi"><p><l>کوئی<s n="adv"/></l><r>कोई<s n="adv"/></r></p></e>
+
 
     <!-- Verbs -->
     <e c="honā"><p><l>ہونا<s n="vbser"/></l><r>होना<s n="vbser"/></r></p></e>
-
+    <e c="hāi"><p><l>ہے<s n="vblex"/></l><r>है<s n="vblex"/></r></p></e>
+    <e c="hāin"><p><l>ہیں<s n="vblex"/></l><r>हैं<s n="vblex"/></r></p></e>
+    <e c="The"><p><l>تھی<s n="vblex"/></l><r>थी<s n="vblex"/></r></p></e>
     <e c="bolnā"><p><l>بولنا<s n="vblex"/></l><r>बोलना<s n="vblex"/></r></p></e>
     <e c="dauṛnā"><p><l>دوڑنا<s n="vblex"/></l><r>दौड़ना<s n="vblex"/></r></p></e>
     <e c="likhnā"><p><l>لکھنا<s n="vblex"/></l><r>लिखना<s n="vblex"/></r></p></e>
     <e c="sunnā"><p><l>سننا<s n="vblex"/></l><r>सुनना<s n="vblex"/></r></p></e>
+    <e c="sāke"><p><l>سکے<s n="vbmod"/></l><r>सके<s n="vbmod"/></r></p></e>
+    <e c="khelnā"><p><l>کھیلنا<s n="vblex"/></l><r>खेलना<s n="vblex"/></r></p></e>
+    <e c="pasānd"><p><l>پسند<s n="vblex"/></l><r>पसंद<s n="vblex"/></r></p></e>
+    <e c="kertā"><p><l>کرتا<s n="vblex"/></l><r>करता<s n="vblex"/></r></p></e>
+    <e c="kiyā"><p><l>کیا<s n="vblex"/></l><r>क्या<s n="vblex"/></r></p></e>
+    <e c="sou"><p><l>سو<s n="vblex"/></l><r>सौ<s n="vblex"/></r></p></e>
+    <e c="rāhi"><p><l>رہی<s n="vblex"/></l><r>रही<s n="vblex"/></r></p></e>
+    <e c="dekhti"><p><l>دیکھتی<s n="vblex"/></l><r>देखती<s n="vblex"/></r></p></e>
+    <e c="khelte"><p><l>کھیلتے<s n="vblex"/></l><r>खेलते<s n="vblex"/></r></p></e>
+    <e c="bhāgta"><p><l>بھاگتا<s n="vblex"/></l><r>भागता<s n="vblex"/></r></p></e>
+    <e c="rāha"><p><l>رہا<s n="vblex"/></l><r>रहा<s n="vblex"/></r></p></e>
+    <e c="jānte"><p><l>جانتے<s n="vblex"/></l><r>जानते<s n="vblex"/></r></p></e>
+    <e c="hou"><p><l>ہو<s n="vbser"/></l><r>हो<s n="vbser"/></r></p></e>
+    <e c="beithi"><p><l>بیٹھی<s n="vblex"/></l><r>बैठी<s n="vblex"/></r></p></e>
+    <e c="howi"><p><l>ہوئی<s n="vbser"/></l><r>हुई<s n="vbser"/></r></p></e>
+    <e c="kerti"><p><l>کرتی<s n="vblex"/></l><r>करती<s n="vblex"/></r></p></e>
+    <e c="ker"><p><l>کر<s n="vblex"/></l><r>कर<s n="vblex"/></r></p></e>
+    <e c="leti"><p><l>لیتی<s n="vblex"/></l><r>लेती<s n="vblex"/></r></p></e>
+    <e c="dekhā"><p><l>دیکھا<s n="vblex"/></l><r>देखा<s n="vblex"/></r></p></e>
+    <e c="jānti"><p><l>جانتی<s n="vblex"/></l><r>जानती<s n="vblex"/></r></p></e>
+    <e c="pouchti"><p><l>پوچھتی<s n="vblex"/></l><r>पूछती<s n="vblex"/></r></p></e>
+    <e c="saktā"><p><l>سکتا<s n="vblex"/></l><r>सकता<s n="vblex"/></r></p></e>
+    <e c="jawab"><p><l>جواب<s n="vblex"/></l><r>जवाब<s n="vblex"/></r></p></e>
+    <e c="milta"><p><l>ملتا<s n="vblex"/></l><r>मिलता<s n="vblex"/></r></p></e>
+    <e c="mila"><p><l>ملا<s n="vblex"/></l><r>मिला<s n="vblex"/></r></p></e>
+    <e c="bolte"><p><l>بولتے<s n="vblex"/></l><r>बोलते<s n="vblex"/></r></p></e>
+    <e c="sochti"><p><l>سوچتی<s n="vblex"/></l><r>सोचती<s n="vblex"/></r></p></e>
+    <e c="bātaein"><p><l>بتائیں<s n="vblex"/></l><r>बताएं<s n="vblex"/></r></p></e>
+    <e c="kehti"><p><l>کہتی<s n="vblex"/></l><r>कहती<s n="vblex"/></r></p></e>
+    <e c="batā"><p><l>بتا<s n="vblex"/></l><r>बता<s n="vblex"/></r></p></e>
+    <e c="sakti"><p><l>سکتی<s n="vblex"/></l><r>सकती<s n="vblex"/></r></p></e>
+    <e c="batanā"><p><l>بتانا<s n="vblex"/></l><r>बताना<s n="vblex"/></r></p></e>
+    <e c="chahti"><p><l>چاہتی<s n="vblex"/></l><r>चाहती<s n="vblex"/></r></p></e>
+    <e c="chalti"><p><l>چلتی<s n="vblex"/></l><r>चलती<s n="vblex"/></r></p></e>
+    <e c="kerne"><p><l>کرنے<s n="vblex"/></l><r>करने<s n="vblex"/></r></p></e>
+    <e c="koshish"><p><l>کوشش<s n="vblex"/></l><r>प्रयास<s n="vblex"/></r></p></e>
+    <e c="sunti"><p><l>سنتی<s n="vblex"/></l><r>सुन्नी<s n="vblex"/></r></p></e>
+    <e c="aā"><p><l>آ<s n="vblex"/></l><r>आ<s n="vblex"/></r></p></e>
+    <e c="aāti"><p><l>آتی<s n="vblex"/></l><r>आती<s n="vblex"/></r></p></e>
+    <e c="sun"><p><l>سن<s n="vblex"/></l><r>सुन<s n="vblex"/></r></p></e>
+    <e c="chahiye"><p><l>چاہئے<s n="vblex"/></l><r>चाहिए<s n="vblex"/></r></p></e>
+    <e c="jati"><p><l>جاتی<s n="vblex"/></l><r>जाती<s n="vblex"/></r></p></e>
+    <e c="hansti"><p><l>ہنستی<s n="vblex"/></l><r>हंसती<s n="vblex"/></r></p></e>
+    <e c="liya"><p><l>لیا<s n="vblex"/></l><r>लिया<s n="vblex"/></r></p></e>
+    <e c="jate"><p><l>جاتے<s n="vblex"/></l><r>जाते<s n="vblex"/></r></p></e>
+    <e c="khane"><p><l>کھانے<s n="vblex"/></l><r>खाने<s n="vblex"/></r></p></e>
+    <e c="peene"><p><l>پینے<s n="vblex"/></l><r>पीने<s n="vblex"/></r></p></e>
+    <e c="hoga"><p><l>ہوگا<s n="vblex"/></l><r>होगा<s n="vblex"/></r></p></e>
+    <e c="gayā"><p><l>گیا<s n="vblex"/></l><r>गया<s n="vblex"/></r></p></e>
+    <e c="deti"><p><l>دیتی<s n="vblex"/></l><r>देती<s n="vblex"/></r></p></e>
+    <e c="howe"><p><l>ھوے<s n="vblex"/></l><r>हुए<s n="vblex"/></r></p></e>
+    <e c="paas"><p><l>پاس<s n="vblex"/></l><r>पास<s n="vblex"/></r></p></e>
+
+    <!-- Prepositions -->
+    <e c="taraf"><p><l>طرف<s n="pr"/></l><r>ओर<s n="pr"/></r></p></e>
+    <e c="neche"><p><l>نیچے<s n="pr"/></l><r>नीचे<s n="pr"/></r></p></e>
+    <e c="sāth"><p><l>ساتھ<s n="pr"/></l><r>साथ<s n="pr"/></r></p></e>
 
   </section>
 </dictionary>

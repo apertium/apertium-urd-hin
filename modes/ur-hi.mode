@@ -1,3 +1,0 @@
-    
-    /usr/local/bin/lt-proc /home/myhome/apertium-ur-hi/ur-hi.automorf.bin |/usr/local/bin/apertium-tagger -g $2 /home/myhome/apertium-ur-hi/ur-hi.prob |/usr/local/bin/apertium-pretransfer|/usr/local/bin/apertium-transfer /home/myhome/apertium-ur-hi/apertium-ur-hi.ur-hi.t1x  /home/myhome/apertium-ur-hi/ur-hi.t1x.bin  /home/myhome/apertium-ur-hi/ur-hi.autobil.bin |/usr/local/bin/lt-proc $1 /home/myhome/apertium-ur-hi/ur-hi.autogen.bin 
-  

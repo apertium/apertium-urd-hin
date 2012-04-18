@@ -12,20 +12,7 @@ dev/en-hi-ur.list -text
 dev/hi.txt -text svneol=unset#application/octet-stream
 dev/ur.txt -text
 dev/wikt-nouns.sh -text
-/hi-ur.autobil.bin -text
-/hi-ur.autogen.bin -text
-/hi-ur.automorf.bin -text
 /hi-ur.prob -text svneol=unset#unset
-/hi-ur.t1x.bin -text
 /modes.xml -text
-modes/ur-hi-morph.mode -text
-modes/ur-hi-tagger.mode -text
-modes/ur-hi-transfer.mode -text
-modes/ur-hi.mode -text
 /pending-tests.sh -text
-/ur-hi.autobil.bin -text
-/ur-hi.autogen.bin -text
-/ur-hi.automorf.bin -text
-/ur-hi.mode -text
 /ur-hi.prob -text svneol=unset#unset
-/ur-hi.t1x.bin -text

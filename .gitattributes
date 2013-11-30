@@ -10,7 +10,6 @@ dev/conversion/adj.chopped.dix -text
 dev/conversion/nouns.chopped.dix -text
 dev/en-hi-ur.list -text
 dev/urdu-hindi.proofread.txt -text
-dev/urdu-hindi.txt -text
 dev/wikt-nouns.sh -text
 /hi-ur.prob -text svneol=unset#unset
 /modes.xml -text

@@ -1,3 +1,0 @@
-    
-    lt-proc /home/saladin/apertium-ur-hi/ur-hi.automorf.bin |apertium-tagger -g $2 /home/saladin/apertium-ur-hi/ur-hi.prob |apertium-pretransfer
-  

@@ -1497,7 +1497,6 @@
 
     <e lm="कि"><i>कि</i><par n="अगर__cnjsub"/></e>
     <e lm="िक"><i>िक</i><par n="अगर__cnjsub"/></e>
-    <e lm="अगर"><i>अगर</i><par n="अगर__cnjsub"/></e>	
 
 
 	<!-- Adverbial Conjunctions -->    
@@ -1506,11 +1505,12 @@
 	<e lm="फिर"><i>फिर</i><par n="क्योंकि__cnjadv"/></e>
 	<e lm="ताकि"><i>ताकि</i><par n="क्योंकि__cnjadv"/></e>
 	<e lm="तक"><i>तक</i><par n="क्योंकि__cnjadv"/></e>
-        <e lm="यदि"><i>यदि</i><par n="क्योंकि__cnjadv"/></e>	
-        <e lm="क्योंकि"><i>क्योंकि</i><par n="क्योंकि__cnjadv"/></e>	
-        <e lm="चूंकि"><i>चूंकि</i><par n="क्योंकि__cnjadv"/></e>	
-        <e lm="इसलिए"><i>इसलिए</i><par n="क्योंकि__cnjadv"/></e>
-        <e lm="चाहे"><i>चाहे</i><par n="क्योंकि__cnjadv"/></e>
+    <e lm="यदि"><i>यदि</i><par n="क्योंकि__cnjadv"/></e>	
+    <e lm="अगर"><i>अगर</i><par n="अगर__cnjsub"/></e>	
+    <e lm="क्योंकि"><i>क्योंकि</i><par n="क्योंकि__cnjadv"/></e>	
+    <e lm="चूंकि"><i>चूंकि</i><par n="क्योंकि__cnjadv"/></e>	
+    <e lm="इसलिए"><i>इसलिए</i><par n="क्योंकि__cnjadv"/></e>
+    <e lm="चाहे"><i>चाहे</i><par n="क्योंकि__cnjadv"/></e>
 
 	<!-- Numerals -->
 
@@ -36231,7 +36231,7 @@
 
        <!-- Adverbs -->   
 
-    <e lm="तो"><i>तो</i><par n="क्योंकि__cnjadv"/></e>
+   <e lm="तो"><i>तो</i><par n="क्योंकि__cnjadv"/></e>
     <e lm="देर"><i>देर</i><par n="गलत__adv"/></e>	
     <e lm="बीच"><i>बीच</i><par n="गलत__adv"/></e>	
     <e lm="कहॉं"><i>कहॉं</i><par n="गलत__adv"/></e>

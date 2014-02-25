@@ -3,6 +3,7 @@
 /README -text
 /apertium-ur-hi.hi-ur.t1x -text
 /apertium-ur-hi.hi.dix -text
+/apertium-ur-hi.hi.dix~ -text
 /apertium-ur-hi.ur-hi.dix -text
 /apertium-ur-hi.ur-hi.t1x -text
 /apertium-ur-hi.ur.dix -text
@@ -26,9 +27,26 @@ dev/conversion/nouns.chopped.dix -text
 dev/en-hi-ur.list -text
 dev/urdu-hindi.proofread.txt -text
 dev/wikt-nouns.sh -text
+/hi-ur.autobil.bin -text
+/hi-ur.autogen.bin -text svneol=unset#unset
+/hi-ur.automorf.bin -text
 /hi-ur.prob -text svneol=unset#unset
+/hi-ur.t1x.bin -text
 /modes.xml -text
+modes/ur-hi-morph.mode -text
+modes/ur-hi-tagger.mode -text
+modes/ur-hi-transfer.mode -text
+modes/ur-hi.mode -text
 /pending-tests.sh -text
 texts/story.hin.txt -text svneol=unset#application/octet-stream
 texts/story.urd.txt -text
+texts/story_new.urd.txt -text svneol=unset#application/octet-stream
+texts/story_new_orig.hin.txt -text svneol=unset#application/octet-stream
+texts/story_new_translated.hin.txt -text svneol=unset#application/octet-stream
+/ur-hi.autobil.bin -text
+/ur-hi.autogen.bin -text
+/ur-hi.automorf.bin -text svneol=unset#unset
+/ur-hi.mode -text
 /ur-hi.prob -text svneol=unset#unset
+/ur-hi.t1x.bin -text
+/ur-hi.t1x.class -text

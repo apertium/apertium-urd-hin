@@ -14,7 +14,7 @@
     <sdef n="gen"     c="Genitive"/>        
     <sdef n="adv"     c="Adverb"/>     
     <sdef n="det"     c="Determiner"/>     
-    <sdef n="pos"    c="Postposition"/>     
+    <sdef n="post"    c="Postposition"/>     
     <sdef n="vblex"   c="Verb"/>     
 	<sdef n="frm"	  c="formal"/>
     <sdef n="vbser"   c="Verb 'to be'"/>     
@@ -37,7 +37,6 @@
     <sdef n="itg"     c="interrogative"/>     
     <sdef n="nom"     c="Nominative"/>     
     <sdef n="obl"     c="Oblique"/>        
-    <sdef n="pos"     c=""/> 
     <sdef n="qnt"     c=""/>            
     <sdef n="ind"     c="Indefinite"/>        
     <sdef n="pr"      c="Preposition"/>      
@@ -96,16 +95,16 @@
 
     <!-- Postpositions -->
 
-    <e c="binā"><p><l>بنا<s n="pos"/></l><r>बिना<s n="pos"/></r></p></e>
-    <e c="binā" r="LR"><p><l>بِنا<s n="pos"/></l><r>बिना<s n="pos"/></r></p></e>
-    <e c="āge"><p><l>آگے<s n="pos"/></l><r>आगे<s n="pos"/></r></p></e>
-    <e c="lie"><p><l>لئے<s n="pos"/></l><r>लिए<s n="pos"/></r></p></e>
-    <e c="se"><p><l>سے<s n="pos"/></l><r>से<s n="pos"/></r></p></e>
-    <e c="mẽ"><p><l>میں<s n="pos"/></l><r>में<s n="pos"/></r></p></e>
-    <e c="par"><p><l>پر<s n="pos"/></l><r>पर<s n="pos"/></r></p></e>
-    <e c="ko"><p><l>کو<s n="pos"/></l><r>को<s n="pos"/></r></p></e>
-    <e c="kā"><p><l>کا<s n="pos"/></l><r>का<s n="pos"/></r></p></e>
-    <e c="ne"><p><l>نے<s n="pos"/></l><r>ने<s n="pos"/></r></p></e>
+    <e c="binā"><p><l>بنا<s n="post"/></l><r>बिना<s n="post"/></r></p></e>
+    <e c="binā" r="LR"><p><l>بِنا<s n="post"/></l><r>बिना<s n="post"/></r></p></e>
+    <e c="āge"><p><l>آگے<s n="post"/></l><r>आगे<s n="post"/></r></p></e>
+    <e c="lie"><p><l>لئے<s n="post"/></l><r>लिए<s n="post"/></r></p></e>
+    <e c="se"><p><l>سے<s n="post"/></l><r>से<s n="post"/></r></p></e>
+    <e c="mẽ"><p><l>میں<s n="post"/></l><r>में<s n="post"/></r></p></e>
+    <e c="par"><p><l>پر<s n="post"/></l><r>पर<s n="post"/></r></p></e>
+    <e c="ko"><p><l>کو<s n="post"/></l><r>को<s n="post"/></r></p></e>
+    <e c="kā"><p><l>کا<s n="post"/></l><r>का<s n="post"/></r></p></e>
+    <e c="ne"><p><l>نے<s n="post"/></l><r>ने<s n="post"/></r></p></e>
 
     <!-- Determiners -->
 
@@ -306,7 +305,7 @@
     <e c="mallika"><p><l>ملکہ<s n="n"/><s n="f"/></l><r>रानी<s n="n"/><s n="f"/></r></p></e> 
     <e c="adda"><p><l>اڈا<s n="n"/><s n="m"/></l><r>अड्डा<s n="n"/><s n="m"/></r></p></e> 
     <e c="zardi"><p><l>زردی<s n="n"/><s n="f"/></l><r>जर्दी<s n="n"/><s n="f"/></r></p></e> 
-    <e c="janaaza"><p><l>جنازہ<s n="n"/><s n="m"/></l><r>शवयात्रा<s n="n"/><s n="f"/></r></p></e> <!--Done- BUG CHANGED अंतिम संस्कार TO जनाज़ा-->
+    <e c="janaaza"><p><l>جنازہ<s n="n"/><s n="m"/></l><r>शवयात्रा<s n="n"/><s n="f"/></r></p></e> <!--Done: BUG CHANGED अंतिम संस्कार TO जनाज़ा-->
     <e c="wali"><p><l>ولی<s n="n"/><s n="m"/></l><r>वली<s n="n"/><s n="m"/></r></p></e> 
     <e c="haqiqat"><p><l>حقیقت<s n="n"/><s n="f"/></l><r>वास्तविकता<s n="n"/><s n="f"/></r></p></e> 
     <e c="patthar"><p><l>پتھّر<s n="n"/><s n="m"/></l><r>पत्थर<s n="n"/><s n="m"/></r></p></e> 
@@ -352,9 +351,9 @@
     <e c="gardish"><p><l>گردش<s n="n"/><s n="f"/></l><r>चक्कर<s n="n"/><s n="m"/></r></p></e> 
     <e c="shrah"><p><l>شرح<s n="n"/><s n="f"/></l><r>दर<s n="n"/><s n="f"/></r></p></e> 
     <e c="cotton"><p><l>کاٹن<s n="n"/><s n="m"/></l><r>कपास<s n="n"/><s n="m"/></r></p></e> 
-    <e c="azaan"><p><l>آذان<s n="n"/><s n="f"/></l><r>अज़ान<s n="n"/><s n="f"/></r></p></e> <!--Done- BUG CHANGED अज़ान TO फोन-->
+    <e c="azaan"><p><l>آذان<s n="n"/><s n="f"/></l><r>अज़ान<s n="n"/><s n="f"/></r></p></e> <!--Done: BUG CHANGED अज़ान TO फोन-->
     <e c="jhooth"><p><l>جھوٹ<s n="n"/><s n="m"/></l><r>झूठ<s n="n"/><s n="m"/></r></p></e> 
-    <e c="bangla" r="LR"><p><l>بنگلہ<s n="n"/><s n="m"/></l><r>बंगला<s n="n"/><s n="m"/></r></p></e> <!--Done- BUG CHANGED बांग्लादेश TO बंगला-->
+    <e c="bangla" r="LR"><p><l>بنگلہ<s n="n"/><s n="m"/></l><r>बंगला<s n="n"/><s n="m"/></r></p></e> <!--Done: BUG CHANGED बांग्लादेश TO बंगला-->
     <e c="neend"><p><l>نیند<s n="n"/><s n="f"/></l><r>नींद<s n="n"/><s n="f"/></r></p></e> 
     <e c="falsafa"><p><l>فلسفہ<s n="n"/><s n="m"/></l><r>दर्शनशास्त्र<s n="n"/><s n="m"/></r></p></e> 
     <e c="faisla"><p><l>فیصلہ<s n="n"/><s n="m"/></l><r>निर्णय<s n="n"/><s n="m"/></r></p></e> 
@@ -370,7 +369,7 @@
     <e c="kinaara"><p><l>کنارہ<s n="n"/><s n="m"/></l><r>किनारा<s n="n"/><s n="m"/></r></p></e> 
     <e c="pakhana"><p><l>پاخانہ<s n="n"/><s n="m"/></l><r>मल<s n="n"/><s n="m"/></r></p></e> 
     <e c="bagal"><p><l>بغل<s n="n"/><s n="m"/></l><r>बगल<s n="n"/><s n="m"/></r></p></e> 
-    <e c="basta"><p><l>بستہ<s n="n"/><s n="m"/></l><r>बस्ता<s n="n"/><s n="m"/></r></p></e> <!--Done- BUG CHANGED बस्ता TO  जोड़कर-->
+    <e c="basta"><p><l>بستہ<s n="n"/><s n="m"/></l><r>बस्ता<s n="n"/><s n="m"/></r></p></e> <!--Done: BUG CHANGED बस्ता TO  जोड़कर-->
     <e c="naak"><p><l>ناک<s n="n"/><s n="f"/></l><r>नाक<s n="n"/><s n="f"/></r></p></e> 
     <e c="hirni"><p><l>ہرنی<s n="n"/><s n="f"/></l><r>हिरनी<s n="n"/><s n="f"/></r></p></e> 
     <e c="khawand" r="LR"><p><l>خاوند<s n="n"/><s n="m"/></l><r>पति<s n="n"/><s n="m"/></r></p></e> 
@@ -379,7 +378,7 @@
     <e c="jin" r="LR"><p><l>جنّ<s n="n"/><s n="m"/></l><r>जिन<s n="n"/><s n="m"/></r></p></e> 
     <e c="sofa"><p><l>صوفہ<s n="n"/><s n="m"/></l><r>सोफा<s n="n"/><s n="m"/></r></p></e> 
     <e c="meena"><p><l>مینہ<s n="n"/><s n="f"/></l><r>वर्षा<s n="n"/><s n="f"/></r></p></e> 
-    <e c="umrah"><p><l>عمرہ<s n="n"/><s n="f"/></l><r>यात्रा<s n="n"/><s n="f"/></r></p></e> <!--Done- BUG CHANGED  TO यात्रा-->
+    <e c="umrah"><p><l>عمرہ<s n="n"/><s n="f"/></l><r>यात्रा<s n="n"/><s n="f"/></r></p></e> <!--Done: BUG CHANGED  TO यात्रा-->
     <e c="qaida"><p><l>قاعدہ<s n="n"/><s n="m"/></l><r>नियम<s n="n"/><s n="m"/></r></p></e> 
     <e c="muraqe"><p><l>مرقع<s n="n"/><s n="m"/></l><r>एलबम<s n="n"/><s n="f"/></r></p></e> 
     <e c="angaara"><p><l>انگارا<s n="n"/><s n="m"/></l><r>अंगारा<s n="n"/><s n="m"/></r></p></e> 
@@ -388,7 +387,7 @@
     <e c="store"><p><l>سٹور<s n="n"/><s n="m"/></l><r>दुकान<s n="n"/><s n="f"/></r></p></e> 
     <e c="salfachi"><p><l>سلفچی<s n="n"/><s n="f"/></l><r>चिलमची<s n="n"/><s n="f"/></r></p></e> 
     <e c="tanaav"><p><l>تناؤ<s n="n"/><s n="m"/></l><r>तनाव<s n="n"/><s n="m"/></r></p></e> 
-    <e c="qadr"><p><l>قدر<s n="n"/><s n="f"/></l><r>मूल्य<s n="n"/><s n="m"/></r></p></e> <!--Done- BUG CHANGED मान TO मूल्य-->
+    <e c="qadr"><p><l>قدر<s n="n"/><s n="f"/></l><r>मूल्य<s n="n"/><s n="m"/></r></p></e> <!--Done: BUG CHANGED मान TO मूल्य-->
     <e c="mukhaalif"><p><l>مخالف<s n="n"/><s n="m"/></l><r>विरोधी<s n="n"/><s n="m"/></r></p></e> 
     <e c="najomi"><p><l>نجومی<s n="n"/><s n="m"/></l><r>ज्योतिषी<s n="n"/><s n="m"/></r></p></e> 
     <e c="paisa"><p><l>پیسا<s n="n"/><s n="m"/></l><r>पैसा<s n="n"/><s n="m"/></r></p></e> 
@@ -414,7 +413,7 @@
     <e c="chaman"><p><l>چمن<s n="n"/><s n="m"/></l><r>चमन<s n="n"/><s n="m"/></r></p></e> 
     <e c="daud"><p><l>دوڑ<s n="n"/><s n="f"/></l><r>दौड़<s n="n"/><s n="f"/></r></p></e> 
     <e c="jalebi"><p><l>جلیبی<s n="n"/><s n="f"/></l><r>जलेबी<s n="n"/><s n="f"/></r></p></e> 
-    <e c="shanas"><p><l>شناس<s n="n"/><s n="m"/></l><r>परिचित<s n="n"/><s n="m"/></r></p></e> <!--Done- BUG CHANGED ननवा TO परिचित-->
+    <e c="shanas"><p><l>شناس<s n="n"/><s n="m"/></l><r>परिचित<s n="n"/><s n="m"/></r></p></e> <!--Done: BUG CHANGED ननवा TO परिचित-->
     <e c="aam"><p><l>آم<s n="n"/><s n="m"/></l><r>आम<s n="n"/><s n="m"/></r></p></e> 
     <e c="command"><p><l>کمانڈ<s n="n"/><s n="f"/></l><r>आदेश<s n="n"/><s n="m"/></r></p></e> 
     <e c="cheel"><p><l>چیل<s n="n"/><s n="f"/></l><r>चील<s n="n"/><s n="f"/></r></p></e> 
@@ -477,7 +476,7 @@
     <e c="masrufiyat"><p><l>مصروفیت<s n="n"/><s n="f"/></l><r>व्यस्तता<s n="n"/><s n="f"/></r></p></e> 
     <e c="mutlashi"><p><l>متلاشی<s n="n"/><s n="m"/></l><r>खोजकर्ता<s n="n"/><s n="m"/></r></p></e> 
     <e c="muqabil"><p><l>مقابل<s n="n"/><s n="m"/></l><r>प्रतियोगी<s n="n"/><s n="m"/></r></p></e> 
-    <e c="tila"><p><l>ٹیلا<s n="n"/><s n="m"/></l><r>टीला<s n="n"/><s n="m"/></r></p></e> <!--Done- BUG CHANGED पहाड़ी TO टीला-->
+    <e c="tila"><p><l>ٹیلا<s n="n"/><s n="m"/></l><r>टीला<s n="n"/><s n="m"/></r></p></e> <!--Done: BUG CHANGED पहाड़ी TO टीला-->
     <e c="marashi" r="LR"><p><l>میراثی<s n="n"/><s n="f"/></l><r>विरासत<s n="n"/><s n="f"/></r></p></e> 
     <e c="adalat"><p><l>عدالت<s n="n"/><s n="m"/></l><r>अदालत<s n="n"/><s n="f"/></r></p></e> 
     <e c="mulazim"><p><l>ملازم<s n="n"/><s n="m"/></l><r>कर्मचारी<s n="n"/><s n="m"/></r></p></e> 
@@ -491,7 +490,7 @@
     <e c="tabeez"><p><l>تعویذ<s n="n"/><s n="m"/></l><r>लॉकेट<s n="n"/><s n="m"/></r></p></e> 
     <e c="wirsa"><p><l>ورثہ<s n="n"/><s n="m"/></l><r>विरासत<s n="n"/><s n="f"/></r></p></e> 
     <e c="bashar"><p><l>بشر<s n="n"/><s n="m"/></l><r>पृथ्वीवासी<s n="n"/><s n="m"/></r></p></e> 
-    <e c="kasba"><p><l>قصبہ<s n="n"/><s n="m"/></l><r>कस्बा<s n="n"/><s n="m"/></r></p></e> <!--Done- BUG CHANGED कस्बा TO  कस्बे-->
+    <e c="kasba"><p><l>قصبہ<s n="n"/><s n="m"/></l><r>कस्बा<s n="n"/><s n="m"/></r></p></e> <!--Done: BUG CHANGED कस्बा TO  कस्बे-->
     <e c="party"><p><l>پارٹی<s n="n"/><s n="f"/></l><r>पार्टी<s n="n"/><s n="f"/></r></p></e> 
     <e c="kiyari"><p><l>کیاری<s n="n"/><s n="f"/></l><r>क्यारी<s n="n"/><s n="f"/></r></p></e> 
     <e c="chhutkara"><p><l>چھٹکارہ<s n="n"/><s n="m"/></l><r>छुटकारा<s n="n"/><s n="m"/></r></p></e> 
@@ -503,7 +502,7 @@
     <e c="tanga"><p><l>تانگا<s n="n"/><s n="m"/></l><r>टोंगा<s n="n"/><s n="m"/></r></p></e> 
     <e c="namoona"><p><l>نمونہ<s n="n"/><s n="m"/></l><r>नमूना<s n="n"/><s n="m"/></r></p></e> 
     <e c="malba"><p><l>ملبہ<s n="n"/><s n="m"/></l><r>मलबा<s n="n"/><s n="m"/></r></p></e> 
-    <e c="mohalla"><p><l>محلّہ<s n="n"/><s n="m"/></l><r>मोहल्ला<s n="n"/><s n="m"/></r></p></e> <!--Done- BUG CHANGED मुहल्ला TO मोहल्ला-->
+    <e c="mohalla"><p><l>محلّہ<s n="n"/><s n="m"/></l><r>मोहल्ला<s n="n"/><s n="m"/></r></p></e> <!--Done: BUG CHANGED मुहल्ला TO मोहल्ला-->
     <e c="naari"><p><l>ناری<s n="n"/><s n="f"/></l><r>नारी<s n="n"/><s n="f"/></r></p></e> 
     <e c="gurda"><p><l>گردہ<s n="n"/><s n="m"/></l><r>गुर्दा<s n="n"/><s n="m"/></r></p></e> 
     <e c="naukar"><p><l>نوکر<s n="n"/><s n="m"/></l><r>नौकर<s n="n"/><s n="m"/></r></p></e> 
@@ -712,7 +711,7 @@
     <e><p><l>پوسٹ<s n="n"/><s n="f"/></l><r>डाक<s n="n"/><s n="f"/></r></p></e> 
     <e><p><l>گلوری<s n="n"/><s n="f"/></l><r>महिमा<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ڈبا<s n="n"/><s n="m"/></l><r>डिब्बा<s n="n"/><s n="m"/></r></p></e> 
-    <e><p><l>نگاہ<s n="n"/><s n="f"/></l><r>निगाह<s n="n"/><s n="f"/></r></p></e>>
+    <e><p><l>نگاہ<s n="n"/><s n="f"/></l><r>निगाह<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>بندہ<s n="n"/><s n="m"/></l><r>बंदा<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>نکڑ<s n="n"/><s n="m"/></l><r>नुक्कड<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>صوفی<s n="n"/><s n="m"/></l><r>सूफी<s n="n"/><s n="m"/></r></p></e> 
@@ -884,7 +883,7 @@
     <e><p><l>دارالخلافہ<s n="n"/><s n="m"/></l><r>राजधानी<s n="n"/><s n="f"/></r></p></e> 
     <e><p><l>دھاگا<s n="n"/><s n="m"/></l><r>धागा<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>سطر<s n="n"/><s n="f"/></l><r>पंक्ति<s n="n"/><s n="f"/></r></p></e> 
-    <e><p><l>کعبہ<s n="n"/><s n="m"/></l><r>काबा<s n="n"/><s n="m"/>n="m"/></r></p></e> 
+    <e><p><l>کعبہ<s n="n"/><s n="m"/></l><r>काबा<s n="n"/><s n="m"/><s n="m"/></r></p></e> 
     <e><p><l>اِحْسان<s n="n"/><s n="m"/></l><r>एहसान<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>مالک<s n="n"/><s n="m"/></l><r>मालिक<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>کوکھ<s n="n"/><s n="f"/></l><r>कोख<s n="n"/><s n="f"/></r></p></e> 
@@ -2167,9 +2166,9 @@
     <e><p><l>کھیجھ<s n="vblex"/></l><r>खीझ<s n="vblex"/></r></p></e>
 
     <!-- Prepositions -->
-    <e c="taraf"><p><l>طرف<s n="pos"/></l><r>ओर<s n="pos"/></r></p></e>
-    <e c="neche"><p><l>نیچے<s n="pos"/></l><r>नीचे<s n="pos"/></r></p></e>
-    <e c="sāth"><p><l>ساتھ<s n="pos"/></l><r>साथ<s n="pos"/></r></p></e>
+    <e c="taraf"><p><l>طرف<s n="post"/></l><r>ओर<s n="post"/></r></p></e>
+    <e c="neche"><p><l>نیچے<s n="post"/></l><r>नीचे<s n="post"/></r></p></e>
+    <e c="sāth"><p><l>ساتھ<s n="post"/></l><r>साथ<s n="post"/></r></p></e>
 
   </section>
 

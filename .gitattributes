@@ -1,9 +1,16 @@
 * text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
 /apertium-urd-hin.hin-urd.t1x -text
 /apertium-urd-hin.hin.dix -text
 /apertium-urd-hin.urd-hin.dix -text
 /apertium-urd-hin.urd-hin.t1x -text
 /apertium-urd-hin.urd.dix -text
+/autogen.sh -text
 /configure.ac -text
 dev/bidix/ur-hi.nouns.00 -text
 dev/bidix/ur-hi.nouns.01 -text

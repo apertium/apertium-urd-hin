@@ -7,13 +7,13 @@
 /README -text
 /apertium-urd-hin.hin-urd.lrx -text
 /apertium-urd-hin.hin-urd.t1x -text
-/apertium-urd-hin.hin.dix -text
 /apertium-urd-hin.urd-hin.dix -text
 /apertium-urd-hin.urd-hin.lrx -text
 /apertium-urd-hin.urd-hin.t1x -text
-/apertium-urd-hin.urd.dix -text
 /autogen.sh -text
 /configure.ac -text
+dev/archive/apertium-urd-hin.hin.dix -text
+dev/archive/apertium-urd-hin.urd.dix -text
 dev/bidix/ur-hi.nouns.00 -text
 dev/bidix/ur-hi.nouns.01 -text
 dev/bidix/ur-hi.nouns.02 -text

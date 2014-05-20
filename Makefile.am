@@ -66,7 +66,7 @@ $(PREFIX1).t1x.bin: $(BASENAME).$(PREFIX1).t1x
 	apertium-validate-transfer $<
 	apertium-preprocess-transfer $< $@
 
-$(PREFIX1).autogen.bin: $(BASENAME).$(LANG2).dix
+$(PREFIX1).autogen.bin: $(AP_SRC2)/apertium-$(LANG2).$(LANG2).dix
 	apertium-validate-dictionary $<
 	lt-comp rl $< $@
 

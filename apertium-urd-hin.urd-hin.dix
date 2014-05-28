@@ -3,7 +3,7 @@
   <sdefs>
     <sdef n="n"       c="Noun"/>     
 	<sdef n="np"      c="Proper noun"/>
-	<sdef n="ant"     c=""/>
+	<sdef n="ant"     c="Anthroponym"/>
 	<sdef n="top"     c=""/>
 	<sdef n="subj"    c="subject"/>
     <sdef n="num"     c="Numeral"/>     
@@ -16,7 +16,8 @@
     <sdef n="det"     c="Determiner"/>     
     <sdef n="post"    c="Postposition"/>     
     <sdef n="vblex"   c="Verb"/>     
-	<sdef n="frm"	  c="formal"/>
+    <sdef n="frm"     c="Formal"/>
+    <sdef n="fam"     c="Familiar"/>
     <sdef n="vbser"   c="Verb 'to be'"/>     
     <sdef n="cnjcoo"  c="Co-ordinating conjunction"/>     
     <sdef n="cnjsub"  c="Sub-ordinating conjunction"/>        
@@ -27,18 +28,21 @@
     <sdef n="mf"      c=""/>        
     <sdef n="vaux"    c=""/>     
     <sdef n="sg"      c="Singular"/>     
-    <sdef n="pl"      c="Plural"/>     
-    <sdef n="ekam"      c=""/>
-    <sdef n="ekam_ne"      c=""/>
-    <sdef n="dvi"      c=""/>
-    <sdef n="shat_ke"      c=""/>
-    <sdef n="shat_ki"      c=""/>
-    <sdef n="shat_ka"      c=""/>         
-    <sdef n="itg"     c="interrogative"/>     
+    <sdef n="pl"      c="Plural"/>      
+    <sdef n="acc"      c="accusative"/>
+    <sdef n="ins"      c="instrumental"/>
+    <sdef n="loc"      c="Locative"/> 
+    <sdef n="rel"     c="Relative"/> 
+    <sdef n="dem"     c="Demonstrative"/>
+    <sdef n="prx"     c="Proximate"/>
+    <sdef n="dst"     c="Distal"/>          
+    <sdef n="aa"      c="Animate"/>
+    <sdef n="nn"      c="Inanimate"/>
+    <sdef n="itg"     c="Interrogative"/>     
     <sdef n="nom"     c="Nominative"/>     
     <sdef n="obl"     c="Oblique"/>        
+    <sdef n="pos"     c="Possessive"/> 
     <sdef n="qnt"     c=""/>            
-    <sdef n="ind"     c="Indefinite"/>        
     <sdef n="pr"      c="Preposition"/>      
     <sdef n="p1"      c="First person"/>     
     <sdef n="p2"      c="Second person"/>     
@@ -46,7 +50,7 @@
     <sdef n="inf"     c="Infinitive"/>     
     <sdef n="pres"    c="Present tense"/>        
     <sdef n="past"    c="Past tense"/>     
-	<sdef n="impf"    c=" Imperfective participle"/>
+	<sdef n="impf"    c="Imperfective participle"/>
 	<sdef n="perf"     c="Perfective participle"/>     
 	<sdef n="tv"     c="transitive"/> 	
 	<sdef n="iv"     c="intransitive"/> 	
@@ -66,6 +70,7 @@
     <sdef n="lquot"      c="Left quote"/>
     <sdef n="rquot"      c="Right quote"/>
     <sdef n="guio"       c="Hyphen"/>
+
 
 
 
@@ -99,13 +104,15 @@
     <e c="binā"><p><l>بنا<s n="post"/></l><r>बिना<s n="post"/></r></p></e>
     <e c="binā" r="LR"><p><l>بِنا<s n="post"/></l><r>बिना<s n="post"/></r></p></e>
     <e c="āge"><p><l>آگے<s n="post"/></l><r>आगे<s n="post"/></r></p></e>
-    <e c="lie"><p><l>لئے<s n="post"/></l><r>लिए<s n="post"/></r></p></e>
+    <e c="lie" r="LR"><p><l>لئے<s n="post"/></l><r>लिए<s n="post"/></r></p></e>
     <e c="se"><p><l>سے<s n="post"/></l><r>से<s n="post"/></r></p></e>
     <e c="mẽ"><p><l>میں<s n="post"/></l><r>में<s n="post"/></r></p></e>
     <e c="par"><p><l>پر<s n="post"/></l><r>पर<s n="post"/></r></p></e>
     <e c="ko"><p><l>کو<s n="post"/></l><r>को<s n="post"/></r></p></e>
     <e c="kā"><p><l>کا<s n="post"/></l><r>का<s n="post"/></r></p></e>
     <e c="ne"><p><l>نے<s n="post"/></l><r>ने<s n="post"/></r></p></e>
+    <e c="lie"><p><l>لیے<s n="post"/></l><r>लिए<s n="post"/></r></p></e>
+
 
     <!-- Determiners -->
 
@@ -208,6 +215,23 @@
 
     <!-- Nouns -->
 
+    <e c="bulandi"><p><l>بلندی<s n="n"/><s n="f"/></l><r>बुलंदी<s n="n"/><s n="f"/></r></p></e>
+    <e c="shaher"><p><l>شہر<s n="n"/><s n="m"/></l><r>शहर<s n="n"/><s n="m"/></r></p></e>
+    <e c="majmua"><p><l>مجموعہ<s n="n"/><s n="m"/></l><r>संग्रह<s n="n"/><s n="m"/></r></p></e>
+    <e c="kilometer"><p><l>کیلومیٹر<s n="n"/><s n="m"/></l><r>किलोमीटर<s n="n"/><s n="m"/></r></p></e>
+    <e c="taur"><p><l>طور<s n="n"/><s n="m"/></l><r>तौर<s n="n"/><s n="m"/></r></p></e>
+    <e c="darya" r="RL"><p><l>دریا<s n="n"/><s n="f"/></l><r>नदी<s n="n"/><s n="f"/></r></p></e>
+    <e c="darya" r="RL"><p><l>دریا<s n="n"/><s n="f"/></l><r>महासागर<s n="n"/><s n="m"/></r></p></e>
+    <e c="darya"><p><l>دریا<s n="n"/><s n="f"/></l><r>सागर<s n="n"/><s n="m"/></r></p></e>
+    <e c="fransisi"><p><l>فرانسیسی<s n="n"/><s n="m"/></l><r>फ़्राँसीसी<s n="n"/><s n="m"/></r></p></e>
+    <e c="rakba"><p><l>رقبہ<s n="n"/><s n="f"/></l><r>क्षेत्रफल<s n="n"/><s n="m"/></r></p></e>
+    <e c="latini"><p><l>لاطینی<s n="n"/><s n="f"/></l><r>लातीनी<s n="n"/><s n="f"/></r></p></e>
+    <e c="latini" r="RL"><p><l>لاطینی<s n="n"/><s n="f"/></l><r>लैटिन<s n="n"/><s n="f"/></r></p></e>
+    <e c="saint"><p><l>سینٹ<s n="n"/><s n="m"/></l><r>संत<s n="n"/><s n="m"/></r></p></e>
+    <e c="satah"><p><l>سطح<s n="n"/><s n="f"/></l><r>सतह<s n="n"/><s n="f"/></r></p></e>
+    <e c="angrezi"><p><l>انگریزی<s n="n"/><s n="f"/></l><r>क्षेत्रफल<s n="n"/><s n="m"/></r></p></e>
+    <e c="pasand"><p><l>پسند<s n="n"/><s n="f"/></l><r>पसंद<s n="n"/><s n="f"/></r></p></e>
+    <e c="Mosām"><p><l>موسم<s n="n"/><s n="m"/></l><r>मौसम<s n="n"/><s n="m"/></r></p></e>
     <e c="be zaabtgi"><p><l>بے ضابطگی<s n="n"/><s n="f"/></l><r>अनियमितता<s n="n"/><s n="f"/></r></p></e>
     <e c="dukh" r="LR"><p><l>دکھ<s n="n"/><s n="m"/></l><r>दुख<s n="n"/><s n="m"/></r></p></e>
     <e c="gam"><p><l>غم<s n="n"/><s n="m"/></l><r>दुख<s n="n"/><s n="m"/></r></p></e>   
@@ -1022,8 +1046,6 @@
     <e c="lārki"><p><l>لڑکی<s n="n"/><s n="f"/></l><r>कन्या<s n="n"/><s n="f"/></r></p></e>
     <e c="lārka"><p><l>لڑکا<s n="n"/><s n="m"/></l><r>बालक<s n="n"/><s n="m"/></r></p></e>
     <e c="Khel"><p><l>کھیل<s n="n"/><s n="m"/></l><r>खेल<s n="n"/><s n="m"/></r></p></e>
-    <e c="James"><p><l>جیمز<s n="n"/><s n="m"/></l><r>जेम्स<s n="n"/><s n="m"/></r></p></e>
-    <e c="Māryām"><p><l>مریم<s n="n"/><s n="f"/></l><r>मरियम<s n="n"/><s n="f"/></r></p></e>
     <e c="Thandāk"><p><l>ٹھنڈک<s n="n"/><s n="f"/></l><r>ठंडक<s n="n"/><s n="f"/></r></p></e> 
     <e c="Bagāh"><p><l>باغ<s n="n"/><s n="m"/></l><r>बाग<s n="n"/><s n="m"/></r></p></e> 
     <e c="zabān"><p><l>زبان<s n="n"/><s n="f"/></l><r>जबान<s n="n"/><s n="f"/></r></p></e>
@@ -1050,34 +1072,34 @@
     <e c="ghār"><p><l>گھر<s n="n"/><s n="m"/></l><r>घर<s n="n"/><s n="m"/></r></p></e>
     <e c="hāns"><p><l>ہنس<s n="n"/><s n="m"/></l><r>हंस<s n="n"/><s n="m"/></r></p></e>
     <e c="harkat"><p><l>حرکت<s n="n"/><s n="f"/></l><r>हरकत<s n="n"/><s n="f"/></r></p></e>
+    <e c="tafselaat"><p><l>تفصیلات<s n="n"/><s n="f"/></l><r>ब्यौरा<s n="n"/><s n="m"/></r></p></e>
 
 
     <!-- Proper nouns -->
 
-    <e c="āmil"><p><l>عامل<s n="np"/><s n="ant"/><s n="m"/>></l><r>आमिल<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-   
-    <!-- Pronoun -->   
-   <e c="khud"><p><l>خود<s n="prn"/></l><r>खुद<s n="prn"/></r></p></e>
-   <e c="kya"><p><l>کیا<s n="prn"/></l><r>क्या<s n="prn"/></r></p></e>
-   <e c="yeh"><p><l>ی<s n="prn"/></l><r>य<s n="prn"/></r></p></e>
-   <e c="woh"><p><l>و<s n="prn"/></l><r>व<s n="prn"/></r></p></e>
-   <e c="un"><p><l>ان<s n="prn"/></l><r>इन<s n="prn"/></r></p></e>
-   <e c="aap"><p><l>آپ<s n="prn"/></l><r>आप<s n="prn"/></r></p></e>
-   <e c="usay"><p><l>اسے<s n="prn"/></l><r>उसे<s n="prn"/></r></p></e>
-   <e c="tum"><p><l>تم<s n="prn"/></l><r>तुम<s n="prn"/></r></p></e>
-   <e c="a"><p><l>اپ<s n="prn"/></l><r>अप<s n="prn"/></r></p></e>
-   <e c="unho"><p><l>انہوں<s n="prn"/></l><r>उन्होंने<s n="prn"/></r></p></e>
-   <e c="mujhe"><p><l>مجھے<s n="prn"/></l><r>मुझे<s n="prn"/></r></p></e>
-   <e c="tumhe"><p><l>تمھیں<s n="prn"/></l><r>तुम्हें<s n="prn"/></r></p></e>
-   <e c="us"><p><l>اس<s n="det"/></l><r>उस<s n="det"/></r></p></e>
-   <e c="un"><p><l>ان<s n="det"/></l><r>उन<s n="det"/></r></p></e>
-   <e c="dosre"><p><l>دوسرے<s n="prn"/></l><r>दूसरे<s n="prn"/></r></p></e>
-   <e><p><l>وہی<s n="prn"/></l><r>वही<s n="prn"/></r></p></e>
-   <e><p><l>کس<s n="prn"/></l><r>किस<s n="prn"/></r></p></e>
+    <e c="khuda"><p><l>اللہ<s n="np"/><s n="ant"/><s n="m"/></l><r>ख़ुदा<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e c="āmil"><p><l>عامل<s n="np"/><s n="ant"/><s n="m"/></l><r>आमिल<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e c="James"><p><l>جیمز<s n="np"/><s n="ant"/><s n="m"/></l><r>जेम्स<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e c="Māryām"><p><l>مریم<s n="np"/><s n="ant"/><s n="f"/></l><r>मैरी<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+    <e c="Pakistan"><p><l>پاکستان<s n="np"/><s n="top"/></l><r>पाकिस्तान‌<s n="np"/><s n="top"/></r></p></e>   
+    <!-- Pronoun -->  
+ 
    <e c="main"><p><l>میں<s n="prn"/></l><r>मैं<s n="prn"/></r></p></e>
-
+   <e c="hum"><p><l>ہم<s n="prn"/></l><r>हम<s n="prn"/></r></p></e>
+   <e c="tum"><p><l>تم<s n="prn"/></l><r>तुम<s n="prn"/></r></p></e>
+   <e c="tu"><p><l>تُو<s n="prn"/></l><r>तू<s n="prn"/></r></p></e>
+   <e c="aap"><p><l>آپ<s n="prn"/></l><r>आप<s n="prn"/></r></p></e>
+   <e c="apna"><p><l>اپ<s n="prn"/></l><r>अप<s n="prn"/></r></p></e>
+   <e c="yeh"><p><l>یہ<s n="prn"/></l><r>यह<s n="prn"/></r></p></e>
+   <e c="woh"><p><l>وہ<s n="prn"/></l><r>वह<s n="prn"/></r></p></e>
+   <e c="jo"><p><l>جو<s n="prn"/></l><r>जो<s n="prn"/></r></p></e>
+   <e c="kya"><p><l>کیا<s n="prn"/></l><r>क्या<s n="prn"/></r></p></e>
+   <e c="sub"><p><l>سب<s n="prn"/></l><r>सब<s n="prn"/></r></p></e>
 
    <!-- Adjectives -->
+    <e c="rihaishi"><p><l>رہائشی<s n="adj"/></l><r>रिहायशी<s n="adj"/></r></p></e>
+    <e c="rihaishi" r="RL"><p><l>رہائشی<s n="adj"/></l><r>आवासिक<s n="adj"/></r></p></e>  
+    <e c="mustamil"><p><l>مشتمل<s n="adj"/></l><r>शामिल<s n="adj"/></r></p></e> 
     <e c="jawaabi"><p><l>جوابی<s n="adj"/></l><r>जवाबी<s n="adj"/></r></p></e> 
     <e c="daulati"><p><l>دولتی<s n="adj"/></l><r>आर्थिक</r></p></e> 
     <e c="baaz" r="LR" ><p><l>بعض<s n="adj"/></l><r>कुछ<s n="adj"/></r></p></e> 
@@ -1102,7 +1124,7 @@
     <e c="Gārm"><p><l>گرم<s n="adj"/></l><r>गर्म<s n="adj"/></r></p></e>
     <e c="achhā"><p><l>اچھا<s n="adj"/></l><r>अच्छा<s n="adj"/></r></p></e>
     <e c="mithyā"><p><l>متھیا<s n="adj"/></l><r>मिथ्या<s n="adj"/></r></p></e>
-    <e c="Badāy"><p><l>بڑے<s n="adj"/></l><r>महान<s n="adj"/></r></p></e>
+    <e c="Badā"><p><l>بڑا<s n="adj"/></l><r>बड़ा<s n="adj"/></r></p></e>
     <e c="chhotā"><p><l>چھوٹا<s n="adj"/></l><r>छोटा<s n="adj"/></r></p></e>
     <e c="tīkhī"><p><l>تیکھا<s n="adj"/></l><r>तीखा<s n="adj"/></r></p></e>
     <e c="motī"><p><l>موٹا<s n="adj"/></l><r>मोटा<s n="adj"/></r></p></e>
@@ -1139,7 +1161,6 @@
     <e><p><l>پانچواں<s n="adj"/></l><r>पांचवां<s n="adj"/></r></p></e> 
     <e><p><l>غیر<s n="adj"/></l><r>अपरिचित<s n="adj"/></r></p></e>
     <e><p><l>اگلا<s n="adj"/></l><r>अगला<s n="adj"/></r></p></e> 
-    <e r="LR"><p><l>اچھہ<s n="adj"/></l><r>अच्छा<s n="adj"/></r></p></e> 
     <e><p><l>صابر<s n="adj"/></l><r>सहनशील<s n="adj"/></r></p></e>
     <e><p><l>آسائش<s n="adj"/></l><r>शानदार<s n="adj"/></r></p></e>
     <e><p><l>محسن<s n="adj"/></l><r>उपकारी<s n="adj"/></r></p></e> 
@@ -1169,6 +1190,8 @@
 
     <!-- Adverbs -->
 
+    <e c="waqai"><p><l>واقع<s n="adv"/></l><r>वाकई<s n="adv"/></r></p></e>
+    <e c="baad"><p><l>بعد<s n="adv"/></l><r>बाद<s n="adv"/></r></p></e> 
     <e c="door"><p><l>دور<s n="adv"/></l><r>दूर<s n="adv"/></r></p></e> 
     <e c="dheere dheere"><p><l>دھیرے دھیرے<s n="adv"/></l><r>धीरे-धीरे<s n="adv"/></r></p></e>
     <e c="tāk"><p><l>تک<s n="cnjadv"/></l><r>तक<s n="cnjadv"/></r></p></e>
@@ -1191,11 +1214,9 @@
     <e c="Baahir"><p><l>باھر<s n="adv"/></l><r>बाहर<s n="adv"/></r></p></e>
     <e c="Tab"><p><l>تب<s n="adv"/></l><r>तब<s n="adv"/></r></p></e>
     <e c="Buhat"><p><l>بہت<s n="adv"/></l><r>बहुत<s n="adv"/></r></p></e>
-    <e c="Mosām"><p><l>موسم<s n="adv"/></l><r>मौसम<s n="adv"/></r></p></e>
     <e c="Kāhān"><p><l>کہاں<s n="adv"/></l><r>कहाँ<s n="adv"/></r></p></e>
     <e c="āj"><p><l>آج<s n="adv"/></l><r>आज<s n="adv"/></r></p></e>
     <e c="akhir"><p><l>آخر<s n="adv"/></l><r>आख़िर<s n="adv"/></r></p></e>
-    <e c="achhā"><p><l>اچھا<s n="adv"/></l><r>अच्छा<s n="adv"/></r></p></e>
     <e c="bilkhul"><p><l>بالکل<s n="adv"/></l><r>बिल्कुल<s n="adv"/></r></p></e>
     <e c="zor"><p><l>زور<s n="adv"/></l><r>ज़ोर<s n="adv"/></r></p></e>
     <e c="mithyā"><p><l>متھیا<s n="adv"/></l><r>मिथ्या<s n="adv"/></r></p></e>

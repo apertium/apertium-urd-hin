@@ -2,10 +2,10 @@
   <alphabet/>
   <sdefs>
     <sdef n="n"       c="Noun"/>     
-	<sdef n="np"      c="Proper noun"/>
-	<sdef n="ant"     c="Anthroponym"/>
-	<sdef n="top"     c=""/>
-	<sdef n="subj"    c="subject"/>
+    <sdef n="np"      c="Proper noun"/>
+    <sdef n="ant"     c="Anthroponym"/>
+    <sdef n="top"     c=""/>
+    <sdef n="subj"    c="subject"/>
     <sdef n="num"     c="Numeral"/>     
     <sdef n="adj"     c="Adjective"/>    
     <sdef n="pers"     c="Personal"/>    

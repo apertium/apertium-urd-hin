@@ -89,9 +89,12 @@
     <!-- Conjunctions -->
     <e c="aur"><p><l>اور<s n="cnjcoo"/></l><r>और<s n="cnjcoo"/></r></p></e>
     <e c="o" r="LR"><p><l>و<s n="cnjcoo"/></l><r>और<s n="cnjcoo"/></r></p></e>
-    <e c="Lakin" r="RL"><p><l>لیکن<s n="cnjcoo"/></l><r>मगर<s n="cnjcoo"/></r></p></e>
-    <e c="Lakin"><p><l>لیکن<s n="cnjcoo"/></l><r>लेकिन<s n="cnjcoo"/></r></p></e>
-
+    <e c="magar"><p><l>مگر<s n="cnjcoo"/></l><r>मगर<s n="cnjcoo"/></r></p></e>
+    <e c="lekin"><p><l>لیکن<s n="cnjcoo"/></l><r>लेकिन<s n="cnjcoo"/></r></p></e>
+    <e c="lekin" r="RL"><p><l>لیکن<s n="cnjcoo"/></l><r>परन्तु<s n="cnjcoo"/></r></p></e>
+    <e c="lekin" r="RL"><p><l>لیکن<s n="cnjcoo"/></l><r>किंतु<s n="cnjcoo"/></r></p></e>
+    <e c="lekin" r="RL"><p><l>لیکن<s n="cnjcoo"/></l><r>किन्तु<s n="cnjcoo"/></r></p></e>
+    <e c="lekin" r="RL"><p><l>لیکن<s n="cnjcoo"/></l><r>परंतु<s n="cnjcoo"/></r></p></e>
     <e c="par"><p><l>پر<s n="cnjsub"/></l><r>पर<s n="cnjsub"/></r></p></e>
     <e c="agar"><p><l>اگر<s n="cnjsub"/></l><r>अगर<s n="cnjsub"/></r></p></e>
     <e c="agarce"><p><l>اگرچہ<s n="cnjsub"/></l><r>अगरचे<s n="cnjsub"/></r></p></e>
@@ -101,6 +104,8 @@
 
     <!-- Postpositions -->
 
+    <e c="mutabiq"><p><l>مطابق<s n="post"/></l><r>मुताबिक़<s n="post"/></r></p></e>
+    <e c="alawa"><p><l>علاوہ<s n="post"/></l><r>अलावा<s n="post"/></r></p></e>
     <e c="binā"><p><l>بنا<s n="post"/></l><r>बिना<s n="post"/></r></p></e>
     <e c="binā" r="LR"><p><l>بِنا<s n="post"/></l><r>बिना<s n="post"/></r></p></e>
     <e c="āge"><p><l>آگے<s n="post"/></l><r>आगे<s n="post"/></r></p></e>
@@ -218,6 +223,28 @@
 
     <!-- Nouns -->
 
+    <e c="muqam"><p><l>مقام<s n="n"/><s n="m"/></l><r>जगह<s n="n"/><s n="m"/></r></p></e>
+    <e c="riyasat"><p><l>ریاست<s n="n"/><s n="f"/></l><r>रियासत<s n="n"/><s n="f"/></r></p></e>
+    <e c="sen"><p><l>سین<s n="n"/><s n="m"/></l><r>सेन<s n="n"/><s n="m"/></r></p></e>
+    <e c="hissa"><p><l>حصہ<s n="n"/><s n="m"/></l><r>हिस्सा<s n="n"/><s n="m"/></r></p></e>
+    <e c="kai"><p><l>کئی<s n="n"/><s n="m"/></l><r>कई<s n="n"/><s n="m"/></r></p></e>
+    <e c="duniya"><p><l>دنیا<s n="n"/><s n="f"/></l><r>दुनिया<s n="n"/><s n="f"/></r></p></e>
+    <e c="khan"><p><l>خان<s n="n"/><s n="m"/></l><r>खान<s n="n"/><s n="m"/></r></p></e>
+    <e c="hukumat"><p><l>حکومت<s n="n"/><s n="f"/></l><r>सरकार<s n="n"/><s n="f"/></r></p></e>
+    <e c="daur"><p><l>دور<s n="n"/><s n="m"/></l><r>दौर<s n="n"/><s n="m"/></r></p></e>
+    <e c="sooba"><p><l>صوبہ<s n="n"/><s n="m"/></l><r>प्रदेश<s n="n"/><s n="m"/></r></p></e>
+    <e c="paida"><p><l>پیدا<s n="n"/><s n="m"/></l><r>पैदा<s n="n"/><s n="m"/></r></p></e>
+    <e c="commune"><p><l>کمیون<s n="n"/><s n="m"/></l><r>कम्यून<s n="n"/><s n="m"/></r></p></e>
+    <e c="shuru"><p><l>شروع<s n="n"/><s n="f"/></l><r>शुरू<s n="n"/><s n="f"/></r></p></e>
+    <e c="islam"><p><l>اسلام<s n="n"/><s n="m"/></l><r>इस्लाम<s n="n"/><s n="m"/></r></p></e>
+    <e c="I(a.d.)"><p><l>ء<s n="n"/><s n="f"/></l><r>ई.<s n="n"/><s n="f"/></r></p></e>
+    <e c="barkarar"><p><l>قائم<s n="n"/><s n="m"/></l><r>बरकरार<s n="n"/><s n="m"/></r></p></e>
+    <e c="kayam" r="LR"><p><l>قائم<s n="n"/><s n="m"/></l><r>क़ायम<s n="n"/><s n="m"/></r></p></e>
+    <e c="alaihi"><p><l>علیہ<s n="n"/><s n="m"/></l><r>अलैहि<s n="n"/><s n="m"/></r></p></e>
+    <e c="urdu"><p><l>اردو<s n="n"/><s n="f"/></l><r>उर्दू<s n="n"/><s n="f"/></r></p></e>
+    <e c="istamal"><p><l>استعمال<s n="n"/><s n="m"/></l><r>इस्तिमाल<s n="n"/><s n="m"/></r></p></e>
+    <e c="hazrat"><p><l>حضرت<s n="n"/><s n="m"/></l><r>हज़रत<s n="n"/><s n="m"/></r></p></e>
+    <e c="hazrat" r="RL"><p><l>حضرت<s n="n"/><s n="m"/></l><r>हजरत<s n="n"/><s n="m"/></r></p></e>
     <e c="bulandi"><p><l>بلندی<s n="n"/><s n="f"/></l><r>बुलंदी<s n="n"/><s n="f"/></r></p></e>
     <e c="shaher"><p><l>شہر<s n="n"/><s n="m"/></l><r>शहर<s n="n"/><s n="m"/></r></p></e>
     <e c="majmua"><p><l>مجموعہ<s n="n"/><s n="m"/></l><r>संग्रह<s n="n"/><s n="m"/></r></p></e>
@@ -587,8 +614,9 @@
     <e c="bewakoof"><p><l>بیوقوف<s n="n"/><s n="m"/></l><r>मूर्ख<s n="n"/><s n="m"/></r></p></e> 
     <e c="kalaai"><p><l>کلائی<s n="n"/><s n="f"/></l><r>कलाई<s n="n"/><s n="f"/></r></p></e> 
     <e c="shehari"><p><l>شہری<s n="n"/><s n="m"/></l><r>नागरिक<s n="n"/><s n="m"/></r></p></e> 
-    <e c="kitaab"><p><l>کِتاب<s n="n"/><s n="f"/></l><r>पुस्तक<s n="n"/><s n="f"/></r></p></e> 
-    <e c="kitaab" r="RL"><p><l>کِتاب<s n="n"/><s n="f"/></l><r>किताब<s n="n"/><s n="f"/></r></p></e> 
+    <e c="kitaab" r="LR"><p><l>کتاب<s n="n"/><s n="f"/></l><r>किताब<s n="n"/><s n="f"/></r></p></e> 
+    <e c="kitaab" r="RL"><p><l>کِتاب<s n="n"/><s n="f"/></l><r>पुस्तक<s n="n"/><s n="f"/></r></p></e> 
+    <e c="kitaab"><p><l>کِتاب<s n="n"/><s n="f"/></l><r>किताब<s n="n"/><s n="f"/></r></p></e> 
     <e c="sakhee"><p><l>سکھی<s n="n"/><s n="f"/></l><r>सखी<s n="n"/><s n="f"/></r></p></e> 
     <e c="naag"><p><l>ناگ<s n="n"/><s n="m"/></l><r>नाग<s n="n"/><s n="m"/></r></p></e> 
     <e c="haala"><p><l>ہالہ<s n="n"/><s n="m"/></l><r>प्रभामंडल<s n="n"/><s n="m"/></r></p></e> 
@@ -1077,6 +1105,8 @@
 
     <!-- Proper nouns -->
 
+    <e c="muhammad"><p><l>محمد<s n="np"/><s n="ant"/><s n="m"/></l><r>मुहम्मद<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e c="ali"><p><l>علی<s n="np"/><s n="ant"/><s n="m"/></l><r>अली<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e c="khuda"><p><l>اللہ<s n="np"/><s n="ant"/><s n="m"/></l><r>ख़ुदा<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e c="āmil"><p><l>عامل<s n="np"/><s n="ant"/><s n="m"/></l><r>आमिल<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e c="James"><p><l>جیمز<s n="np"/><s n="ant"/><s n="m"/></l><r>जेम्स<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -1099,6 +1129,17 @@
    <e c="khud" r="RL"><p><l>خود<s n="prn"/></l><r>खुद<s n="prn"/></r></p></e>
 
    <!-- Adjectives -->
+    <e c="tamam"><p><l>تمام<s n="adj"/></l><r>तमाम<s n="adj"/></r></p></e>
+    <e c="pehla"><p><l>پہلا<s n="adj"/></l><r>पहला<s n="adj"/></r></p></e>
+    <e c="be"><p><l>بے<s n="adj"/></l><r>बे<s n="adj"/></r></p></e>
+    <e c="hasil"><p><l>حاصل<s n="adj"/></l><r>हासिल<s n="adj"/></r></p></e>
+    <e c="shamil"><p><l>شامل<s n="adj"/></l><r>शामिल<s n="adj"/></r></p></e>
+    <e c="aham"><p><l>اہم<s n="adj"/></l><r>अहम<s n="adj"/></r></p></e>
+    <e c="muthada"><p><l>متحدہ<s n="adj"/></l><r>संयुक्त<s n="adj"/></r></p></e>
+    <e c="maujood"><p><l>موجود<s n="adj"/></l><r>मौजूद<s n="adj"/></r></p></e>
+    <e c="aam"><p><l>عام<s n="adj"/></l><r>आम<s n="adj"/></r></p></e>
+    <e c="mushhoor"><p><l>مشہور<s n="adj"/></l><r>मशहूर<s n="adj"/></r></p></e>
+    <e c="mukhtaliq"><p><l>مختلف<s n="adj"/></l><r>कई<s n="adj"/></r></p></e>
     <e c="kitna"><p><l>کتنا<s n="adj"/></l><r>कितना<s n="adj"/></r></p></e>
     <e c="jitna"><p><l>جتنا<s n="adj"/></l><r>जितना<s n="adj"/></r></p></e>
     <e c="itna"><p><l>اتنا<s n="adj"/></l><r>इतना<s n="adj"/></r></p></e>
@@ -1212,6 +1253,12 @@
 
     <!-- Adverbs -->
 
+    <e c="yuM"><p><l>یوں<s n="adv"/></l><r>यूँ<s n="adv"/></r></p></e>
+    <e c="yuN" r="RL"><p><l>یوں<s n="adv"/></l><r>यूं<s n="adv"/></r></p></e>
+    <e c="yoN" r="RL"><p><l>یوں<s n="adv"/></l><r>यों<s n="adv"/></r></p></e>
+    <e c="sirf"><p><l>صرف<s n="adv"/></l><r>सिर्फ़<s n="adv"/></r></p></e>
+    <e c="yani"><p><l>یعنی<s n="adv"/></l><r>यानी<s n="adv"/></r></p></e>
+    <e c="yani" r="RL"><p><l>یعنی<s n="adv"/></l><r>यानि<s n="adv"/></r></p></e>
     <e c="kyon"><p><l>کیوں<s n="adv"/></l><r>क्यों<s n="adv"/></r></p></e>
     <e c="kab"><p><l>کب<s n="adv"/></l><r>कब<s n="adv"/></r></p></e>
     <e c="kabhi"><p><l>کبھی<s n="adv"/></l><r>कभी<s n="adv"/></r></p></e>
@@ -1234,6 +1281,7 @@
     <e c="baad"><p><l>بعد<s n="adv"/></l><r>बाद<s n="adv"/></r></p></e> 
     <e c="door"><p><l>دور<s n="adv"/></l><r>दूर<s n="adv"/></r></p></e> 
     <e c="dheere dheere"><p><l>دھیرے دھیرے<s n="adv"/></l><r>धीरे-धीरे<s n="adv"/></r></p></e>
+    <e c="jabki"><p><l>جبکہ<s n="cnjadv"/></l><r>जबकि<s n="cnjadv"/></r></p></e>
     <e c="tāk"><p><l>تک<s n="cnjadv"/></l><r>तक<s n="cnjadv"/></r></p></e>
     <e c="upar"><p><l>اوپر<s n="adv"/></l><r>ऊपर<s n="adv"/></r></p></e> 
     <e c="der"><p><l>دیر<s n="adv"/></l><r>देर<s n="adv"/></r></p></e> 

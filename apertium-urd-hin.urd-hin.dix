@@ -98,13 +98,17 @@
     <e c="lekin" r="RL"><p><l>لیکن<s n="cnjcoo"/></l><r>परंतु<s n="cnjcoo"/></r></p></e>
     <e c="par"><p><l>پر<s n="cnjsub"/></l><r>पर<s n="cnjsub"/></r></p></e>
     <e c="agar"><p><l>اگر<s n="cnjsub"/></l><r>अगर<s n="cnjsub"/></r></p></e>
-    <e c="agarce"><p><l>اگرچہ<s n="cnjsub"/></l><r>अगरचे<s n="cnjsub"/></r></p></e>
+    <e c="agarce" r="LR"><p><l>اگرچہ<s n="cnjcoo"/></l><r>हालांकि<s n="cnjcoo"/></r></p></e>
     <e c="keh"><p><l>کہ<s n="cnjsub"/></l><r>कि<s n="cnjsub"/></r></p></e>
-    <e c="halanke"><p><l>حالانکہ<s n="cnjsub"/></l><r>हालांकि<s n="cnjsub"/></r></p></e>
-    <e c="ya"><p><l>یا<s n="cnjsub"/></l><r>या<s n="cnjsub"/></r></p></e>
+    <e c="halanke"><p><l>حالانکہ<s n="cnjcoo"/></l><r>हालांकि<s n="cnjcoo"/></r></p></e>
+    <e c="ya"><p><l>یا<s n="cnjcoo"/></l><r>या<s n="cnjcoo"/></r></p></e>
 
     <!-- Postpositions -->
 
+
+    <e c="bataur"><p><l>بطور<s n="post"/></l><r>बतौर<s n="post"/></r></p></e>
+    <e c="ke lie" r="RL"><p><l>کیلئے<s n="post"/></l><r>के लिये<s n="post"/></r></p></e>
+    <e c="ke lie"><p><l>کیلئے<s n="post"/></l><r>के लिए<s n="post"/></r></p></e>
     <e c="tahet"><p><l>تحت<s n="post"/></l><r>अनुसार<s n="post"/></r></p></e>
     <e c="bare"><p><l>بارے<s n="post"/></l><r>बारे<s n="post"/></r></p></e>
     <e c="khilaf"><p><l>خلاف<s n="post"/></l><r>खिलाफ़<s n="post"/></r></p></e>
@@ -116,7 +120,8 @@
     <e c="āge"><p><l>آگے<s n="post"/></l><r>आगे<s n="post"/></r></p></e>
     <e c="lie" r="LR"><p><l>لئے<s n="post"/></l><r>लिए<s n="post"/></r></p></e>
     <e c="se"><p><l>سے<s n="post"/></l><r>से<s n="post"/></r></p></e>
-    <e c="mẽ"><p><l>میں<s n="post"/></l><r>में<s n="post"/></r></p></e>
+    <e c="mẽ" r="LR"><p><l>میں<s n="post"/></l><r>में<s n="post"/></r></p></e>
+    <e c="mẽ"><p><l>ميں<s n="post"/></l><r>में<s n="post"/></r></p></e>
     <e c="par"><p><l>پر<s n="post"/></l><r>पर<s n="post"/></r></p></e>
     <e c="ko"><p><l>کو<s n="post"/></l><r>को<s n="post"/></r></p></e>
     <e c="kā"><p><l>کا<s n="post"/></l><r>का<s n="post"/></r></p></e>
@@ -147,7 +152,7 @@
     <e c="panch"><p><l>پانچ<s n="num"/></l><r>पांच<s n="num"/></r></p></e>
     <e c="che"><p><l>چھ<s n="num"/></l><r>छः<s n="num"/></r></p></e>
     <e c="che" r="RL"><p><l>چھ<s n="num"/></l><r>छह<s n="num"/></r></p></e>
-    <e c="chat"><p><l>چھٹ‬<s n="num"/></l><r>छठ<s n="num"/></r></p></e>
+    <e c="chat"><p><l>چھٹ<s n="num"/></l><r>छठ<s n="num"/></r></p></e>
     <e c="chata"><p><l>چھٹا<s n="num"/><s n="ord"/></l><r>छठा<s n="num"/><s n="ord"/></r></p></e>
     <e c="saat"><p><l>سات<s n="num"/></l><r>सात<s n="num"/></r></p></e>
     <e c="aath"><p><l>آٹھ<s n="num"/></l><r>आठ<s n="num"/></r></p></e>
@@ -262,12 +267,191 @@
 
     <!-- Nouns -->
 
+    <e><p><l>پیداوار<s n="n"/><s n="m"/></l><r>उत्पादन<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>پیداوار<s n="n"/><s n="m"/></l><r>पैदावार<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>حوالہ<s n="n"/><s n="m"/></l><r>हवाला<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>میٹر<s n="n"/><s n="m"/></l><r>मीटर<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>سربراہ<s n="n"/><s n="m"/></l><r>मुखिया<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>صحابہ<s n="n"/><s n="m"/></l><r>सहाबा<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ایس<s n="n"/><s n="m"/></l><r>एस<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>اعتبار<s n="n"/><s n="m"/></l><r>भरोसा<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>اعتبار<s n="n"/><s n="m"/></l><r>निष्ठा<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>قیادت<s n="n"/><s n="f"/></l><r>नेतृत्व<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>شہرت<s n="n"/><s n="f"/></l><r>यश<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>شہرت<s n="n"/><s n="f"/></l><r>शोहरत<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ادارہ<s n="n"/><s n="m"/></l><r>संस्थापन<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>محسوس<s n="n"/><s n="m"/></l><r>महसूस<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>نظم<s n="n"/><s n="m"/></l><r>व्यवस्था<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>نمایاں<s n="n"/><s n="m"/></l><r>सुनहरा पल<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>جزائر<s n="n"/><s n="m"/></l><r>द्वीप<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>قلعہ<s n="n"/><s n="m"/></l><r>किला<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>کہانی<s n="n"/><s n="f"/></l><r>कहानी<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>تسلیم<s n="n"/><s n="f"/></l><r>अभिनंदन<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>حکمران<s n="n"/><s n="m"/></l><r>शासक<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>روز<s n="n"/><s n="m"/></l><r>रोज<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>روز<s n="n"/><s n="m"/></l><r>रोज़<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>نسل<s n="n"/><s n="f"/></l><r>नसल<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>نسل<s n="n"/><s n="f"/></l><r>नस्ल<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>کرکٹ<s n="n"/><s n="m"/></l><r>क्रिकेट<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>راہ<s n="n"/><s n="f"/></l><r>रास्ता<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>راہ<s n="n"/><s n="f"/></l><r>राह<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>سرحد<s n="n"/><s n="f"/></l><r>सीमा<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>سرحد<s n="n"/><s n="f"/></l><r>सरहद<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>حامل<s n="n"/><s n="m"/></l><r>धारक<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>تحقیق<s n="n"/><s n="f"/></l><r>जाँच<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>علماء<s n="n"/><s n="m"/></l><r>उलेमा<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>موسیقی<s n="n"/><s n="f"/></l><r>संगीत<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>سورج<s n="n"/><s n="m"/></l><r>सूरज<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>سور<s n="n"/><s n="m"/></l><r>सूअर<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>گورنر<s n="n"/><s n="m"/></l><r>गवर्नर<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>اظہار<s n="n"/><s n="m"/></l><r>व्याख्यान<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>اظہار<s n="n"/><s n="m"/></l><r>इजहार<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>اظہار<s n="n"/><s n="m"/></l><r>इज़हार<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ویب<s n="n"/><s n="m"/></l><r>वेब<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>تحریر<s n="n"/><s n="f"/></l><r>लेख<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ویب<s n="n"/><s n="m"/></l><r>वेब<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>اعداد<s n="n"/><s n="m"/></l><r>आँकड़ा<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>سائنس<s n="n"/><s n="m"/></l><r>साईंस<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>دریافت<s n="n"/><s n="f"/></l><r>खोज<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>شکار<s n="n"/><s n="m"/></l><r>शिकार<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ترک<s n="n"/><s n="m"/></l><r>त्याग<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>رائے<s n="n"/><s n="f"/></l><r>मत<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>رائے<s n="n"/><s n="f"/></l><r>राय<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>شریف<s n="n"/><s n="m"/></l><r>शरीफ़<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>روشنی<s n="n"/><s n="f"/></l><r>प्रकाश<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>روشنی<s n="n"/><s n="f"/></l><r>रौशनी<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>یاد<s n="n"/><s n="f"/></l><r>स्मरण<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>یاد<s n="n"/><s n="f"/></l><r>याद<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>سیاست<s n="n"/><s n="f"/></l><r>सियासत<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>سیاست<s n="n"/><s n="f"/></l><r>राजनीति<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>مطالعہ<s n="n"/><s n="m"/></l><r>अध्ययन<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>واقعات<s n="n"/><s n="m"/></l><r>घटना<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>نظریہ<s n="n"/><s n="m"/></l><r>नज़रिया<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>نظریہ<s n="n"/><s n="m"/></l><r>दृष्टिकोण<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>حل<s n="n"/><s n="m"/></l><r>हल<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>موضوع<s n="n"/><s n="m"/></l><r>विषय<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>سمندر<s n="n"/><s n="m"/></l><r>समुद्र<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>علوم<s n="n"/><s n="m"/></l><r>विद्या<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>جہاز<s n="n"/><s n="m"/></l><r>जहाज़<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>جہاز<s n="n"/><s n="m"/></l><r>जहाज<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>قوت<s n="n"/><s n="f"/></l><r>शक्ति<s n="n"/><s n="f"/></r></p></e> 
+    <e r="RL"><p><l>شخصیت<s n="n"/><s n="f"/></l><r>शख्सियत<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>شخصیت<s n="n"/><s n="f"/></l><r>व्यक्तित्व<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>آبادی<s n="n"/><s n="f"/></l><r>जनसंख्या<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>حال<s n="n"/><s n="m"/></l><r>हाल<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>حال<s n="n"/><s n="m"/></l><r>दशा<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>شادی<s n="n"/><s n="f"/></l><r>शादी<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>جواب<s n="n"/><s n="m"/></l><r>जवाब<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>منظر<s n="n"/><s n="m"/></l><r>दृश्य<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>دہائی<s n="n"/><s n="f"/></l><r>दुहाई<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>گروہ<s n="n"/><s n="m"/></l><r>गिरोह<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>وجود<s n="n"/><s n="m"/></l><r>अस्तित्व<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>حیات<s n="n"/><s n="f"/></l><r>जीवन<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>اتحاد<s n="n"/><s n="m"/></l><r>मित्रता<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>جامعہ<s n="n"/><s n="m"/></l><r>विश्वविधालय<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ہندو<s n="n"/><s n="m"/></l><r>हिंदू<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>ہندو<s n="n"/><s n="m"/></l><r>हिन्दू<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>کامیابی<s n="n"/><s n="f"/></l><r>कामयाबी<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ناول<s n="n"/><s n="m"/></l><r>उपन्यास<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>لیگ<s n="n"/><s n="f"/></l><r>लीग<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>مضمون<s n="n"/><s n="m"/></l><r>निबंध<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>نمبر<s n="n"/><s n="m"/></l><r>नंबर<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>جزیرہ<s n="n"/><s n="m"/></l><r>द्वीप<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>خلافت<s n="n"/><s n="f"/></l><r>खिलाफ़त<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>خط<s n="n"/><s n="m"/></l><r>चिठ्ठी<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>خط<s n="n"/><s n="m"/></l><r>खत<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>مرتبہ<s n="n"/><s n="m"/></l><r>बार<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>واقعہ<s n="n"/><s n="m"/></l><r>घटना<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>اہمیت<s n="n"/><s n="f"/></l><r>महत्व<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>اہمیت<s n="n"/><s n="f"/></l><r>अहमियत<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>باوجود<s n="n"/><s n="m"/></l><r>बावजूद<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>طریقہ<s n="n"/><s n="m"/></l><r>तरीका<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>شام<s n="n"/><s n="f"/></l><r>शाम<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>خون<s n="n"/><s n="m"/></l><r>खून<s n="n"/><s n="m"/></r></p></e>
+    <e c="afwaz" r="LR"><p><l>افواج<s n="n"/><s n="f"/></l><r>फौज़<s n="n"/><s n="f"/></r></p></e>
+    <e c="khidmat"><p><l>خدمات<s n="n"/><s n="f"/></l><r>सेवा<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>میدان<s n="n"/><s n="m"/></l><r>मैदान<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>والا<s n="n"/><s n="m"/></l><r>वाला<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>مسائل<s n="n"/><s n="m"/></l><r>समस्या<s n="n"/><s n="f"/></r></p></e> 
+    <e><p><l>صلی<s n="n"/><s n="m"/></l><r>सल्ल<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>وسلم<s n="n"/><s n="m"/></l><r>वसल्लम<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>حلقہ<s n="n"/><s n="m"/></l><r>मंडल<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>حضور<s n="n"/><s n="m"/></l><r>हुजूर<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>حضور<s n="n"/><s n="m"/></l><r>हुज़ूर<s n="n"/><s n="f"/></r></p></e>
+    <e c="izafa" r="RL"><p><l>اضافہ<s n="n"/><s n="m"/></l><r>इज़ाफ़ा<s n="n"/><s n="m"/></r></p></e>
+    <e c="izafa"><p><l>اضافہ<s n="n"/><s n="m"/></l><r>बढ़ोतरी<s n="n"/><s n="f"/></r></p></e>
+    <e c="qabool"><p><l>قبول<s n="n"/><s n="m"/></l><r>स्वीकार<s n="n"/><s n="m"/></r></p></e>
+    <e c="maut" r="LR"><p><l>موت<s n="n"/><s n="f"/></l><r>मृत्यु<s n="n"/><s n="f"/></r></p></e>
+    <e c="maut"><p><l>موت<s n="n"/><s n="f"/></l><r>मौत<s n="n"/><s n="f"/></r></p></e>
+    <e c="awaam"><p><l>عوام<s n="n"/><s n="f"/></l><r>जनता<s n="n"/><s n="f"/></r></p></e>
+    <e c="khwaja"><p><l>خواجہ<s n="n"/><s n="m"/></l><r>ख़्वाजा<s n="n"/><s n="m"/></r></p></e>
+    <e c="maksad" r="RL"><p><l>مقصد<s n="n"/><s n="m"/></l><r>उद्देश्य<s n="n"/><s n="m"/></r></p></e>
+    <e c="maksad"><p><l>مقصد<s n="n"/><s n="m"/></l><r>मकसद<s n="n"/><s n="m"/></r></p></e>
+    <e c="maaini" r="LR"><p><l>معنی<s n="n"/><s n="m"/></l><r>मतलब<s n="n"/><s n="m"/></r></p></e>
+    <e c="matlab"><p><l>مطلب<s n="n"/><s n="m"/></l><r>मतलब<s n="n"/><s n="m"/></r></p></e>
+    <e c="elaan"><p><l>اعلان<s n="n"/><s n="m"/></l><r>ऐलान<s n="n"/><s n="m"/></r></p></e>
+    <e c="zaroorat"><p><l>ضرورت<s n="n"/><s n="f"/></l><r>ज़रूरत<s n="n"/><s n="m"/></r></p></e>
+    <e c="bhai"><p><l>بھائی<s n="n"/><s n="m"/></l><r>भाई<s n="n"/><s n="m"/></r></p></e>
+    <e c="anjam"><p><l>انجام<s n="n"/><s n="m"/></l><r>नतीजा<s n="n"/><s n="m"/></r></p></e>
+    <e c="jaat"><p><l>جات<s n="n"/><s n="f"/></l><r>जात<s n="n"/><s n="f"/></r></p></e>
+    <e c="tanzeem"><p><l>تنظیم<s n="n"/><s n="f"/></l><r>संस्था<s n="n"/><s n="f"/></r></p></e>
+    <e c="mazhab"><p><l>مذہب<s n="n"/><s n="m"/></l><r>मज़हब<s n="n"/><s n="m"/></r></p></e>
+    <e c="had"><p><l>حد<s n="n"/><s n="m"/></l><r>हद<s n="n"/><s n="m"/></r></p></e>
+    <e c="fun"><p><l>فن<s n="n"/><s n="m"/></l><r>कला<s n="n"/><s n="f"/></r></p></e>
+    <e c="mahal"><p><l>محل<s n="n"/><s n="m"/></l><r>महल<s n="n"/><s n="m"/></r></p></e>
+    <e c="shikast" r="RL"><p><l>شکست<s n="n"/><s n="f"/></l><r>पराजय<s n="n"/><s n="f"/></r></p></e>
+    <e c="shikast"><p><l>شکست<s n="n"/><s n="f"/></l><r>शिकस्त<s n="n"/><s n="f"/></r></p></e>
+    <e c="muhar"><p><l>مہر<s n="n"/><s n="m"/></l><r>मोहर<s n="n"/><s n="f"/></r></p></e>
+    <e c="wazir"><p><l>وزیر<s n="n"/><s n="m"/></l><r>मंत्री<s n="n"/><s n="m"/></r></p></e>
+    <e c="mauqa"><p><l>موقع<s n="n"/><s n="m"/></l><r>अवसर<s n="n"/><s n="m"/></r></p></e>
+    <e c="mauqa" r="RL"><p><l>موقع<s n="n"/><s n="m"/></l><r>मौका<s n="n"/><s n="m"/></r></p></e>
+    <e c="ta'aal"><p><l>تعال<s n="n"/><s n="m"/></l><r>तआल<s n="n"/><s n="m"/></r></p></e>
+    <e c="doctor"><p><l>ڈاکٹر<s n="n"/><s n="m"/></l><r>डाक्टर<s n="n"/><s n="m"/></r></p></e>
+    <e c="hadis"><p><l>حدیث<s n="n"/><s n="m"/></l><r>हदीस<s n="n"/><s n="m"/></r></p></e>
+    <e c="doctor" r="LR"><p><l>ڈاکٹر<s n="n"/><s n="m"/></l><r>चिकित्सक<s n="n"/><s n="m"/></r></p></e>
+    <e c="halaat"><p><l>حالات<s n="n"/><s n="m"/></l><r>हालात<s n="n"/><s n="m"/></r></p></e>
+    <e c="rukan"><p><l>رکن<s n="n"/><s n="m"/></l><r>सदस्य<s n="n"/><s n="m"/></r></p></e>
+    <e c="al-salaam"><p><l>السلام<s n="n"/><s n="m"/></l><r>सलाम<s n="n"/><s n="m"/></r></p></e>
+    <e c="asar"><p><l>اثر<s n="n"/><s n="m"/></l><r>असर<s n="n"/><s n="m"/></r></p></e>
+    <e c="muzzamin" r="LR"><p><l>مضامین<s n="n"/><s n="m"/></l><r>विषय<s n="n"/><s n="m"/></r></p></e>
+    <e c="code"><p><l>کوڈ<s n="n"/><s n="m"/></l><r>कोड<s n="n"/><s n="m"/></r></p></e>
+    <e c="lihaz" r="RL"><p><l>لحاظ<s n="n"/><s n="m"/></l><r>ध्यान<s n="n"/><s n="m"/></r></p></e>
+    <e c="lihaz"><p><l>لحاظ<s n="n"/><s n="m"/></l><r>लिहाज़<s n="n"/><s n="m"/></r></p></e>
+    <e c="lihaz" r="RL"><p><l>لحاظ<s n="n"/><s n="m"/></l><r>लिहाज<s n="n"/><s n="m"/></r></p></e>
+    <e c="misal"><p><l>مثال<s n="n"/><s n="f"/></l><r>उदाहरण<s n="n"/><s n="m"/></r></p></e>
+    <e c="misal" r="RL"><p><l>مثال<s n="n"/><s n="f"/></l><r>मिसाल<s n="n"/><s n="f"/></r></p></e>
+    <e c="deen"><p><l>دین<s n="n"/><s n="m"/></l><r>दीन<s n="n"/><s n="m"/></r></p></e>
+    <e c="hijra"><p><l>ہیجڑا<s n="n"/><s n="m"/></l><r>हिजड़ा<s n="n"/><s n="m"/></r></p></e>
+    <e c="darya-e-"><p><l>دریائے<s n="n"/><s n="m"/></l><r>दरया ए<s n="n"/><s n="m"/></r></p></e>
+    <e c="gaana"><p><l>گانا<s n="n"/><s n="m"/></l><r>गाना<s n="n"/><s n="m"/></r></p></e>
+    <e c="khana"><p><l>کھانا<s n="n"/><s n="m"/></l><r>खाना<s n="n"/><s n="m"/></r></p></e>
+    <e c="chida"><p><l>چڑا<s n="n"/><s n="m"/></l><r>चिड़ा<s n="n"/><s n="m"/></r></p></e>
+    <e c="qanoon"><p><l>قانون<s n="n"/><s n="m"/></l><r>कानून<s n="n"/><s n="m"/></r></p></e>
+    <e c="hukm"><p><l>حکم<s n="n"/><s n="m"/></l><r>आदेश<s n="n"/><s n="m"/></r></p></e>
+    <e c="hukm" r="RL"><p><l>حکم<s n="n"/><s n="m"/></l><r>हुक्म<s n="n"/><s n="m"/></r></p></e>
+    <e c="shayar"><p><l>شاعر<s n="n"/><s n="m"/></l><r>शायर<s n="n"/><s n="m"/></r></p></e>
+    <e c="university"><p><l>یونیورسٹی<s n="n"/><s n="f"/></l><r>यूनिवर्सिटी<s n="n"/><s n="f"/></r></p></e>
+    <e c="haq" r="RL"><p><l>حق<s n="n"/><s n="m"/></l><r>हक<s n="n"/><s n="m"/></r></p></e>
+    <e c="haq"><p><l>حق<s n="n"/><s n="m"/></l><r>अधिकार<s n="n"/><s n="m"/></r></p></e>
+    <e c="sheikh"><p><l>شیخ<s n="n"/><s n="m"/></l><r>शेख<s n="n"/><s n="m"/></r></p></e>
+    <e c="masla"><p><l>مثلا<s n="n"/><s n="m"/></l><r>मसला<s n="n"/><s n="m"/></r></p></e>
+    <e c="iqbal"><p><l>اقبال<s n="n"/><s n="m"/></l><r>स्वीकार<s n="n"/><s n="m"/></r></p></e>
+    <e c="farsi" r="RL"><p><l>فارسی<s n="n"/><s n="m"/></l><r>फारसी<s n="n"/><s n="m"/></r></p></e>
+    <e c="farsi"><p><l>فارسی<s n="n"/><s n="m"/></l><r>फ़ारसी<s n="n"/><s n="m"/></r></p></e>  
+    <e c="abbu"><p><l>ابو<s n="n"/><s n="m"/></l><r>पिताजी<s n="n"/><s n="m"/></r></p></e> 
+    <e c="bhartiy" r="LR"><p><l>بھارتیہ<s n="n"/><s n="m"/></l><r>भारतीय<s n="n"/><s n="m"/></r></p></e> 
+    <e c="bharti"><p><l>بھارتی<s n="n"/><s n="m"/></l><r>भारतीय<s n="n"/><s n="m"/></r></p></e>
+    <e c="walid"><p><l>والد<s n="n"/><s n="m"/></l><r>पिता<s n="n"/><s n="m"/></r></p></e>
+    <e c="qabza"><p><l>قبضہ<s n="n"/><s n="m"/></l><r>कब्जा<s n="n"/><s n="m"/></r></p></e>
+    <e c="fauji" r="RL"><p><l>فوجی<s n="n"/><s n="m"/></l><r>फौजी<s n="n"/><s n="m"/></r></p></e>
+    <e c="fauji" r="LR"><p><l>فوجی<s n="n"/><s n="m"/></l><r>फ़ौजी<s n="n"/><s n="m"/></r></p></e>
+    <e c="fauji"><p><l>فوجی<s n="n"/><s n="m"/></l><r>सैनिक<s n="n"/><s n="m"/></r></p></e>
     <e c="pur"><p><l>پور<s n="n"/><s n="m"/></l><r>पुर<s n="n"/><s n="m"/></r></p></e>
     <e c="jamuhriya"><p><l>جمہوریہ<s n="n"/><s n="m"/></l><r>गणराज्य<s n="n"/><s n="m"/></r></p></e>
     <e c="tehsil"><p><l>تحصیل<s n="n"/><s n="f"/></l><r>तहसील<s n="n"/><s n="f"/></r></p></e>
     <e c="padaish"><p><l>پیدائش<s n="n"/><s n="f"/></l><r>जन्म<s n="n"/><s n="m"/></r></p></e>
     <e c="adab"><p><l>ادب<s n="n"/><s n="m"/></l><r>आदर<s n="n"/><s n="m"/></r></p></e>
-    <e c="ehad"><p><l>باعث<s n="n"/><s n="m"/></l><r>प्रतिज्ञा<s n="n"/><s n="f"/></r></p></e>
+    <e c="ehad"><p><l>عہد<s n="n"/><s n="m"/></l><r>प्रतिज्ञा<s n="n"/><s n="f"/></r></p></e>
     <e c="bais"><p><l>باعث<s n="n"/><s n="m"/></l><r>कारण<s n="n"/><s n="m"/></r></p></e>
     <e c="qaum"><p><l>قوم<s n="n"/><s n="f"/></l><r>राष्ट्र<s n="n"/><s n="m"/></r></p></e>
     <e c="alim"><p><l>عالم<s n="n"/><s n="m"/></l><r>विद्वान<s n="n"/><s n="m"/></r></p></e>
@@ -350,14 +534,17 @@
     <e c="amal"><p><l>عمل<s n="n"/><s n="m"/></l><r>अमल<s n="n"/><s n="m"/></r></p></e>
     <e c="sultanate"><p><l>سلطنت<s n="n"/><s n="f"/></l><r>राज्य<s n="n"/><s n="m"/></r></p></e>
     <e c="ilm"><p><l>علم<s n="n"/><s n="m"/></l><r>जानकारी<s n="n"/><s n="m"/></r></p></e>
+    <e c="malumaat" r="LR"><p><l>معلومات<s n="n"/><s n="f"/></l><r>जानकारी<s n="n"/><s n="m"/></r></p></e>
     <e c="station"><p><l>اسٹیشن<s n="n"/><s n="m"/></l><r>स्टेशन<s n="n"/><s n="m"/></r></p></e>
     <e c="lafz"><p><l>لفظ<s n="n"/><s n="m"/></l><r>शब्द<s n="n"/><s n="m"/></r></p></e>
     <e c="A"><p><l>اے<s n="n"/><s n="m"/></l><r>ए<s n="n"/><s n="m"/></r></p></e>
     <e c="arabi"><p><l>عربی<s n="n"/><s n="m"/></l><r>अरबी<s n="n"/><s n="m"/></r></p></e>
     <e c="bayan"><p><l>بیان<s n="n"/><s n="m"/></l><r>बयान<s n="n"/><s n="m"/></r></p></e>
     <e c="nizam"><p><l>نظام<s n="n"/><s n="m"/></l><r>तंत्र<s n="n"/><s n="m"/></r></p></e>
-    <e c="memelket"><p><l>مملکت<s n="n"/><s n="m"/></l><r>राष्ट्र<s n="n"/><s n="m"/></r></p></e>
+    <e c="memelket"><p><l>مملکت<s n="n"/><s n="f"/></l><r>राष्ट्र<s n="n"/><s n="m"/></r></p></e>
+    <e c="memalak" r="LR"><p><l>ممالک<s n="n"/><s n="m"/></l><r>राष्ट्र<s n="n"/><s n="m"/></r></p></e>
     <e c="railway" r="RL"><p><l>ریلوے<s n="n"/><s n="m"/></l><r>रेलवे<s n="n"/><s n="m"/></r></p></e>
+    <e c="railway" r="LR"><p><l>ریلویز<s n="n"/><s n="m"/></l><r>रेलवे<s n="n"/><s n="m"/></r></p></e>
     <e c="rail"><p><l>ریلوے<s n="n"/><s n="m"/></l><r>रेल<s n="n"/><s n="f"/></r></p></e>
     <e c="talim"><p><l>تعلیم<s n="n"/><s n="f"/></l><r>शिक्षा<s n="n"/><s n="f"/></r></p></e>
     <e c="sadar"><p><l>صدر<s n="n"/><s n="m"/></l><r>राष्ट्रपति<s n="n"/><s n="m"/></r></p></e>
@@ -381,6 +568,7 @@
     <e c="barkarar"><p><l>قائم<s n="n"/><s n="m"/></l><r>बरकरार<s n="n"/><s n="m"/></r></p></e>
     <e c="kayam" r="LR"><p><l>قائم<s n="n"/><s n="m"/></l><r>क़ायम<s n="n"/><s n="m"/></r></p></e>
     <e c="alaihi"><p><l>علیہ<s n="n"/><s n="m"/></l><r>अलैहि<s n="n"/><s n="m"/></r></p></e>
+    <e c="alaihi" r="LR"><p><l>عليه<s n="n"/><s n="m"/></l><r>अलैहि<s n="n"/><s n="m"/></r></p></e>
     <e c="urdu"><p><l>اردو<s n="n"/><s n="f"/></l><r>उर्दू<s n="n"/><s n="f"/></r></p></e>
     <e c="istamal"><p><l>استعمال<s n="n"/><s n="m"/></l><r>इस्तिमाल<s n="n"/><s n="m"/></r></p></e>
     <e c="hazrat"><p><l>حضرت<s n="n"/><s n="m"/></l><r>हज़रत<s n="n"/><s n="m"/></r></p></e>
@@ -388,11 +576,11 @@
     <e c="bulandi"><p><l>بلندی<s n="n"/><s n="f"/></l><r>बुलंदी<s n="n"/><s n="f"/></r></p></e>
     <e c="shaher"><p><l>شہر<s n="n"/><s n="m"/></l><r>शहर<s n="n"/><s n="m"/></r></p></e>
     <e c="majmua"><p><l>مجموعہ<s n="n"/><s n="m"/></l><r>संग्रह<s n="n"/><s n="m"/></r></p></e>
-    <e c="kilometer"><p><l>کیلومیٹر<s n="n"/><s n="m"/></l><r>किलोमीटर<s n="n"/><s n="m"/></r></p></e>
+    <e c="kilometer" r="LR"><p><l>کیلومیٹر<s n="n"/><s n="m"/></l><r>किलोमीटर<s n="n"/><s n="m"/></r></p></e>
+    <e c="kilometer"><p><l>کلومیٹر<s n="n"/><s n="m"/></l><r>किलोमीटर<s n="n"/><s n="m"/></r></p></e>
     <e c="taur"><p><l>طور<s n="n"/><s n="m"/></l><r>तौर<s n="n"/><s n="m"/></r></p></e>
-    <e c="darya" r="RL"><p><l>دریا<s n="n"/><s n="f"/></l><r>नदी<s n="n"/><s n="f"/></r></p></e>
-    <e c="darya" r="RL"><p><l>دریا<s n="n"/><s n="f"/></l><r>महासागर<s n="n"/><s n="m"/></r></p></e>
-    <e c="darya"><p><l>دریا<s n="n"/><s n="f"/></l><r>सागर<s n="n"/><s n="m"/></r></p></e>
+    <e c="darya"><p><l>دریا<s n="n"/><s n="f"/></l><r>नदी<s n="n"/><s n="f"/></r></p></e>
+    <e c="baheera"><p><l>بحیرہ<s n="n"/><s n="m"/></l><r>सागर<s n="n"/><s n="m"/></r></p></e>
     <e c="fransisi"><p><l>فرانسیسی<s n="n"/><s n="m"/></l><r>फ़्राँसीसी<s n="n"/><s n="m"/></r></p></e>
     <e c="rakba"><p><l>رقبہ<s n="n"/><s n="f"/></l><r>क्षेत्रफल<s n="n"/><s n="m"/></r></p></e>
     <e c="latini"><p><l>لاطینی<s n="n"/><s n="f"/></l><r>लातीनी<s n="n"/><s n="f"/></r></p></e>
@@ -412,7 +600,7 @@
     <e c="sitamgar"><p><l>ستمگر<s n="n"/><s n="m"/></l><r>अत्याचारी<s n="n"/><s n="m"/></r></p></e> 
     <e c="angle"><p><l>اینگل<s n="n"/><s n="m"/></l><r>कोण<s n="n"/><s n="m"/></r></p></e> 
     <e c="goshwara"><p><l>گوشوارہ<s n="n"/><s n="m"/></l><r>ब्यौरा<s n="n"/><s n="m"/></r></p></e> 
-    <e c="tarz"><p><l>طرز<s n="n"/><s n="m"/></l><r>शैली<s n="n"/><s n="f"/></r></p></e> 
+    <e c="tarz"><p><l>طرز<s n="n"/><s n="f"/></l><r>शैली<s n="n"/><s n="f"/></r></p></e> 
     <e c="jasoosa"><p><l>جاسوسہ<s n="n"/><s n="m"/></l><r>जासूस<s n="n"/><s n="m"/></r></p></e> 
     <e c="walwala"><p><l>ولولہ<s n="n"/><s n="m"/></l><r>उत्साह<s n="n"/><s n="m"/></r></p></e> 
     <e c="naamurad"><p><l>نامراد<s n="n"/><s n="m"/></l><r>अभागा<s n="n"/><s n="m"/></r></p></e> 
@@ -426,7 +614,6 @@
     <e c="aabla"><p><l>آبلہ<s n="n"/><s n="m"/></l><r>छाला<s n="n"/><s n="m"/></r></p></e> 
     <e c="laasha"><p><l>لاشہ<s n="n"/><s n="m"/></l><r>दुर्बल<s n="n"/><s n="m"/></r></p></e> 
     <e c="aabgeena"><p><l>آبگینہ<s n="n"/><s n="m"/></l><r>बोतल<s n="n"/><s n="f"/></r></p></e> 
-    <e c="dona"><p><l>دونا<s n="n"/><s n="m"/></l><r>गेंदा<s n="n"/><s n="m"/></r></p></e> 
     <e c="safa"><p><l>صفہ<s n="n"/><s n="m"/></l><r>सफाई<s n="n"/><s n="f"/></r></p></e> 
     <e c="murgabi"><p><l>مرغابی<s n="n"/><s n="m"/></l><r>जलपाखी<s n="n"/><s n="m"/></r></p></e> 
     <e c="galba"><p><l>غلبہ<s n="n"/><s n="m"/></l><r>प्रभुत्व<s n="n"/><s n="m"/></r></p></e> 
@@ -514,7 +701,7 @@
     <e c="sandooq"><p><l>صندوق<s n="n"/><s n="m"/></l><r>सन्दूक<s n="n"/><s n="m"/></r></p></e> 
     <e c="seeng"><p><l>سینگ<s n="n"/><s n="m"/></l><r>सींग<s n="n"/><s n="m"/></r></p></e> 
     <e c="bahaana"><p><l>حیلہ<s n="n"/><s n="m"/></l><r>बहाना<s n="n"/><s n="m"/></r></p></e> 
-    <e c="muhawre"><p><l>محاورا<s n="n"/><s n="m"/></l><r>मुहावरे<s n="n"/><s n="m"/></r></p></e> 
+    <e c="muhawre"><p><l>محاورا<s n="n"/><s n="m"/></l><r>मुहावरा<s n="n"/><s n="m"/></r></p></e> 
     <e c="sevak"><p><l>سیوک<s n="n"/><s n="m"/></l><r>सेवक<s n="n"/><s n="m"/></r></p></e> 
     <e c="tukdi"><p><l>ٹکڑی<s n="n"/><s n="f"/></l><r>टुकड़ी<s n="n"/><s n="f"/></r></p></e> 
     <e c="talaashi"><p><l>تلاشی<s n="n"/><s n="f"/></l><r>तलाशी<s n="n"/><s n="f"/></r></p></e> 
@@ -563,7 +750,8 @@
     <e c="andhera"><p><l>اندھیرا<s n="n"/><s n="m"/></l><r>अंधेरा<s n="n"/><s n="m"/></r></p></e> 
     <e c="jhool"><p><l>جھول<s n="n"/><s n="f"/></l><r>दल<s n="n"/><s n="m"/></r></p></e> 
     <e c="zaraahat"><p><l>زراعت<s n="n"/><s n="f"/></l><r>कृषि<s n="n"/><s n="f"/></r></p></e> 
-    <e c="kinaara"><p><l>کنارہ<s n="n"/><s n="m"/></l><r>किनारा<s n="n"/><s n="m"/></r></p></e> 
+    <e c="kinaara"><p><l>کنارہ<s n="n"/><s n="m"/></l><r>किनारा<s n="n"/><s n="m"/></r></p></e>
+    <e c="kinaara" r="LR"><p><l>کنارا<s n="n"/><s n="m"/></l><r>किनारा<s n="n"/><s n="m"/></r></p></e>  
     <e c="pakhana"><p><l>پاخانہ<s n="n"/><s n="m"/></l><r>मल<s n="n"/><s n="m"/></r></p></e> 
     <e c="bagal"><p><l>بغل<s n="n"/><s n="m"/></l><r>बगल<s n="n"/><s n="m"/></r></p></e> 
     <e c="basta"><p><l>بستہ<s n="n"/><s n="m"/></l><r>बस्ता<s n="n"/><s n="m"/></r></p></e> <!--Done: BUG CHANGED बस्ता TO  जोड़कर-->
@@ -696,8 +884,9 @@
     <e c="chhut"><p><l>چھوٹ<s n="n"/><s n="f"/></l><r>छूट<s n="n"/><s n="f"/></r></p></e> 
     <e c="tehni"><p><l>ٹہنی<s n="n"/><s n="f"/></l><r>टहनी<s n="n"/><s n="f"/></r></p></e> 
     <e c="tangi"><p><l>تنگی<s n="n"/><s n="f"/></l><r>तंगी<s n="n"/><s n="f"/></r></p></e> 
-    <e c="tanga"><p><l>تانگا<s n="n"/><s n="m"/></l><r>टोंगा<s n="n"/><s n="m"/></r></p></e> 
-    <e c="namoona"><p><l>نمونہ<s n="n"/><s n="m"/></l><r>नमूना<s n="n"/><s n="m"/></r></p></e> 
+    <e c="tanga"><p><l>تانگا<s n="n"/><s n="m"/></l><r>तांगा<s n="n"/><s n="m"/></r></p></e> 
+    <e c="namoona"><p><l>نمونہ<s n="n"/><s n="m"/></l><r>नमूना<s n="n"/><s n="m"/></r></p></e>
+    <e c="namoona" r="LR"><p><l>نمونا<s n="n"/><s n="m"/></l><r>नमूना<s n="n"/><s n="m"/></r></p></e>  
     <e c="malba"><p><l>ملبہ<s n="n"/><s n="m"/></l><r>मलबा<s n="n"/><s n="m"/></r></p></e> 
     <e c="mohalla"><p><l>محلّہ<s n="n"/><s n="m"/></l><r>मोहल्ला<s n="n"/><s n="m"/></r></p></e> <!--Done: BUG CHANGED मुहल्ला TO मोहल्ला-->
     <e c="naari"><p><l>ناری<s n="n"/><s n="f"/></l><r>नारी<s n="n"/><s n="f"/></r></p></e> 
@@ -754,7 +943,8 @@
     <e c="bewakoof"><p><l>بیوقوف<s n="n"/><s n="m"/></l><r>मूर्ख<s n="n"/><s n="m"/></r></p></e> 
     <e c="kalaai"><p><l>کلائی<s n="n"/><s n="f"/></l><r>कलाई<s n="n"/><s n="f"/></r></p></e> 
     <e c="shehari"><p><l>شہری<s n="n"/><s n="m"/></l><r>नागरिक<s n="n"/><s n="m"/></r></p></e> 
-    <e c="kitaab" r="LR"><p><l>کتاب<s n="n"/><s n="f"/></l><r>किताब<s n="n"/><s n="f"/></r></p></e> 
+    <e c="kitaab" r="LR"><p><l>کتاب<s n="n"/><s n="f"/></l><r>किताब<s n="n"/><s n="f"/></r></p></e>
+    <e c="kutub" r="LR"><p><l>کتب<s n="n"/><s n="f"/></l><r>किताब<s n="n"/><s n="f"/></r></p></e>
     <e c="kitaab" r="RL"><p><l>کِتاب<s n="n"/><s n="f"/></l><r>पुस्तक<s n="n"/><s n="f"/></r></p></e> 
     <e c="kitaab"><p><l>کِتاب<s n="n"/><s n="f"/></l><r>किताब<s n="n"/><s n="f"/></r></p></e> 
     <e c="sakhee"><p><l>سکھی<s n="n"/><s n="f"/></l><r>सखी<s n="n"/><s n="f"/></r></p></e> 
@@ -784,7 +974,8 @@
     <e c="mutthi"><p><l>مٹھی<s n="n"/><s n="f"/></l><r>मुट्ठी<s n="n"/><s n="f"/></r></p></e> 
     <e c="mulk"><p><l>ملک<s n="n"/><s n="m"/></l><r>देश<s n="n"/><s n="m"/></r></p></e> 
     <e c="kela"><p><l>کیلا<s n="n"/><s n="m"/></l><r>केला<s n="n"/><s n="m"/></r></p></e> 
-    <e c="pata"><p><l>پتّا<s n="n"/><s n="m"/></l><r>पता<s n="n"/><s n="m"/></r></p></e> 
+    <e c="pata"><p><l>پتّا<s n="n"/><s n="m"/></l><r>पत्ता<s n="n"/><s n="m"/></r></p></e>
+    <e c="pata"><p><l>پتا<s n="n"/><s n="m"/></l><r>पता<s n="n"/><s n="m"/></r></p></e>  
     <e c="khankah"><p><l>خانقاہ<s n="n"/><s n="f"/></l><r>मठ<s n="n"/><s n="m"/></r></p></e> 
     <e c="gilaf"><p><l>غلاف<s n="n"/><s n="m"/></l><r>आवरण<s n="n"/><s n="m"/></r></p></e> 
     <e c="gulaam"><p><l>غلام<s n="n"/><s n="m"/></l><r>गुलाम<s n="n"/><s n="m"/></r></p></e> 
@@ -844,7 +1035,7 @@
     <e><p><l>نتیجہ<s n="n"/><s n="m"/></l><r>परिणाम<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>پاؤڈر<s n="n"/><s n="m"/></l><r>पाउडर<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>جواهرات<s n="n"/><s n="m"/></l><r>जवाहरात<s n="n"/><s n="m"/></r></p></e> 
-    <e><p><l>دعویدار<s n="n"/><s n="m"/></l><r>दावेदार<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>دعویدار<s n="n"/><s n="m"/></l><r>दावेदार<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>کرن<s n="n"/><s n="f"/></l><r>किरण<s n="n"/><s n="f"/></r></p></e> 
     <e><p><l>انحصار<s n="n"/><s n="m"/></l><r>निर्भर<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>عطر<s n="n"/><s n="m"/></l><r>इत्र<s n="n"/><s n="m"/></r></p></e> 
@@ -872,7 +1063,6 @@
     <e><p><l>کوئلہ<s n="n"/><s n="m"/></l><r>कोयला<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>غنیمت<s n="n"/><s n="f"/></l><r>गनीमत<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>گانہ<s n="n"/><s n="m"/></l><r>गाना<s n="n"/><s n="m"/></r></p></e> 
-    <e><p><l>بھارتیہ<s n="n"/><s n="m"/></l><r>भारतीय<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>جھٹکا<s n="n"/><s n="m"/></l><r>झटका<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>زچگی<s n="n"/><s n="f"/></l><r>प्रसव<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>قسم<s n="n"/><s n="f"/></l><r>प्रकार<s n="n"/><s n="m"/></r></p></e> 
@@ -895,7 +1085,7 @@
     <e><p><l>شیشہ<s n="n"/><s n="m"/></l><r>शीशा<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>شیشی<s n="n"/><s n="f"/></l><r>शीशी<s n="n"/><s n="f"/></r></p></e> 
     <e><p><l>سعادت<s n="n"/><s n="f"/></l><r>परमानंद<s n="n"/><s n="f"/></r></p></e> 
-    <e><p><l>پنگھوڑا<s n="n"/><s n="m"/></l><r>पनघोड़ा<s n="n"/><s n="m"/></r></p></e> 
+    <e><p><l>پنگھوڑا<s n="n"/><s n="m"/></l><r>पंघूड़ा<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>طیارہ<s n="n"/><s n="m"/></l><r>विमान<s n="n"/><s n="m"/></r></p></e> 
     <e r="LR"><p><l>زاویہ<s n="n"/><s n="f"/></l><r>कोण<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>یاداشت<s n="n"/><s n="f"/></l><r>स्मृति<s n="n"/><s n="f"/></r></p></e> 
@@ -924,7 +1114,6 @@
     <e><p><l>انداز<s n="n"/><s n="m"/></l><r>शैली<s n="n"/><s n="f"/></r></p></e> 
     <e><p><l>دراز<s n="n"/><s n="f"/></l><r>दराज<s n="n"/><s n="f"/></r></p></e> 
     <e><p><l>نشانہ<s n="n"/><s n="m"/></l><r>निशाना<s n="n"/><s n="m"/></r></p></e> 
-    <e><p><l>آلا<s n="n"/><s n="m"/></l><r>अल्ला<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>آوارگی<s n="n"/><s n="f"/></l><r>विलास<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>مشق<s n="n"/><s n="f"/></l><r>अभ्यास<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>مَرد<s n="n"/><s n="m"/></l><r>पुरुष<s n="n"/><s n="m"/></r></p></e> 
@@ -935,7 +1124,7 @@
     <e><p><l>جُوتی<s n="n"/><s n="f"/></l><r>जूती<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>اوزار<s n="n"/><s n="m"/></l><r>उपकरण<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>برانڈ<s n="n"/><s n="m"/></l><r>ब्रांड<s n="n"/><s n="m"/></r></p></e> 
-    <e><p><l>ٹوٹکا<s n="n"/><s n="m"/></l><r>टिप<s n="n"/><s n="f"/></r></p></e> 
+    <e><p><l>ٹوٹکا<s n="n"/><s n="m"/></l><r>टोटका<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>پَر<s n="n"/><s n="m"/></l><r>पर<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>پگڑی<s n="n"/><s n="f"/></l><r>पगड़ी<s n="n"/><s n="f"/></r></p></e> 
     <e><p><l>بدمعاش<s n="n"/><s n="m"/></l><r>बदमाश<s n="n"/><s n="m"/></r></p></e> 
@@ -949,6 +1138,7 @@
     <e><p><l>تعرف<s n="n"/><s n="m"/></l><r>परिचय<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>دوا<s n="n"/><s n="f"/></l><r>दवा<s n="n"/><s n="f"/></r></p></e> 
     <e><p><l>پنجہ<s n="n"/><s n="m"/></l><r>पंजा<s n="n"/><s n="m"/></r></p></e> 
+    <e r="LR"><p><l>پنجا<s n="n"/><s n="m"/></l><r>पंजा<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>سیب<s n="n"/><s n="m"/></l><r>सेब<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>مدرس<s n="n"/><s n="m"/></l><r>मदरसे<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>چیز<s n="n"/><s n="f"/></l><r>वस्तु<s n="n"/><s n="f"/></r></p></e> 
@@ -964,6 +1154,7 @@
     <e><p><l>شملہ<s n="n"/><s n="m"/></l><r>शिमला<s n="n"/><s n="f"/></r></p></e> 
     <e><p><l>پیغمبر<s n="n"/><s n="m"/></l><r>पैगम्बर<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>گولہ<s n="n"/><s n="m"/></l><r>गोला<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>گولا<s n="n"/><s n="m"/></l><r>गोला<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>دوسرہ<s n="n"/><s n="m"/></l><r>दोसरह<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>سواری<s n="n"/><s n="f"/></l><r>सवारी<s n="n"/><s n="f"/></r></p></e> 
     <e><p><l>سُرمہ<s n="n"/><s n="m"/></l><r>कोल<s n="n"/><s n="m"/></r></p></e> 
@@ -1100,7 +1291,7 @@
     <e><p><l>ہولناکی<s n="n"/><s n="f"/></l><r>भीषणता<s n="n"/><s n="f"/></r></p></e> 
     <e><p><l>عادت<s n="n"/><s n="f"/></l><r>आदत<s n="n"/><s n="f"/></r></p></e> 
     <e><p><l>نسبت<s n="n"/><s n="f"/></l><r>तुलना<s n="n"/><s n="f"/></r></p></e> 
-    <e><p><l>بوٹا<s n="n"/><s n="m"/></l><r>बूटा<s n="n"/><s n="f"/></r></p></e> 
+    <e><p><l>بوٹا<s n="n"/><s n="m"/></l><r>बूटा<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>فرقہ<s n="n"/><s n="m"/></l><r>समुदाय<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>آٹا<s n="n"/><s n="m"/></l><r>आटा<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>بدن<s n="n"/><s n="m"/></l><r>बदन<s n="n"/><s n="m"/></r></p></e> 
@@ -1162,9 +1353,11 @@
     <e><p><l>ابھار<s n="n"/><s n="m"/></l><r>उभार<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>روایت<s n="n"/><s n="f"/></l><r>परंपरा<s n="n"/><s n="f"/></r></p></e> 
     <e><p><l>دھواں<s n="n"/><s n="m"/></l><r>धुआं<s n="n"/><s n="m"/></r></p></e> 
-    <e><p><l>کردار<s n="n"/><s n="m"/></l><r>भूमिका<s n="n"/><s n="f"/></r></p></e> 
-    <e><p><l>کاج<s n="n"/><s n="m"/></l><r>काज<s n="n"/><s n="m"/></r></p></e> 
+    <e><p><l>کردار<s n="n"/><s n="m"/></l><r>भूमिका<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>کاج<s n="n"/><s n="m"/></l><r>काज<s n="n"/><s n="m"/></r></p></e>  
+    <e><p><l>بیٹا<s n="n"/><s n="m"/></l><r>बेटा<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>نشہ<s n="n"/><s n="m"/></l><r>नशा<s n="n"/><s n="m"/></r></p></e> 
+    <e r="LR"><p><l>نشا<s n="n"/><s n="m"/></l><r>नशा<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>گیڈر<s n="n"/><s n="m"/></l><r>सियार<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>خورہ<s n="n"/><s n="m"/></l><r>कोथ<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>جھلی<s n="n"/><s n="f"/></l><r>झिल्ली<s n="n"/><s n="f"/></r></p></e> 
@@ -1245,6 +1438,14 @@
 
     <!-- Proper nouns -->
 
+    <e><p><l>مارٹن<s n="np"/><s n="ant"/><s n="m"/></l><r>मार्टिन<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>یوسف<s n="np"/><s n="ant"/><s n="m"/></l><r>यूसुफ़<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>رضی<s n="np"/><s n="ant"/><s n="m"/></l><r>रज़ी<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>حیدر<s n="np"/><s n="ant"/><s n="m"/></l><r>हैदर<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>عبد<s n="np"/><s n="ant"/><s n="m"/></l><r>अबद<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>عبداللہ<s n="np"/><s n="ant"/><s n="m"/></l><r>अबदुल्लाह<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>عبداللہ<s n="np"/><s n="ant"/><s n="m"/></l><r>अबदुल्ला<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e c="honda"><p><l>ہنڈا<s n="np"/><s n="ant"/><s n="m"/></l><r>होंडा<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e c="shumaal"><p><l>شمال<s n="np"/><s n="al"/></l><r>उत्तर<s n="np"/><s n="al"/></r></p></e>
     <e c="janub"><p><l>جنوب<s n="np"/><s n="al"/></l><r>दक्षिण<s n="np"/><s n="al"/></r></p></e>
     <e c="maghreb"><p><l>مغرب<s n="np"/><s n="al"/></l><r>पश्चिम<s n="np"/><s n="al"/></r></p></e>
@@ -1264,7 +1465,8 @@
     <e c="ali"><p><l>علی<s n="np"/><s n="ant"/><s n="m"/></l><r>अली<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e c="khuda"><p><l>خدا<s n="np"/><s n="ant"/><s n="m"/></l><r>ख़ुदा<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e c="khuda" r="RL"><p><l>خدا<s n="np"/><s n="ant"/><s n="m"/></l><r>खुदा<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-    <e c="allah"><p><l>اللہ<s n="np"/><s n="ant"/><s n="m"/></l><r>अल्लाह<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e c="allah" r="LR"><p><l>اللہ<s n="np"/><s n="ant"/><s n="m"/></l><r>अल्लाह<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e c="allah"><p><l>الله<s n="np"/><s n="ant"/><s n="m"/></l><r>अल्लाह<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e c="āmil"><p><l>عامل<s n="np"/><s n="ant"/><s n="m"/></l><r>आमिल<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e c="James"><p><l>جیمز<s n="np"/><s n="ant"/><s n="m"/></l><r>जेम्स<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e c="Māryām"><p><l>مریم<s n="np"/><s n="ant"/><s n="f"/></l><r>मैरी<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
@@ -1291,7 +1493,7 @@
     <e c="newzealand"><p><l>نیوزی لینڈ<s n="np"/><s n="top"/></l><r>न्यूज़ीलैंड‌<s n="np"/><s n="top"/></r></p></e>  
     <e c="newzealand" r="RL"><p><l>نیوزی لینڈ<s n="np"/><s n="top"/></l><r>न्यू ज़ीलैंड‌<s n="np"/><s n="top"/></r></p></e>  
     <e c="newzealand" r="LR"><p><l>نیوزیلینڈ<s n="np"/><s n="top"/></l><r>न्यूज़ीलैंड‌<s n="np"/><s n="top"/></r></p></e>  
-    <e c="poland"><p><l>پولینڈ<s n="np"/><s n="top"/></l><r>पोलैंड‌<s n="np"/><s n="top"/></r></p></e>  
+    <e c="poland"><p><l>پولینڈ<s n="np"/><s n="top"/></l><r>पोलैंड‌<s n="np"/><s n="top"/></r></p></e> 
     <e c="poland" r="LR"><p><l>پو لینڈ<s n="np"/><s n="top"/></l><r>पोलैंड‌<s n="np"/><s n="top"/></r></p></e>  
     <e c="swaziland"><p><l>سوازی لینڈ<s n="np"/><s n="top"/></l><r>स्वाज़ीलैंड‌<s n="np"/><s n="top"/></r></p></e>  
     <e c="swaziland"><p><l>سوازیلینڈ<s n="np"/><s n="top"/></l><r>स्वाज़ीलैंड‌<s n="np"/><s n="top"/></r></p></e>  
@@ -1312,7 +1514,34 @@
     <e c="nagaland"><p><l>ناگالینڈ<s n="np"/><s n="top"/></l><r>नागालैंड<s n="np"/><s n="top"/></r></p></e>  
     <e c="cheen"><p><l>چین<s n="np"/><s n="top"/></l><r>चीन‌<s n="np"/><s n="top"/></r></p></e>  
     <e c="birtania"><p><l>برطانیہ<s n="np"/><s n="top"/></l><r>ब्रिटेन<s n="np"/><s n="top"/></r></p></e>  
-                            
+    <e c="misr"><p><l>مصر<s n="np"/><s n="top"/></l><r>मिस्र<s n="np"/><s n="top"/></r></p></e>  
+    <e c="africa"><p><l>افریقہ<s n="np"/><s n="top"/></l><r>अफ़्रीका<s n="np"/><s n="top"/></r></p></e>
+    <e c="sindh"><p><l>سندھ<s n="np"/><s n="top"/></l><r>सिंध<s n="np"/><s n="top"/></r></p></e> 
+    <e c="sindh" r="RL"><p><l>سندھ<s n="np"/><s n="top"/></l><r>सिन्ध<s n="np"/><s n="top"/></r></p></e> 
+    <e c="europe"><p><l>یورپ<s n="np"/><s n="top"/></l><r>यूरोप<s n="np"/><s n="top"/></r></p></e>       
+    <e c="rus"><p><l>روس<s n="np"/><s n="top"/></l><r>रूस<s n="np"/><s n="top"/></r></p></e>
+    <e c="canada"><p><l>کینیڈا<s n="np"/><s n="top"/></l><r>कैनेडा<s n="np"/><s n="top"/></r></p></e>
+    <e c="canada" r="RL"><p><l>کینیڈا<s n="np"/><s n="top"/></l><r>कनाडा<s n="np"/><s n="top"/></r></p></e>    
+    <e c="france"><p><l>فرانس<s n="np"/><s n="top"/></l><r>फ़्राँस<s n="np"/><s n="top"/></r></p></e>        
+    <e c="turkey"><p><l>ترکی<s n="np"/><s n="top"/></l><r>तुर्की<s n="np"/><s n="top"/></r></p></e>
+    <e c="mecca"><p><l>مکہ<s n="np"/><s n="top"/></l><r>मक्का<s n="np"/><s n="top"/></r></p></e>
+    <e c="afghanistan"><p><l>افغانستان<s n="np"/><s n="top"/></l><r>अफ़ग़ानिस्तान‌<s n="np"/><s n="top"/></r></p></e>
+    <e c="afghanistan" r="RL"><p><l>افغانستان<s n="np"/><s n="top"/></l><r>अफ़्ग़ानिस्तान<s n="np"/><s n="top"/></r></p></e>
+    <e c="illinois"><p><l>الینوائے<s n="np"/><s n="top"/></l><r>इलिनॉय<s n="np"/><s n="top"/></r></p></e> 
+    <e c="hind"><p><l>ہند<s n="np"/><s n="top"/></l><r>हिंद<s n="np"/><s n="top"/></r></p></e> 
+    <e c="germany"><p><l>جرمنی<s n="np"/><s n="top"/></l><r>जर्मनी<s n="np"/><s n="top"/></r></p></e>                 
+    <e><p><l>لندن<s n="np"/><s n="top"/></l><r>लंदन<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>دہلی<s n="np"/><s n="top"/></l><r>दिल्ली<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>مینیسوٹا<s n="np"/><s n="top"/></l><r>मिनेसोटा<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>بلوچستان<s n="np"/><s n="top"/></l><r>बलोचिस्तान<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>جاپان<s n="np"/><s n="top"/></l><r>जापान‌<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>عراق<s n="np"/><s n="top"/></l><r>इराक‌<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>اسرائیل<s n="np"/><s n="top"/></l><r>इज़राइल<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>کشمیر<s n="np"/><s n="top"/></l><r>कश्मीर<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>کولمبیا<s n="np"/><s n="top"/></l><r>कोलम्बिया<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>انڈیانا<s n="np"/><s n="top"/></l><r>इंडियाना<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>روم<s n="np"/><s n="top"/></l><r>रोम<s n="np"/><s n="top"/></r></p></e>
+
     <!-- Pronoun -->  
  
    <e c="main"><p><l>میں<s n="prn"/></l><r>मैं<s n="prn"/></r></p></e>
@@ -1331,6 +1560,316 @@
 
    <!-- Adjectives -->
 
+    <e><p><l>برابر<s n="adj"/></l><r>बराबर<s n="adj"/></r></p></e>
+    <e><p><l>شدید<s n="adj"/></l><r>प्रचण्ड<s n="adj"/></r></p></e>
+    <e><p><l>علمی<s n="adj"/></l><r>ज्ञानवादी<s n="adj"/></r></p></e>
+    <e><p><l>سابق<s n="adj"/></l><r>पूर्व<s n="adj"/></r></p></e>
+    <e><p><l>انتظامی<s n="adj"/></l><r>प्रशासनिक<s n="adj"/></r></p></e>
+    <e><p><l>اعظم<s n="adj"/></l><r>महान<s n="adj"/></r></p></e>
+    <e><p><l>علامہ<s n="adj"/></l><r>विद्वान<s n="adj"/></r></p></e>
+    <e><p><l>ہوائی<s n="adj"/></l><r>हवाई<s n="adj"/></r></p></e>
+    <e><p><l>وسیع<s n="adj"/></l><r>विशाल<s n="adj"/></r></p></e>
+    <e><p><l>متعلقہ<s n="adj"/></l><r>उपयुक्त<s n="adj"/></r></p></e>
+    <e><p><l>منتقل<s n="adj"/></l><r>हस्तान्तरित<s n="adj"/></r></p></e>
+    <e><p><l>یورپی<s n="adj"/></l><r>यूरोपीय<s n="adj"/></r></p></e>
+    <e><p><l>بیرونی<s n="adj"/></l><r>ऊपरी<s n="adj"/></r></p></e>
+    <e><p><l>طویل<s n="adj"/></l><r>दीर्घ<s n="adj"/></r></p></e>
+    <e><p><l>نیو<s n="adj"/></l><r>न्यू<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>ممکن<s n="adj"/></l><r>मुमकिन<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>ممکن<s n="adj"/></l><r>सम्भव<s n="adj"/></r></p></e>
+    <e><p><l>ممکن<s n="adj"/></l><r>संभव<s n="adj"/></r></p></e>
+    <e><p><l>بہترین<s n="adj"/></l><r>सर्वश्रेष्ठ<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>بہترین<s n="adj"/></l><r>बेहतरीन<s n="adj"/></r></p></e>
+    <e><p><l>عوامی<s n="adj"/></l><r>सार्वजनिक<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>وسطی<s n="adj"/></l><r>मध्यम<s n="adj"/></r></p></e>
+    <e><p><l>ضروری<s n="adj"/></l><r>ज़रूरी<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>ضروری<s n="adj"/></l><r>जरूरी<s n="adj"/></r></p></e>
+    <e><p><l>اصطلاح<s n="adj"/></l><r>पारिभाषिक<s n="adj"/></r></p></e>
+    <e><p><l>تبدیل<s n="adj"/></l><r>परिवर्तित<s n="adj"/></r></p></e>
+    <e><p><l>بغیر<s n="adj"/></l><r>बग़ैर<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>بغیر<s n="adj"/></l><r>बगैर<s n="adj"/></r></p></e>
+    <e><p><l>سخت<s n="adj"/></l><r>सख्त<s n="adj"/></r></p></e>
+    <e><p><l>متعدد<s n="adj"/></l><r>अधिक<s n="adj"/></r></p></e>
+    <e><p><l>نصف<s n="adj"/></l><r>अर्ध<s n="adj"/></r></p></e>
+    <e><p><l>پاک<s n="adj"/></l><r>पावन<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>پاک<s n="adj"/></l><r>पाक<s n="adj"/></r></p></e>
+    <e><p><l>مخصوص<s n="adj"/></l><r>खास<s n="adj"/></r></p></e>
+    <e><p><l>واقع<s n="adj"/></l><r>स्थापित<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>معروف<s n="adj"/></l><r>मशहूर<s n="adj"/></r></p></e>
+    <e><p><l>باقی<s n="adj"/></l><r>बाकी<s n="adj"/></r></p></e>
+    <e><p><l>مذہبی<s n="adj"/></l><r>मज़हबी<s n="adj"/></r></p></e>
+    <e><p><l>کامیاب<s n="adj"/></l><r>सफल<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>کامیاب<s n="adj"/></l><r>कामयाब<s n="adj"/></r></p></e>
+    <e><p><l>داخل<s n="adj"/></l><r>दाखिल<s n="adj"/></r></p></e>
+    <e><p><l>منتخب<s n="adj"/></l><r>चुनिन्दा<s n="adj"/></r></p></e>
+    <e><p><l>نہایت<s n="adj"/></l><r>बहुत<s n="adj"/></r></p></e>
+    <e><p><l>نئی<s n="adj"/></l><r>नई<s n="adj"/></r></p></e>
+    <e><p><l>اول<s n="adj"/></l><r>अव्वल<s n="adj"/></r></p></e>
+    <e><p><l>تاریخی<s n="adj"/></l><r>ऐतिहासिक<s n="adj"/></r></p></e>
+    <e><p><l>امیر<s n="adj"/></l><r>अमीर<s n="adj"/></r></p></e>
+    <e><p><l>نئے<s n="adj"/></l><r>नए<s n="adj"/></r></p></e>
+    <e><p><l>بین الاقوامی<s n="adj"/></l><r>अंतरराष्ट्रीय<s n="adj"/></r></p></e>
+    <e><p><l>مقامی<s n="adj"/></l><r>स्थानीय<s n="adj"/></r></p></e>
+    <e><p><l>جلن دار<s n="adj"/></l><r>जलनदार<s n="adj"/></r></p></e>
+    <e><p><l>تمن دار<s n="adj"/></l><r>तुमनदार<s n="adj"/></r></p></e>
+    <e><p><l>داغ دار<s n="adj"/></l><r>दागदार<s n="adj"/></r></p></e>
+    <e><p><l>شاخ دار<s n="adj"/></l><r>शाखदार<s n="adj"/></r></p></e>
+    <e><p><l>دانے دار<s n="adj"/></l><r>दानेदार<s n="adj"/></r></p></e>
+    <e><p><l>ذمہ دار<s n="adj"/></l><r>ज़िम्मेदार<s n="adj"/></r></p></e>
+    <e><p><l>سمجھ دار<s n="adj"/></l><r>समझदार<s n="adj"/></r></p></e>
+    <e><p><l>مفتی دار<s n="adj"/></l><r>मुफ़्तीदार<s n="adj"/></r></p></e>
+    <e><p><l>چٹخارے دار<s n="adj"/></l><r>चटखारेदार<s n="adj"/></r></p></e>
+    <e><p><l>کارخانہ دار<s n="adj"/></l><r>कारखानादार<s n="adj"/></r></p></e>
+    <e><p><l>تعلقہ دار<s n="adj"/></l><r>ताल्लुकादार<s n="adj"/></r></p></e>
+    <e><p><l>بدبو دار<s n="adj"/></l><r>बदबूदार<s n="adj"/></r></p></e>
+    <e><p><l>دم دار<s n="adj"/></l><r>दमदार<s n="adj"/></r></p></e>
+    <e><p><l>قلع دار<s n="adj"/></l><r>किलादार<s n="adj"/></r></p></e>
+    <e><p><l>نام دار<s n="adj"/></l><r>नामदार<s n="adj"/></r></p></e>
+    <e><p><l>پرت دار<s n="adj"/></l><r>परतदार<s n="adj"/></r></p></e>
+    <e><p><l>خار دار<s n="adj"/></l><r>खारदार<s n="adj"/></r></p></e>
+    <e><p><l>غیردھاری دار<s n="adj"/></l><r>गीरधारीदार<s n="adj"/></r></p></e>
+    <e><p><l>پیچ دار<s n="adj"/></l><r>पेचदार<s n="adj"/></r></p></e>
+    <e><p><l>پہرہ دار<s n="adj"/></l><r>पहरादार<s n="adj"/></r></p></e>
+    <e><p><l>دُم دار<s n="adj"/></l><r>दुमदार<s n="adj"/></r></p></e>
+    <e><p><l>چھچھڑے دار<s n="adj"/></l><r>छिछड़ेदार<s n="adj"/></r></p></e>
+    <e><p><l>قرار دار<s n="adj"/></l><r>करारदार<s n="adj"/></r></p></e>
+    <e><p><l>نمو دار<s n="adj"/></l><r>नमूदार<s n="adj"/></r></p></e>
+    <e><p><l>زمہ دار<s n="adj"/></l><r>ज़िम्मादार<s n="adj"/></r></p></e>
+    <e><p><l>نوک دار<s n="adj"/></l><r>नोकदार<s n="adj"/></r></p></e>
+    <e><p><l>چنٹ دار<s n="adj"/></l><r>चंटदार<s n="adj"/></r></p></e>
+    <e><p><l>گانٹھ دار<s n="adj"/></l><r>गांठदार<s n="adj"/></r></p></e>
+    <e><p><l>وزن دار<s n="adj"/></l><r>वज़नदार<s n="adj"/></r></p></e>
+    <e><p><l>سیاست دار<s n="adj"/></l><r>राजनेता<s n="adj"/></r></p></e>
+    <e><p><l>رشتے دار<s n="adj"/></l><r>रिश्तेदार<s n="adj"/></r></p></e>
+    <e><p><l>خود دار<s n="adj"/></l><r>खुद्दार<s n="adj"/></r></p></e>
+    <e><p><l>سایہ دار<s n="adj"/></l><r>सायादार<s n="adj"/></r></p></e>
+    <e><p><l>خاصہ دار<s n="adj"/></l><r>खास्सादार<s n="adj"/></r></p></e>
+    <e><p><l>سونڈ دار<s n="adj"/></l><r>सूंडदार<s n="adj"/></r></p></e>
+    <e><p><l>کھونٹی دار<s n="adj"/></l><r>खूंटीदार<s n="adj"/></r></p></e>
+    <e><p><l>ہوا دار<s n="adj"/></l><r>हवादार<s n="adj"/></r></p></e>
+    <e><p><l>چھتے دار<s n="adj"/></l><r>छत्तेदार<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>دعوٰی دار<s n="adj"/></l><r>दावेदार<s n="adj"/></r></p></e>
+    <e><p><l>قرض دار<s n="adj"/></l><r>कर्ज़दार<s n="adj"/></r></p></e>
+    <e><p><l>دھواں دار<s n="adj"/></l><r>धुआँदार<s n="adj"/></r></p></e>
+    <e><p><l>بے دار<s n="adj"/></l><r>सचेत<s n="adj"/></r></p></e>
+    <e><p><l>گنجائش دار<s n="adj"/></l><r>समायोजक<s n="adj"/></r></p></e>
+    <e><p><l>مسالہ دار<s n="adj"/></l><r>मसालादार<s n="adj"/></r></p></e>
+    <e><p><l>ٹھیکے دار<s n="adj"/></l><r>ठेकेदार<s n="adj"/></r></p></e>
+    <e><p><l>گرج دار<s n="adj"/></l><r>गरजदार<s n="adj"/></r></p></e>
+    <e><p><l>سراخ دار<s n="adj"/></l><r>सुराखदार<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>دیانت دار<s n="adj"/></l><r>ईमानदार<s n="adj"/></r></p></e>
+    <e><p><l>لیس دار<s n="adj"/></l><r>लैसदार<s n="adj"/></r></p></e>
+    <e><p><l>چمک دار<s n="adj"/></l><r>चमकदार<s n="adj"/></r></p></e>
+    <e><p><l>بحق دار<s n="adj"/></l><r>बहकदार<s n="adj"/></r></p></e>
+    <e><p><l>کاذمہ دار<s n="adj"/></l><r>काज़मादार<s n="adj"/></r></p></e>
+    <e><p><l>سولو دار<s n="adj"/></l><r>सोलोदार<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>رشتہ دار<s n="adj"/></l><r>रिश्तेदार<s n="adj"/></r></p></e>
+    <e><p><l>سیڑھی دار<s n="adj"/></l><r>सीढ़ीदार<s n="adj"/></r></p></e>
+    <e><p><l>وکر دار<s n="adj"/></l><r>वक्रदार<s n="adj"/></r></p></e>
+    <e><p><l>دنیا دار<s n="adj"/></l><r>दुनियादार<s n="adj"/></r></p></e>
+    <e><p><l>منصب دار<s n="adj"/></l><r>मंसबदार<s n="adj"/></r></p></e>
+    <e><p><l>تر دار<s n="adj"/></l><r>तरदार<s n="adj"/></r></p></e>
+    <e><p><l>آکر دار<s n="adj"/></l><r>आकरदार<s n="adj"/></r></p></e>
+    <e><p><l>ہڈی دار<s n="adj"/></l><r>हड्डीदार<s n="adj"/></r></p></e>
+    <e><p><l>خرطوم دار<s n="adj"/></l><r>खुरतूमदार<s n="adj"/></r></p></e>
+    <e><p><l>قافیہ دار<s n="adj"/></l><r>काफ़ियादार<s n="adj"/></r></p></e>
+    <e><p><l>الائچی دار<s n="adj"/></l><r>इलायचीदार<s n="adj"/></r></p></e>
+    <e><p><l>چوکی دار<s n="adj"/></l><r>चौकीदार<s n="adj"/></r></p></e>
+    <e><p><l>گز دار<s n="adj"/></l><r>गज़दार<s n="adj"/></r></p></e>
+    <e><p><l>گری دار<s n="adj"/></l><r>गिरीदार<s n="adj"/></r></p></e>
+    <e><p><l>چاک دار<s n="adj"/></l><r>चाकदार<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>قلعہ دار<s n="adj"/></l><r>किलादार<s n="adj"/></r></p></e>
+    <e><p><l>جڑ دار<s n="adj"/></l><r>जड़दार<s n="adj"/></r></p></e>
+    <e><p><l>اشارہ دار<s n="adj"/></l><r>इशारादार<s n="adj"/></r></p></e>
+    <e><p><l>قبہ دار<s n="adj"/></l><r>कुब्बादार<s n="adj"/></r></p></e>
+    <e><p><l>صوبے دار<s n="adj"/></l><r>सूबेदार<s n="adj"/></r></p></e>
+    <e><p><l>مائے دار<s n="adj"/></l><r>मायदार<s n="adj"/></r></p></e>
+    <e><p><l>کارخانے دار<s n="adj"/></l><r>कारखानेदार<s n="adj"/></r></p></e>
+    <e><p><l>جاگیر دار<s n="adj"/></l><r>जागीरदार<s n="adj"/></r></p></e>
+    <e><p><l>جلا دار<s n="adj"/></l><r>जलादार<s n="adj"/></r></p></e>
+    <e><p><l>حق دار<s n="adj"/></l><r>हकदार<s n="adj"/></r></p></e>
+    <e><p><l>آل دار<s n="adj"/></l><r>ऑलदार<s n="adj"/></r></p></e>
+    <e><p><l>ذمہ دار<s n="adj"/></l><r>ज़िम्मेदार<s n="adj"/></r></p></e>
+    <e><p><l>دیو دار<s n="adj"/></l><r>देवदार<s n="adj"/></r></p></e>
+    <e><p><l>ثمر دار<s n="adj"/></l><r>समरदार<s n="adj"/></r></p></e>
+    <e><p><l>لوچ دار<s n="adj"/></l><r>लोचदार<s n="adj"/></r></p></e>
+    <e><p><l>زور دار<s n="adj"/></l><r>ज़ोरदार<s n="adj"/></r></p></e>
+    <e><p><l>رعب دار<s n="adj"/></l><r>रोबदार<s n="adj"/></r></p></e>
+    <e><p><l>مزاج دار<s n="adj"/></l><r>मिज़ाजदार<s n="adj"/></r></p></e>
+    <e><p><l>دعوے دار<s n="adj"/></l><r>दावेदार<s n="adj"/></r></p></e>
+    <e><p><l>کھانچے دار<s n="adj"/></l><r>खांचेदार<s n="adj"/></r></p></e>
+    <e><p><l>کانٹے دار<s n="adj"/></l><r>कांटेदार<s n="adj"/></r></p></e>
+    <e><p><l>جھاڑی دار<s n="adj"/></l><r>झाड़ीदार<s n="adj"/></r></p></e>
+    <e><p><l>پہرے دار<s n="adj"/></l><r>पहरेदार<s n="adj"/></r></p></e>
+    <e><p><l>کرایہ دار<s n="adj"/></l><r>किरायादार<s n="adj"/></r></p></e>
+    <e><p><l>مسالے دار<s n="adj"/></l><r>मसालेदार<s n="adj"/></r></p></e>
+    <e><p><l>بیلن دار<s n="adj"/></l><r>बेलनदार<s n="adj"/></r></p></e>
+    <e><p><l>دھبے دار<s n="adj"/></l><r>धब्बेदार<s n="adj"/></r></p></e>
+    <e><p><l>ایمان دار<s n="adj"/></l><r>ईमानदार<s n="adj"/></r></p></e>
+    <e><p><l>اسے دار<s n="adj"/></l><r>उसेदार<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>رےشہ دار<s n="adj"/></l><r>रेशादार<s n="adj"/></r></p></e>
+    <e><p><l>لکڑی دار<s n="adj"/></l><r>लक्कड़ीदार<s n="adj"/></r></p></e>
+    <e><p><l>سُم دار<s n="adj"/></l><r>खुरदार<s n="adj"/></r></p></e>
+    <e><p><l>فاضل دار<s n="adj"/></l><r>विद्वतापूर्ण<s n="adj"/></r></p></e>
+    <e><p><l>دکان دار<s n="adj"/></l><r>दुकानदार<s n="adj"/></r></p></e>
+    <e><p><l>پھر دار<s n="adj"/></l><r>फिरदार<s n="adj"/></r></p></e>
+    <e><p><l>دفتر دار<s n="adj"/></l><r>दफ़्तरदार<s n="adj"/></r></p></e>
+    <e><p><l>دھاری دار<s n="adj"/></l><r>धारीदार<s n="adj"/></r></p></e>
+    <e><p><l>حصے دار<s n="adj"/></l><r>हिस्सेदार<s n="adj"/></r></p></e>
+    <e><p><l>برج دار<s n="adj"/></l><r>बुर्जदार<s n="adj"/></r></p></e>
+    <e><p><l>پرہ دار<s n="adj"/></l><r>पर्रादार<s n="adj"/></r></p></e>
+    <e><p><l>مال دار<s n="adj"/></l><r>मालदार<s n="adj"/></r></p></e>
+    <e><p><l>چوڑی دار<s n="adj"/></l><r>चूड़ीदार<s n="adj"/></r></p></e>
+    <e><p><l>پہلو دار<s n="adj"/></l><r>पहलूदार<s n="adj"/></r></p></e>
+    <e><p><l>دفعہ دار<s n="adj"/></l><r>दफ़ादार<s n="adj"/></r></p></e>
+    <e><p><l>دوسرا دار<s n="adj"/></l><r>दूसरादार<s n="adj"/></r></p></e>
+    <e><p><l>نمبر دار<s n="adj"/></l><r>नंबरदार<s n="adj"/></r></p></e>
+    <e><p><l>رنگ دار<s n="adj"/></l><r>रंगदार<s n="adj"/></r></p></e>
+    <e><p><l>ہل دار<s n="adj"/></l><r>हलदार<s n="adj"/></r></p></e>
+    <e><p><l>حصہ دار<s n="adj"/></l><r>हिस्सादार<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>سرمایا دار<s n="adj"/></l><r>मालदार<s n="adj"/></r></p></e>
+    <e><p><l>جانب دار<s n="adj"/></l><r>पक्षपातपूर्ण<s n="adj"/></r></p></e>
+    <e><p><l>میدان دار<s n="adj"/></l><r>मैदानदार<s n="adj"/></r></p></e>
+    <e><p><l>کوتاہی دار<s n="adj"/></l><r>कोताहीदार<s n="adj"/></r></p></e>
+    <e><p><l>ریاستی دار<s n="adj"/></l><r>रियास्तीदार<s n="adj"/></r></p></e>
+    <e><p><l>واقعہ دار<s n="adj"/></l><r>वाकियादार<s n="adj"/></r></p></e>
+    <e><p><l>ذائقہ دار<s n="adj"/></l><r>ज़ाइकादार<s n="adj"/></r></p></e>
+    <e><p><l>مرغولہ دار<s n="adj"/></l><r>वलयाकार<s n="adj"/></r></p></e>
+    <e><p><l>امانت دار<s n="adj"/></l><r>अमानतदार<s n="adj"/></r></p></e>
+    <e><p><l>جان دار<s n="adj"/></l><r>जानदार<s n="adj"/></r></p></e>
+    <e><p><l>تہہ دار<s n="adj"/></l><r>पर्णदलीय<s n="adj"/></r></p></e>
+    <e><p><l>پروانہ دار<s n="adj"/></l><r>परवानादार<s n="adj"/></r></p></e>
+    <e><p><l>بال دار<s n="adj"/></l><r>बालदार<s n="adj"/></r></p></e>
+    <e><p><l>بَل دار<s n="adj"/></l><r>घुमावदार<s n="adj"/></r></p></e>
+    <e><p><l>رستہ دار<s n="adj"/></l><r>रस्तादार<s n="adj"/></r></p></e>
+    <e><p><l>وضع دار<s n="adj"/></l><r>अनुशासित<s n="adj"/></r></p></e>
+    <e><p><l>کاٹ دار<s n="adj"/></l><r>काटदार<s n="adj"/></r></p></e>
+    <e><p><l>پھلی دار<s n="adj"/></l><r>फलीदार<s n="adj"/></r></p></e>
+    <e><p><l>كليہ دار<s n="adj"/></l><r>कुल्लियादार<s n="adj"/></r></p></e>
+    <e><p><l>کر دار<s n="adj"/></l><r>किरदार<s n="adj"/></r></p></e>
+    <e><p><l>علم دار<s n="adj"/></l><r>इलमदार<s n="adj"/></r></p></e>
+    <e><p><l>خبر دار<s n="adj"/></l><r>खबरदार<s n="adj"/></r></p></e>
+    <e><p><l>تختہ دار<s n="adj"/></l><r>तख्तादार<s n="adj"/></r></p></e>
+    <e><p><l>لےس دار<s n="adj"/></l><r>लेसदार<s n="adj"/></r></p></e>
+    <e><p><l>پٹڑی دار<s n="adj"/></l><r>पटड़ीदार<s n="adj"/></r></p></e>
+    <e><p><l>ذمے دار<s n="adj"/></l><r>ज़िम्मेदार<s n="adj"/></r></p></e>
+    <e><p><l>درجہ دار<s n="adj"/></l><r>दर्जादार<s n="adj"/></r></p></e>
+    <e><p><l>روزہ دار<s n="adj"/></l><r>रोज़ादार<s n="adj"/></r></p></e>
+    <e><p><l>آبلہ دار<s n="adj"/></l><r>आबलादार<s n="adj"/></r></p></e>
+    <e><p><l>مایہ دار<s n="adj"/></l><r>मायादार<s n="adj"/></r></p></e>
+    <e><p><l>کمان دار<s n="adj"/></l><r>कमानदार<s n="adj"/></r></p></e>
+    <e><p><l>بچت دار<s n="adj"/></l><r>बचतदार<s n="adj"/></r></p></e>
+    <e><p><l>مہمان دار<s n="adj"/></l><r>मेहमानदार<s n="adj"/></r></p></e>
+    <e><p><l>لکیر دار<s n="adj"/></l><r>लकीरदार<s n="adj"/></r></p></e>
+    <e><p><l>پھل دار<s n="adj"/></l><r>फुलदार<s n="adj"/></r></p></e>
+    <e><p><l>تحصیل دار<s n="adj"/></l><r>तहसीलदार<s n="adj"/></r></p></e>
+    <e><p><l>لچک دار<s n="adj"/></l><r>लचकदार<s n="adj"/></r></p></e>
+    <e><p><l>خانہ دار<s n="adj"/></l><r>खानादार<s n="adj"/></r></p></e>
+    <e><p><l>طرف دار<s n="adj"/></l><r>तरफ़दार<s n="adj"/></r></p></e>
+    <e><p><l>پردہ دار<s n="adj"/></l><r>पर्दादार<s n="adj"/></r></p></e>
+    <e><p><l>چکر دار<s n="adj"/></l><r>चक्करदार<s n="adj"/></r></p></e>
+    <e><p><l>دندانے دار<s n="adj"/></l><r>दनदानेदार<s n="adj"/></r></p></e>
+    <e><p><l>شیر دار<s n="adj"/></l><r>शेरदार<s n="adj"/></r></p></e>
+    <e><p><l>تمیز دار<s n="adj"/></l><r>तमीज़दार<s n="adj"/></r></p></e>
+    <e><p><l>محلہ دار<s n="adj"/></l><r>महल्लादार<s n="adj"/></r></p></e>
+    <e><p><l>ملای دار<s n="adj"/></l><r>मलाईदार<s n="adj"/></r></p></e>
+    <e><p><l>ڈوری دار<s n="adj"/></l><r>डोरीदार<s n="adj"/></r></p></e>
+    <e><p><l>طبقہ دار<s n="adj"/></l><r>तबकादार<s n="adj"/></r></p></e>
+    <e><p><l>عہدے دار<s n="adj"/></l><r>ओहदेदार<s n="adj"/></r></p></e>
+    <e><p><l>سر دار<s n="adj"/></l><r>सरदार<s n="adj"/></r></p></e>
+    <e><p><l>رس دار<s n="adj"/></l><r>रसदार<s n="adj"/></r></p></e>
+    <e><p><l>دندانہ دار<s n="adj"/></l><r>दंदानादार<s n="adj"/></r></p></e>
+    <e><p><l>ڈھیلے دار<s n="adj"/></l><r>ढीलेदार<s n="adj"/></r></p></e>
+    <e><p><l>پہیہ دار<s n="adj"/></l><r>पहियादार<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>ذمّہ دار<s n="adj"/></l><r>ज़िम्मादार<s n="adj"/></r></p></e>
+    <e><p><l>نالی دار<s n="adj"/></l><r>नालीदार<s n="adj"/></r></p></e>
+    <e><p><l>نم دار<s n="adj"/></l><r>नम<s n="adj"/></r></p></e>
+    <e><p><l>طرح دار<s n="adj"/></l><r>फैशनप्रिय<s n="adj"/></r></p></e>
+    <e><p><l>کاربن دار<s n="adj"/></l><r>कार्बनमय<s n="adj"/></r></p></e>
+    <e><p><l>خارش دار<s n="adj"/></l><r>खारिशदार<s n="adj"/></r></p></e>
+    <e><p><l>شان دار<s n="adj"/></l><r>शानदार<s n="adj"/></r></p></e>
+    <e><p><l>دیہاڑی دار<s n="adj"/></l><r>दीहाड़ीदार<s n="adj"/></r></p></e>
+    <e><p><l>دعویٰ دار<s n="adj"/></l><r>दावादार<s n="adj"/></r></p></e>
+    <e><p><l>لعاب دار<s n="adj"/></l><r>लसीला<s n="adj"/></r></p></e>
+    <e><p><l>دانہ دار<s n="adj"/></l><r>दानादार<s n="adj"/></r></p></e>
+    <e><p><l>پھول دار<s n="adj"/></l><r>फूलदार<s n="adj"/></r></p></e>
+    <e><p><l>مسام دار<s n="adj"/></l><r>झिरझिरा<s n="adj"/></r></p></e>
+    <e><p><l>دین دار<s n="adj"/></l><r>दीनदार<s n="adj"/></r></p></e>
+    <e><p><l>رسوخ دار<s n="adj"/></l><r>रसूखदार<s n="adj"/></r></p></e>
+    <e><p><l>شراکت دار<s n="adj"/></l><r>साझेदार<s n="adj"/></r></p></e>
+    <e><p><l>عہدہ دار<s n="adj"/></l><r>ओहदादार<s n="adj"/></r></p></e>
+    <e><p><l>ضلع دار<s n="adj"/></l><r>ज़िलादार<s n="adj"/></r></p></e>
+    <e><p><l>ڈھاری دار<s n="adj"/></l><r>ढारीदार<s n="adj"/></r></p></e>
+    <e><p><l>غیرذمّہ دار<s n="adj"/></l><r>गैरज़िम्मादार<s n="adj"/></r></p></e>
+    <e><p><l>تنخواہ دار<s n="adj"/></l><r>तनख़्वाहदार<s n="adj"/></r></p></e>
+    <e><p><l>دستہ دار<s n="adj"/></l><r>दस्तादार<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>لوج دار<s n="adj"/></l><r>लचकदार<s n="adj"/></r></p></e>
+    <e><p><l>پیپ دار<s n="adj"/></l><r>पीपदार<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>دعوی دار<s n="adj"/></l><r>दावेदार<s n="adj"/></r></p></e>
+    <e><p><l>جالی دار<s n="adj"/></l><r>जालीदार<s n="adj"/></r></p></e>
+    <e><p><l>سوراخ دار<s n="adj"/></l><r>सूराखदार<s n="adj"/></r></p></e>
+    <e><p><l>اجارہ دار<s n="adj"/></l><r>एकाधिकारी<s n="adj"/></r></p></e>
+    <e><p><l>مزے دار<s n="adj"/></l><r>मज़ेदार<s n="adj"/></r></p></e>
+    <e><p><l>سرمایہ دار<s n="adj"/></l><r>सरमायादार<s n="adj"/></r></p></e>
+    <e><p><l>پہیے دار<s n="adj"/></l><r>पहियेदार<s n="adj"/></r></p></e>
+    <e><p><l>جھاگ دار<s n="adj"/></l><r>झागदार<s n="adj"/></r></p></e>
+    <e><p><l>صوبہ دار<s n="adj"/></l><r>सूबादार<s n="adj"/></r></p></e>
+    <e><p><l>پر دار<s n="adj"/></l><r>परदार<s n="adj"/></r></p></e>
+    <e><p><l>پستان دار<s n="adj"/></l><r>स्तनधारी<s n="adj"/></r></p></e>
+    <e><p><l>کی دار<s n="adj"/></l><r>कीदार<s n="adj"/></r></p></e>
+    <e><p><l>جبہ دار<s n="adj"/></l><r>जिबहदार<s n="adj"/></r></p></e>
+    <e><p><l>کیسہ دار<s n="adj"/></l><r>कीसादार<s n="adj"/></r></p></e>
+    <e><p><l>بار دار<s n="adj"/></l><r>गर्भवती<s n="adj"/></r></p></e>
+    <e><p><l>چھالے دار<s n="adj"/></l><r>छालेदार<s n="adj"/></r></p></e>
+    <e><p><l>گونج دار<s n="adj"/></l><r>गूंजदार<s n="adj"/></r></p></e>
+    <e><p><l>قبر دار<s n="adj"/></l><r>कब्रदार<s n="adj"/></r></p></e>
+    <e><p><l>نصیب دار<s n="adj"/></l><r>नसीबदार<s n="adj"/></r></p></e>
+    <e><p><l>خم دار<s n="adj"/></l><r>खमदार<s n="adj"/></r></p></e>
+    <e><p><l>خوشبو دار<s n="adj"/></l><r>खुशबूदार<s n="adj"/></r></p></e>
+    <e><p><l>ریشہ دار<s n="adj"/></l><r>रेशादार<s n="adj"/></r></p></e>
+
+    <e c="aali"><p><l>اعلی<s n="adj"/></l><r>आली<s n="adj"/></r></p></e>
+    <e c="mukarrar"><p><l>مقرر<s n="adj"/></l><r>घोषित<s n="adj"/></r></p></e>
+    <e c="mukarrar" r="LR"><p><l>مقرر<s n="adj"/></l><r>मुकर्रर<s n="adj"/></r></p></e>  
+    <e c="sabit"><p><l>ثابت<s n="adj"/></l><r>साबित<s n="adj"/></r></p></e> 
+    <e c="sayana"><p><l>سیانا<s n="adj"/></l><r>सयाना<s n="adj"/></r></p></e> 
+    <e c="behra"><p><l>بہرا<s n="adj"/></l><r>बहरा<s n="adj"/></r></p></e> 
+    <e c="peela"><p><l>پیلا<s n="adj"/></l><r>पीला<s n="adj"/></r></p></e> 
+    <e c="bura"><p><l>بُرا<s n="adj"/></l><r>बुरा<s n="adj"/></r></p></e> 
+    <e c="andha"><p><l>اندھا<s n="adj"/></l><r>अंधा<s n="adj"/></r></p></e> 
+    <e c="kada"><p><l>کڑا<s n="adj"/></l><r>कड़ा<s n="adj"/></r></p></e> 
+    <e c="bhuka"><p><l>بھوکا<s n="adj"/></l><r>भूखा<s n="adj"/></r></p></e> 
+    <e c="purana"><p><l>پرانا<s n="adj"/></l><r>पुराना<s n="adj"/></r></p></e> 
+    <e c="gora"><p><l>گورا<s n="adj"/></l><r>गोरा<s n="adj"/></r></p></e> 
+
+    <e c="gora"><p><l>گورا<s n="adj"/></l><r>गोरा<s n="adj"/></r></p></e> 
+    <e c="pyasa"><p><l>پیاسا<s n="adj"/></l><r>प्यासा<s n="adj"/></r></p></e> 
+    <e c="kana"><p><l>کانا<s n="adj"/></l><r>काना<s n="adj"/></r></p></e> 
+    <e c="chauda"><p><l>چوڑا<s n="adj"/></l><r>चौड़ा<s n="adj"/></r></p></e> 
+    <e c="sara"><p><l>سارا<s n="adj"/></l><r>सारा<s n="adj"/></r></p></e> 
+    <e c="manda"><p><l>مندا<s n="adj"/></l><r>मंदा<s n="adj"/></r></p></e> 
+    <e c="kunwara"><p><l>کنوارا<s n="adj"/></l><r>कुँवारा<s n="adj"/></r></p></e> 
+    <e c="bechara"><p><l>بیچارا<s n="adj"/></l><r>बेचारा<s n="adj"/></r></p></e> 
+    <e c="jhoota"><p><l>جھوٹا<s n="adj"/></l><r>झूठा<s n="adj"/></r></p></e> 
+    <e c="neela"><p><l>نیلا<s n="adj"/></l><r>नीला<s n="adj"/></r></p></e> 
+    <e c="khota"><p><l>کھوٹا<s n="adj"/></l><r>खोटा<s n="adj"/></r></p></e> 
+    <e c="banka"><p><l>بانکا<s n="adj"/></l><r>बाँका<s n="adj"/></r></p></e> 
+    <e c="nanga"><p><l>ننگا<s n="adj"/></l><r>नंगा<s n="adj"/></r></p></e> 
+    <e c="khara"><p><l>کھرا<s n="adj"/></l><r>खरा<s n="adj"/></r></p></e> 
+    <e c="aala"><p><l>آلا<s n="adj"/></l><r>आला<s n="adj"/></r></p></e> 
+    <e c="mutaliq"><p><l>متعلق<s n="adj"/></l><r>संबंधित<s n="adj"/></r></p></e>
+    <e c="general"><p><l>جنرل<s n="adj"/></l><r>जनरल<s n="adj"/></r></p></e>
+    <e c="intahai"><p><l>انتہائی<s n="adj"/></l><r>अत्यधिक<s n="adj"/></r></p></e>
+    <e c="cubic"><p><l>کیوبک<s n="adj"/></l><r>क्यूबिक<s n="adj"/></r></p></e>
+    <e c="alami"><p><l>عالمی<s n="adj"/></l><r>विश्वीय<s n="adj"/></r></p></e>
+    <e c="zahir"><p><l>ظاہر<s n="adj"/></l><r>ज़ाहिर<s n="adj"/></r></p></e>
+    <e c="zahir" r="RL"><p><l>ظاہر<s n="adj"/></l><r>जाहिर<s n="adj"/></r></p></e>
+    <e c="zahir" r="RL"><p><l>ظاہر<s n="adj"/></l><r>स्पष्ट<s n="adj"/></r></p></e>
+    <e c="buland"><p><l>بلند<s n="adj"/></l><r>बुलंद<s n="adj"/></r></p></e>
+    <e c="buland" r="RL"><p><l>بلند<s n="adj"/></l><r>बुलन्द<s n="adj"/></r></p></e>
+    <e c="markazi"><p><l>مرکزی<s n="adj"/></l><r>केंद्रीय<s n="adj"/></r></p></e>
+    <e c="insani"><p><l>انسانی<s n="adj"/></l><r>इन्सानी<s n="adj"/></r></p></e>
+    <e c="insani" r="RL"><p><l>انسانی<s n="adj"/></l><r>इंसानी<s n="adj"/></r></p></e>
     <e c="birtanvi"><p><l>برطانوی<s n="adj"/></l><r>ब्रिटिश<s n="adj"/></r></p></e>
     <e c="shay"><p><l>شائع<s n="adj"/></l><r>प्रकाशित<s n="adj"/></r></p></e>
     <e c="jadeed"><p><l>جدید<s n="adj"/></l><r>आधुनिक<s n="adj"/></r></p></e>
@@ -1396,7 +1935,7 @@
     <e c="jinhi" r="LR"><p><l>جنہی<s n="adj"/></l><r>जिन्ही<s n="adj"/></r></p></e>
     <e c="sabhi"><p><l>سبھی<s n="adj"/></l><r>सभी<s n="adj"/></r></p></e>
     <e c="sa"><p><l>سا<s n="adj"/></l><r>सा<s n="adj"/></r></p></e>
-    <e c="na"><p><l>نہ<s n="adj"/></l><r>न<s n="adj"/></r></p></e>    
+    <e c="na" r="LR"><p><l>نا<s n="adj"/></l><r>न<s n="adj"/></r></p></e>    
     <e c="rihaishi"><p><l>رہائشی<s n="adj"/></l><r>रिहायशी<s n="adj"/></r></p></e>
     <e c="rihaishi" r="RL"><p><l>رہائشی<s n="adj"/></l><r>आवासिक<s n="adj"/></r></p></e>  
     <e c="mustamil"><p><l>مشتمل<s n="adj"/></l><r>शामिल<s n="adj"/></r></p></e> 
@@ -1422,6 +1961,8 @@
     <e c="sā"><p><l>سا<s n="adj"/></l><r>सा<s n="adj"/></r></p></e>
     <e c="tārhan"><p><l>طرح<s n="adj"/></l><r>तरह<s n="adj"/></r></p></e>
     <e c="Gārm"><p><l>گرم<s n="adj"/></l><r>गर्म<s n="adj"/></r></p></e>
+    <e c="achhā" r="LR"><p><l>اچّھا<s n="adj"/></l><r>अच्छा<s n="adj"/></r></p></e>
+    <e c="achhā" r="LR"><p><l>اچھّا<s n="adj"/></l><r>अच्छा<s n="adj"/></r></p></e>
     <e c="achhā"><p><l>اچھا<s n="adj"/></l><r>अच्छा<s n="adj"/></r></p></e>
     <e c="mithyā"><p><l>متھیا<s n="adj"/></l><r>मिथ्या<s n="adj"/></r></p></e>
     <e c="Badā"><p><l>بڑا<s n="adj"/></l><r>बड़ा<s n="adj"/></r></p></e>
@@ -1461,7 +2002,7 @@
     <e><p><l>غیر<s n="adj"/></l><r>अपरिचित<s n="adj"/></r></p></e>
     <e><p><l>اگلا<s n="adj"/></l><r>अगला<s n="adj"/></r></p></e> 
     <e><p><l>صابر<s n="adj"/></l><r>सहनशील<s n="adj"/></r></p></e>
-    <e><p><l>آسائش<s n="adj"/></l><r>शानदार<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>آسائش<s n="adj"/></l><r>शानदार<s n="adj"/></r></p></e>
     <e><p><l>محسن<s n="adj"/></l><r>उपकारी<s n="adj"/></r></p></e> 
     <e><p><l>بانکا<s n="adj"/></l><r>बांका<s n="adj"/></r></p></e> 
     <e><p><l>گندہ<s n="adj"/></l><r>गंदा<s n="adj"/></r></p></e>
@@ -1489,6 +2030,22 @@
 
     <!-- Adverbs -->
 
+    <e><p><l>دراصل<s n="adv"/></l><r>वास्तव में<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>دراصل<s n="adv"/></l><r>दरअसल<s n="adv"/></r></p></e>
+    <e><p><l>صحیح<s n="adv"/></l><r>सही<s n="adv"/></r></p></e>
+    <e><p><l>ابھی<s n="adv"/></l><r>अभी<s n="adv"/></r></p></e>
+    <e><p><l>بجائے<s n="adv"/></l><r>बजाय<s n="adv"/></r></p></e>
+    <e><p><l>عموما<s n="adv"/></l><r>औसतन<s n="adv"/></r></p></e>
+    <e><p><l>واضح<s n="adv"/></l><r>स्पष्ट<s n="adv"/></r></p></e>
+    <e><p><l>دوبارہ<s n="adv"/></l><r>दुबारा<s n="adv"/></r></p></e>
+    <e><p><l>بلحاظ<s n="adv"/></l><r>पदेन<s n="adv"/></r></p></e>
+    <e c="aksar"><p><l>اکثر<s n="adv"/></l><r>अक्सर<s n="adv"/></r></p></e>
+    <e c="chunache" r="LR"><p><l>چنانچہ<s n="adv"/></l><r>इसलिए<s n="adv"/></r></p></e>
+    <e c="hawale"><p><l>حوالے<s n="adv"/></l><r>हवाले<s n="adv"/></r></p></e>
+    <e c="taiyar"><p><l>تیار<s n="adv"/></l><r>तैयार<s n="adv"/></r></p></e>
+    <e c="maalum"><p><l>معلوم<s n="adv"/></l><r>मालूम<s n="adv"/></r></p></e>
+    <e c="alag"><p><l>الگ<s n="adv"/></l><r>अलग<s n="adv"/></r></p></e>
+    <e c="waapas"><p><l>واپس<s n="adv"/></l><r>वापस<s n="adv"/></r></p></e>
     <e c="qareeb"><p><l>قریب<s n="adv"/></l><r>पास<s n="adv"/></r></p></e>
     <e c="tahum"><p><l>تاہم<s n="adv"/></l><r>हालाँकि<s n="adv"/></r></p></e>
     <e c="taqreeban"><p><l>تقریبا<s n="adv"/></l><r>लगभग<s n="adv"/></r></p></e>
@@ -1510,6 +2067,7 @@
     <e c="tab"><p><l>تب<s n="adv"/></l><r>तब<s n="adv"/></r></p></e>
     <e c="tabhi"><p><l>تبھی<s n="adv"/></l><r>तभी<s n="adv"/></r></p></e>
     <e c="koi"><p><l>کوئی<s n="adv"/></l><r>कोई<s n="adv"/></r></p></e>
+    <e><p><l>ہاں<s n="adv"/></l><r>हाँ<s n="adv"/></r></p></e>
     <e c="kahan"><p><l>کہاں<s n="adv"/></l><r>कहाँ<s n="adv"/></r></p></e>
     <e c="jahan"><p><l>جہاں<s n="adv"/></l><r>जहाँ<s n="adv"/></r></p></e>
     <e c="yahan"><p><l>یہاں<s n="adv"/></l><r>यहाँ<s n="adv"/></r></p></e>
@@ -1518,12 +2076,12 @@
     <e c="jidhar"><p><l>جدھر<s n="adv"/></l><r>जिधर<s n="adv"/></r></p></e>
     <e c="idahr"><p><l>ادھر<s n="adv"/></l><r>इधर<s n="adv"/></r></p></e>
     <e c="udhar"><p><l>اُدھر<s n="adv"/></l><r>उधर<s n="adv"/></r></p></e>
-    <e c="waqai"><p><l>واقع<s n="adv"/></l><r>वाकई<s n="adv"/></r></p></e>
     <e c="baad"><p><l>بعد<s n="adv"/></l><r>बाद<s n="adv"/></r></p></e> 
     <e c="door"><p><l>دور<s n="adv"/></l><r>दूर<s n="adv"/></r></p></e> 
     <e c="dheere dheere"><p><l>دھیرے دھیرے<s n="adv"/></l><r>धीरे-धीरे<s n="adv"/></r></p></e>
     <e c="jabki"><p><l>جبکہ<s n="cnjadv"/></l><r>जबकि<s n="cnjadv"/></r></p></e>
     <e c="tāk"><p><l>تک<s n="cnjadv"/></l><r>तक<s n="cnjadv"/></r></p></e>
+    <e c="tāki"><p><l>تاکہ<s n="cnjadv"/></l><r>ताकि<s n="cnjadv"/></r></p></e>
     <e c="upar"><p><l>اوپر<s n="adv"/></l><r>ऊपर<s n="adv"/></r></p></e> 
     <e c="der"><p><l>دیر<s n="adv"/></l><r>देर<s n="adv"/></r></p></e> 
     <e c="darmeeyan"><p><l>درمیان<s n="adv"/></l><r>बीच<s n="adv"/></r></p></e>
@@ -1560,9 +2118,13 @@
     <e c="ehtiyat"><p><l>احتیاط<s n="adv"/></l><r>सावधानी<s n="adv"/></r></p></e>
     <e c="andar"><p><l>اندر<s n="adv"/></l><r>अंदर<s n="adv"/></r></p></e>
     <e c="bhitar" r="RL"><p><l>اندر<s n="adv"/></l><r>भीतर<s n="adv"/></r></p></e>
+    <e c="bahar"><p><l>باہر<s n="adv"/></l><r>बाहर<s n="adv"/></r></p></e>
     <e c="kyonki"><p><l>کیونکہ<s n="cnjadv"/></l><r>क्योंकि<s n="cnjadv"/></r></p></e>
+    <e c="chunki"><p><l>چونکہ<s n="cnjadv"/></l><r>चूँकि<s n="cnjadv"/></r></p></e>
+    <e c="chunancha" r="LR"><p><l>چنانچہ<s n="cnjadv"/></l><r>इसलिए<s n="cnjadv"/></r></p></e>
 
     <!-- Verbs -->
+    <e><p><l>فرما<s n="vblex"/></l><r>कह<s n="vblex"/></r></p></e>
     <e><p><l>چڑ<s n="vblex"/></l><r>चड़ा<s n="vblex"/></r></p></e> 
     <e><p><l>دھاڑ<s n="vblex"/></l><r>दहाड़<s n="vblex"/></r></p></e>
     <e><p><l>سٹا<s n="vblex"/></l><r>सटा<s n="vblex"/></r></p></e>
@@ -1765,7 +2327,6 @@
     <e><p><l>ہکلا<s n="vblex"/></l><r>हकला<s n="vblex"/></r></p></e>
     <e><p><l>ہٹ<s n="vblex"/></l><r>हट<s n="vblex"/></r></p></e>
     <e><p><l>ہانپھ<s n="vblex"/></l><r>हांफ<s n="vblex"/></r></p></e>
-    <e><p><l>ہار<s n="vblex"/></l><r>हार<s n="vblex"/></r></p></e>
     <e><p><l>کر<s n="vblex"/></l><r>कर<s n="vblex"/></r></p></e>
     <e><p><l>رکھ<s n="vblex"/></l><r>रख<s n="vblex"/></r></p></e>
     <e><p><l>بڑھ<s n="vblex"/></l><r>बढ़<s n="vblex"/></r></p></e>
@@ -1811,9 +2372,11 @@
     <e><p><l>ہونا<s n="vblex"/></l><r>होना<s n="vblex"/></r></p></e>
     <e><p><l>رہ<s n="vaux"/></l><r>रह<s n="vaux"/></r></p></e>
     <e><p><l>سک<s n="vaux"/></l><r>सक<s n="vaux"/></r></p></e>
+    <e><p><l>جاسک<s n="vaux"/></l><r>जा सक<s n="vaux"/></r></p></e>
     <e r="LR"><p><l>چق<s n="vaux"/></l><r>चुक<s n="vaux"/></r></p></e>
     <e><p><l>چک<s n="vaux"/></l><r>चुक<s n="vaux"/></r></p></e>
     <e><p><l>جا<s n="vblex"/></l><r>जा<s n="vblex"/></r></p></e>
+    <e><p><l>ہوجا<s n="vblex"/></l><r>हो जा<s n="vblex"/></r></p></e>
     <e><p><l>آ<s n="vblex"/></l><r>आ<s n="vblex"/></r></p></e>
     <e><p><l>اپنا<s n="vblex"/></l><r>अपना<s n="vblex"/></r></p></e>
     <e><p><l>الاپ<s n="vblex"/></l><r>अलाप<s n="vblex"/></r></p></e>

@@ -32,6 +32,11 @@ dev/bidix/ur-hi.nouns.14 -text
 dev/conversion/adj.chopped.dix -text
 dev/conversion/nouns.chopped.dix -text
 dev/en-hi-ur.list -text
+dev/testvoc/inconsistency-summary.sh -text
+dev/testvoc/inconsistency.sh -text
+dev/testvoc/testvoc-summary.hin-urd.txt -text
+dev/testvoc/testvoc-summary.urd-hin.txt -text
+dev/testvoc/testvoc.sh -text
 dev/urdu-hindi.proofread.txt -text
 dev/wikt-nouns.sh -text
 /hin-urd.prob -text svneol=unset#unset

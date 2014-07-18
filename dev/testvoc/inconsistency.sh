@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 TMPDIR=/tmp
 
 DICT=$1

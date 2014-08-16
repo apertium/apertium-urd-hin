@@ -10,10 +10,6 @@
     <def-cat n="nom">
       <cat-item tags="n"/>
       <cat-item tags="n.*"/>
-      <cat-item tags="np.top"/>
-      <cat-item tags="np.top.*"/>
-      <cat-item tags="np.al"/>
-      <cat-item tags="np.al.*"/>
     </def-cat>
 
 
@@ -75,12 +71,7 @@
       <action>
         <out>
           <lu>
-            <clip pos="1" side="tl" part="lemh"/>
-            <clip pos="1" side="tl" part="a_nom"/>
-            <clip pos="1" side="tl" part="gen"/>
-            <clip pos="1" side="tl" part="nbr"/>
-            <clip pos="1" side="tl" part="cas"/>
-            <clip pos="1" side="tl" part="lemq"/>
+            <clip pos="1" side="tl" part="whole"/>
           </lu>
         </out>
       </action>

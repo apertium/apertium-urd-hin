@@ -42,6 +42,12 @@ dev/wikt-nouns.sh -text
 /hin-urd.prob -text svneol=unset#unset
 /modes.xml -text
 /pending-tests.sh -text
+texts/evaluation_texts/hin-urd/hin.org.txt -text svneol=unset#application/octet-stream
+texts/evaluation_texts/hin-urd/hin.ref.txt -text svneol=unset#application/octet-stream
+texts/evaluation_texts/hin-urd/hin.trans.txt -text svneol=unset#application/octet-stream
+texts/evaluation_texts/urd-hin/urd.org.txt -text svneol=unset#application/octet-stream
+texts/evaluation_texts/urd-hin/urd.ref.txt -text svneol=unset#application/octet-stream
+texts/evaluation_texts/urd-hin/urd.trans.txt -text svneol=unset#application/octet-stream
 texts/story.hin.txt -text svneol=unset#application/octet-stream
 texts/story.urd.txt -text
 texts/story_new.urd.txt -text svneol=unset#application/octet-stream

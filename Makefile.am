@@ -83,6 +83,8 @@ EXTRA_DIST=$(BASENAME).$(PREFIX1).dix \
 	   $(BASENAME).$(PREFIX2).lrx \
 	   $(BASENAME).$(PREFIX1).t1x \
 	   $(BASENAME).$(PREFIX2).t1x \
+	   $(PREFIX1).prob \
+	   $(PREFIX2).prob \
 	   modes.xml
 
 ###############################################################################

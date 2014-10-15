@@ -93,6 +93,8 @@ apertium_urd_hindir=$(prefix)/share/apertium/$(BASENAME)/
 
 # Files which should be installed to $(prefix)/share/apertium/$(BASENAME)/:
 apertium_urd_hin_DATA=$(TARGETS_COMMON) \
+	$(PREFIX1).prob \
+	$(PREFIX2).prob \
 	$(BASENAME).$(PREFIX1).t1x \
 	$(BASENAME).$(PREFIX2).t1x 
 

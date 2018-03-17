@@ -54,3 +54,8 @@ texts/story_new.urd.txt -text svneol=unset#application/octet-stream
 texts/story_new_orig.hin.txt -text svneol=unset#application/octet-stream
 texts/story_new_translated.hin.txt -text svneol=unset#application/octet-stream
 /urd-hin.prob -text svneol=unset#unset
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true

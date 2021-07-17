@@ -1,0 +1,162 @@
+[-XfpvNUlHBkH#0] ^مجھے/میں<prn><pers><p1><sg><dat>$ ^ایک/ایک<num>$ ^دو/دو<num>/دے<vblex><tv><prs><p2><sg>/دے<vblex><tv><prs><p2><pl>/دے<vblex><tv><imp><p2><sg>/دے<vblex><tv><imp><p2><pl>$
+[/-XfpvNUlHBkH]
+[04Oip4WzUoqk#0] ^دس/دس<num>$ ^منٹ/*منٹ$
+[/04Oip4WzUoqk]
+[14s8bli1B0WD#0] ^کردار/کردار<n><m><sg><nom>/کردار<n><m><sg><obl>/کردار<n><m><pl><nom>$ ^اور/اور<cnjcoo>$	^علم/علم<n><m><sg><nom>/علم<n><m><sg><obl>/علم<n><m><pl><nom>/علم<n><m><pl><obl>$ ^دونوں/دونوں<adv>$ ^اہم/اہم<adj><m><sg><nom>/اہم<adj><m><sg><obl>/اہم<adj><m><pl><nom>/اہم<adj><m><pl><obl>/اہم<adj><f><sg><nom>/اہم<adj><f><sg><obl>/اہم<adj><f><pl><nom>/اہم<adj><f><pl><obl>$ ^ہیں/ہو<vbser><pri><p3><pl>/ہو<vbser><pri><p1><pl>$
+[/14s8bli1B0WD]
+[1Zx2v51iTNwl#0] ^مجھے/میں<prn><pers><p1><sg><dat>$ ^کتابیں/کتاب<n><f><pl><nom>$ ^چاہییں/*چاہییں$
+[/1Zx2v51iTNwl]
+[2rCpbp-LZoCj#0] ^دس/دس<num>$
+[/2rCpbp-LZoCj]
+[3YIAec4Zpkid#0] ^دائیں/*دائیں$ ^طرف/طرف<post>$ ^سے/سے<post>/سا<adj><m><sg><obl>/سا<adj><m><pl><nom>/سا<adj><m><pl><obl>$
+[/3YIAec4Zpkid]
+[3y2GOH4cmFAW#0] ^لاکھ/لاکھ<num>$
+[/3y2GOH4cmFAW]
+[7HEvTJGaWTQV#0] ^کروڑ/کروڑ<num>$
+[/7HEvTJGaWTQV]
+[7lSqDBz0Pv_I#0] ^وہ/وہ<prn><dem><p3><mf><sg><dst><nom>/وہ<prn><dem><p3><mf><pl><dst><nom>$ ^خوش/خوش<adj><m><sg><nom>/خوش<adj><m><sg><obl>/خوش<adj><m><pl><nom>/خوش<adj><m><pl><obl>/خوش<adj><f><sg><nom>/خوش<adj><f><sg><obl>/خوش<adj><f><pl><nom>/خوش<adj><f><pl><obl>$ ^تھی/ہو<vbser><impf><p3><f><sg>$
+[/7lSqDBz0Pv_I]
+[9LiVTHvo1cs8#0] ^دو/دو<num>/دے<vblex><tv><prs><p2><sg>/دے<vblex><tv><prs><p2><pl>/دے<vblex><tv><imp><p2><sg>/دے<vblex><tv><imp><p2><pl>$ ^حملوں/حملہ<n><m><pl><obl>$ ^میں/میں<post>/میں<prn><pers><p1><sg><nom>$
+[/9LiVTHvo1cs8]
+[Bufex2dHCGQb#0] ^نیلے/نیلا<adj><m><sg><obl>/نیلا<adj><m><pl><nom>/نیلا<adj><m><pl><obl>$ ^کپڑا/*کپڑا$
+[/Bufex2dHCGQb]
+[DCgM8-bWzrng#0] ^دھیرے/*دھیرے$
+[/DCgM8-bWzrng]
+[DgD_ZcE9SAqN#0] ^شور/*شور$ ^طبقے/طبقہ<n><m><sg><obl>/طبقہ<n><m><pl><nom>$
+[/DgD_ZcE9SAqN]
+[DibXQvgbx7AD#0] ^یہ/یہ<prn><dem><p3><mf><sg><prx><nom>/یہ<prn><dem><p3><mf><pl><prx><nom>$ ^دعوت نامہ/دعوت نامہ<n><m><sg><nom>$ ^آپکے/آپ<prn><pers><p2><mf><frm><gen><pl>$ ^لئے/لئے<post>$  ^آیا/آ<vblex><iv><perf><m><sg>$ ^تھا/ہو<vbser><impf><p3><m><sg>$
+[/DibXQvgbx7AD]
+[EfK3cYgvcglp#0] ^وہ/وہ<prn><dem><p3><mf><sg><dst><nom>/وہ<prn><dem><p3><mf><pl><dst><nom>$ ^چائے/چائے<n><f><sg><nom>/چائے<n><f><sg><obl>$ ^پیتے/*پیتے$ ^تھے/ہو<vbser><impf><p3><m><pl>$
+[/EfK3cYgvcglp]
+[H5-kVokqgS8Y#0] ^ٹیلی/ٹیلی<adj><m><sg><nom>/ٹیلی<adj><m><sg><obl>/ٹیلی<adj><m><pl><nom>/ٹیلی<adj><m><pl><obl>/ٹیلی<adj><f><sg><nom>/ٹیلی<adj><f><sg><obl>/ٹیلی<adj><f><pl><nom>/ٹیلی<adj><f><pl><obl>$ ^فون/فون<n><m><sg><nom>/فون<n><m><sg><obl>/فون<n><m><pl><nom>$ ^ایک/ایک<num>$  ^عظیم/عظیم<adj><m><sg><nom>/عظیم<adj><m><sg><obl>/عظیم<adj><m><pl><nom>/عظیم<adj><m><pl><obl>/عظیم<adj><f><sg><nom>/عظیم<adj><f><sg><obl>/عظیم<adj><f><pl><nom>/عظیم<adj><f><pl><obl>$  ^ایجاد/ایجاد<n><m><sg><nom>/ایجاد<n><m><sg><obl>/ایجاد<n><m><pl><nom>/ایجاد<n><m><pl><obl>$ ^ہے/ہو<vbser><pri><p3><sg>$
+[/H5-kVokqgS8Y]
+[JEO8s3Use7Dq#0] ^بیچ/بیچ<vblex><tv><stem>$ ^کے/کا<post><m><pl><gen>$ ^درمیان/درمیان<adv>$
+[/JEO8s3Use7Dq]
+[KZkXlRNz0Ezl#0] ^برتن/*برتن$ ^میں/میں<post>/میں<prn><pers><p1><sg><nom>$ ^انڈے/*انڈے$
+[/KZkXlRNz0Ezl]
+[KbBfzqO6vrbK#0] ^تاج محل/تاج محل<n><m><sg><nom>/تاج محل<n><m><sg><obl>/تاج محل<n><m><pl><nom>$ ^کی/کا<post><f><sg><gen>/کا<post><f><pl><gen>/کر<vblex><tv><perf><f><sg>/کر<vblex><tv><perf><f><pl>$ ^سندرتا/*سندرتا$
+[/KbBfzqO6vrbK]
+[KgmT4v-enRn2#0] ^یہ/یہ<prn><dem><p3><mf><sg><prx><nom>/یہ<prn><dem><p3><mf><pl><prx><nom>$ ^ہے/ہو<vbser><pri><p3><sg>$
+[/KgmT4v-enRn2]
+[MFXNovwIeDdT#0] ?^میں/میں<post>/میں<prn><pers><p1><sg><nom>$ ^کہاں/کہاں<adv><itg>$ ^ہوں/ہو<vbser><pri><p1><sg>$
+[/MFXNovwIeDdT]
+[MWivmD7DBP_q#0] ^میرا/میں<prn><pers><p1><m><sg><gen>$ ^ملک/ملک<n><m><sg><nom>/ملک<n><m><sg><obl>/ملک<n><m><pl><nom>$
+[/MWivmD7DBP_q]
+[McDQOWuLn4_O#0] ?^وہ/وہ<prn><dem><p3><mf><sg><dst><nom>/وہ<prn><dem><p3><mf><pl><dst><nom>$ ^کیسا/کیس<det><ind><sg><m>$ ^ہے/ہو<vbser><pri><p3><sg>$
+[/McDQOWuLn4_O]
+[N13CWxxzKgPG#0] ^پوری/پورا<adj><f><sg><nom>/پورا<adj><f><sg><obl>/پورا<adj><f><pl><nom>/پورا<adj><f><pl><obl>$ ^طرح/طرح<adj><m><sg><nom>/طرح<adj><m><sg><obl>/طرح<adj><m><pl><nom>/طرح<adj><m><pl><obl>/طرح<adj><f><sg><nom>/طرح<adj><f><sg><obl>/طرح<adj><f><pl><nom>/طرح<adj><f><pl><obl>$ ^سے/سے<post>/سا<adj><m><sg><obl>/سا<adj><m><pl><nom>/سا<adj><m><pl><obl>$
+[/N13CWxxzKgPG]
+[N7pTF7TT26f4#0] ^وہ/وہ<prn><dem><p3><mf><sg><dst><nom>/وہ<prn><dem><p3><mf><pl><dst><nom>$ ^ایک/ایک<num>$ ^جاسوس/*جاسوس$ ^ہے/ہو<vbser><pri><p3><sg>$
+[/N7pTF7TT26f4]
+[NLmpXrIDj3ya#0] ^غلط/غلط<adv>$
+[/NLmpXrIDj3ya]
+[NZIOZGl2Wipd#0] ^انکو/یہ<prn><dem><p3><mf><pl><prx><dat>$ ^دیکھکر/دیکھ<vblex><tv><gna>$ ^ہم/ہم<prn><pers><p1><pl><nom>/ہم<prn><pers><p1><pl><obl>$ ^رو/رو<vblex><iv><stem>/رو<vblex><iv><imp><p2><sg>$ ^پڑے/پڑ<vblex><iv><prs><p2><sg>/پڑ<vblex><iv><prs><p3><sg>/پڑ<vblex><iv><perf><m><pl>$
+[/NZIOZGl2Wipd]
+[Nq1AZPH_Sr-L#0] ^میں/میں<post>/میں<prn><pers><p1><sg><nom>$ ^ہوں/ہو<vbser><pri><p1><sg>$
+[/Nq1AZPH_Sr-L]
+[O64hWbRw2ELW#0] ^حال/حال<n><m><sg><nom>/حال<n><m><sg><obl>/حال<n><m><pl><nom>$ ^ہی/ہی<adj><m><sg><nom>/ہی<adj><m><sg><obl>/ہی<adj><m><pl><nom>/ہی<adj><m><pl><obl>/ہی<adj><f><sg><nom>/ہی<adj><f><sg><obl>/ہی<adj><f><pl><nom>/ہی<adj><f><pl><obl>$ ^میں/میں<post>/میں<prn><pers><p1><sg><nom>$
+[/O64hWbRw2ELW]
+[OUaBK5bByPgK#0] ^کرسی/کرسی<n><f><sg><nom>/کرسی<n><f><sg><obl>$ ^میں/میں<post>/میں<prn><pers><p1><sg><nom>$ ^بیٹھو/بیٹھ<vblex><iv><prs><p2><pl>/بیٹھ<vblex><iv><imp><p2><sg>/بیٹھ<vblex><iv><imp><p2><pl>$
+[/OUaBK5bByPgK]
+[Pi3H7bfvR2dV#0] ^وہ/وہ<prn><dem><p3><mf><sg><dst><nom>/وہ<prn><dem><p3><mf><pl><dst><nom>$ ^تیزی/تیزی<adv>$ ^سے/سے<post>/سا<adj><m><sg><obl>/سا<adj><m><pl><nom>/سا<adj><m><pl><obl>$ ^بھاگا/بھاگ<vblex><iv><perf><m><sg>$
+[/Pi3H7bfvR2dV]
+[Po3hEMovhQlj#0] ^نئی/نئی<adj><m><sg><nom>/نئی<adj><m><sg><obl>/نئی<adj><m><pl><nom>/نئی<adj><m><pl><obl>/نئی<adj><f><sg><nom>/نئی<adj><f><sg><obl>/نئی<adj><f><pl><nom>/نئی<adj><f><pl><obl>$ ^قلم/قلم<n><f><sg><nom>/قلم<n><f><sg><obl>$
+[/Po3hEMovhQlj]
+[QHoRnYiTwSeM#0] ^انتہائی/انتہائی<adj><m><sg><nom>/انتہائی<adj><m><sg><obl>/انتہائی<adj><m><pl><nom>/انتہائی<adj><m><pl><obl>/انتہائی<adj><f><sg><nom>/انتہائی<adj><f><sg><obl>/انتہائی<adj><f><pl><nom>/انتہائی<adj><f><pl><obl>$
+[/QHoRnYiTwSeM]
+[QhueehHotc26#0] ^علم/علم<n><m><sg><nom>/علم<n><m><sg><obl>/علم<n><m><pl><nom>/علم<n><m><pl><obl>$ ^غکمتا/*غکمتا$ ^ہے/ہو<vbser><pri><p3><sg>$
+[/QhueehHotc26]
+[RKnPBa56rObV#0] ^یہ/یہ<prn><dem><p3><mf><sg><prx><nom>/یہ<prn><dem><p3><mf><pl><prx><nom>$ ^وہ/وہ<prn><dem><p3><mf><sg><dst><nom>/وہ<prn><dem><p3><mf><pl><dst><nom>$ ^روٹی/روٹی<n><f><sg><nom>/روٹی<n><f><sg><obl>$ ^ہے/ہو<vbser><pri><p3><sg>$ ^جو/جو<prn><rel><sg><nom>/جو<prn><rel><pl><nom>$ ^میری/میں<prn><pers><p1><f><sg><gen>$ ^ماں/ماں<n><f><sg><nom>/ماں<n><f><sg><obl>$ ^بناتی/بنا<vblex><tv><impf><f><sg>$ ^ہے/ہو<vbser><pri><p3><sg>$
+[/RKnPBa56rObV]
+[SQ3OeZIpnc1O#0] ^یہ/یہ<prn><dem><p3><mf><sg><prx><nom>/یہ<prn><dem><p3><mf><pl><prx><nom>$ ^خدا/خدا<np><ant><m><sg>$  ^سے/سے<post>/سا<adj><m><sg><obl>/سا<adj><m><pl><nom>/سا<adj><m><pl><obl>$ ^عظیم/عظیم<adj><m><sg><nom>/عظیم<adj><m><sg><obl>/عظیم<adj><m><pl><nom>/عظیم<adj><m><pl><obl>/عظیم<adj><f><sg><nom>/عظیم<adj><f><sg><obl>/عظیم<adj><f><pl><nom>/عظیم<adj><f><pl><obl>$ ^ہے/ہو<vbser><pri><p3><sg>$
+[/SQ3OeZIpnc1O]
+[SXUSDL7-4iZ9#0] ^ہم/ہم<prn><pers><p1><pl><nom>/ہم<prn><pers><p1><pl><obl>$ ^ہیں/ہو<vbser><pri><p3><pl>/ہو<vbser><pri><p1><pl>$
+[/SXUSDL7-4iZ9]
+[TSZnrEIc6dW6#0] ^کب/کب<adv>$
+[/TSZnrEIc6dW6]
+[UQsla6jkF51g#0] ^وہ/وہ<prn><dem><p3><mf><sg><dst><nom>/وہ<prn><dem><p3><mf><pl><dst><nom>$  ^بردار/*بردار$ ^ا/ا<n><m><sg><nom>/ا<n><m><sg><obl>/ا<n><m><pl><nom>/ا<n><m><pl><obl>$ ^رام/رام<np><ant><m><sg>$  ^ہیں/ہو<vbser><pri><p3><pl>/ہو<vbser><pri><p1><pl>$
+[/UQsla6jkF51g]
+[VSleTXmS5V7g#0] ^کیا/کر<vblex><tv><perf><m><sg>/کیا<prn><itg><sg><aa><nom>/کیا<prn><itg><pl><aa><nom>$
+[/VSleTXmS5V7g]
+[VjeKmMV8mYzM#0] ^ہزار/ہزار<num>$
+[/VjeKmMV8mYzM]
+[X4rAMb3Gi9ww#0] ^انہوں نے/یہ<prn><dem><p3><mf><pl><prx><erg>$ ^استعفی/استعفی<n><m><sg><nom>/استعفی<n><m><sg><obl>/استعفی<n><m><pl><nom>/استعفی<n><m><pl><obl>$ ^دے/دے<vblex><tv><prs><p3><sg>/دے<vblex><tv><imp><p2><frm><pl>$ ^دیا/دے<vblex><tv><perf><m><sg>$
+[/X4rAMb3Gi9ww]
+[Xh_P6vr6q-ho#0] ^کھول/کھول<vblex><tv><stem>$ ^میں/میں<post>/میں<prn><pers><p1><sg><nom>$ ^موتی/*موتی$
+[/Xh_P6vr6q-ho]
+[ZsVBGT3oKwLA#0] ^اس نے/یہ<prn><dem><p3><mf><sg><prx><erg>$ ^کئی/کئی<n><m><sg><nom>/کئی<n><m><sg><obl>/کئی<n><m><pl><nom>$ ^بار/بار<n><m><sg><nom>/بار<n><m><sg><obl>/بار<n><m><pl><nom>/بار<n><m><pl><obl>$ ^سوچا/سوچ<vblex><tv><perf><m><sg>$ ^تھا/ہو<vbser><impf><p3><m><sg>$
+[/ZsVBGT3oKwLA]
+[b5Zj7eMx_yfg#0] ^عامل/عامل<np><ant><m><sg>$ ^کی/کا<post><f><sg><gen>/کا<post><f><pl><gen>/کر<vblex><tv><perf><f><sg>/کر<vblex><tv><perf><f><pl>$ ^بیٹی/بیٹی<n><f><sg><nom>/بیٹی<n><f><sg><obl>$
+[/b5Zj7eMx_yfg]
+[b8jBeEUhEVzC#0] ^تمہارا/تم<prn><pers><p2><m><pl><fam><gen>$ ^ملک/ملک<n><m><sg><nom>/ملک<n><m><sg><obl>/ملک<n><m><pl><nom>$
+[/b8jBeEUhEVzC]
+[coMy-U5Hluvr#0] ^وہ/وہ<prn><dem><p3><mf><sg><dst><nom>/وہ<prn><dem><p3><mf><pl><dst><nom>$ ^قلم/قلم<n><f><sg><nom>/قلم<n><f><sg><obl>$ ^ہے/ہو<vbser><pri><p3><sg>$
+[/coMy-U5Hluvr]
+[dCTPbHYkSqES#0] ^پھاٹک/*پھاٹک$ ^کے/کا<post><m><pl><gen>$ ^دوسری/دوسرا<num><ord><f>$ ^طرف/طرف<post>$
+[/dCTPbHYkSqES]
+[dcFzKdRvfktp#0] ^میٹھا/*میٹھا$ ^پھل/پھل<vblex><tv><stem>/پھل<vblex><iv><stem>$
+[/dcFzKdRvfktp]
+[e3x_-bBcT_WU#0] ^مشترکہ/مشترکہ<adj><m><sg><nom>/مشترکہ<adj><m><sg><obl>/مشترکہ<adj><m><pl><nom>/مشترکہ<adj><m><pl><obl>/مشترکہ<adj><f><sg><nom>/مشترکہ<adj><f><sg><obl>/مشترکہ<adj><f><pl><nom>/مشترکہ<adj><f><pl><obl>$ ^رسی/رس<vblex><tv><perf><f><sg>/رس<vblex><tv><perf><f><pl>$
+[/e3x_-bBcT_WU]
+[ea7VHLRLuZfW#0] ^تم/تم<prn><pers><p2><pl><fam><nom>/تم<prn><pers><p2><pl><fam><obl>$ ^ہو/ہو<vbser><imp><p2><sg>/ہو<vbser><imp><p2><pl>/ہو<vbser><pri><p2><sg>/ہو<vbser><pri><p2><pl>/ہونا<vblex><iv><prs><p2><pl>/ہونا<vblex><iv><imp><p2><sg>/ہونا<vblex><iv><imp><p2><pl>$
+[/ea7VHLRLuZfW]
+[ef_FIDTFXdLw#0] ?^کتنے/کتنا<adj><m><sg><obl>/کتنا<adj><m><pl><nom>/کتنا<adj><m><pl><obl>$ ^روپے/روپ<vblex><tv><prs><p2><sg>/روپ<vblex><tv><prs><p3><sg>/روپ<vblex><tv><perf><m><pl>$ ^ہیں/ہو<vbser><pri><p3><pl>/ہو<vbser><pri><p1><pl>$ ^یہ/یہ<prn><dem><p3><mf><sg><prx><nom>/یہ<prn><dem><p3><mf><pl><prx><nom>$
+[/ef_FIDTFXdLw]
+[en0DlpagyLNE#0] ^رام/رام<np><ant><m><sg>$ ^ایک/ایک<num>$ ^اچھا/اچھا<adj><m><sg><nom>$ ^لڑکا/لڑکا<n><m><sg><nom>/لڑکا<n><m><sg><obl>/لڑکا<n><m><pl><nom>/لڑکا<n><m><pl><obl>$ ^ہے/ہو<vbser><pri><p3><sg>$
+[/en0DlpagyLNE]
+[f-g4pfhWZuJP#0] ^گیند/گیند<n><f><sg><nom>/گیند<n><f><sg><obl>$ ^پر/پر<post>/پر<cnjcoo>$ ^گندگی/*گندگی$
+[/f-g4pfhWZuJP]
+[g1w9D8vVcmTz#0] ?^کیا/کر<vblex><tv><perf><m><sg>/کیا<prn><itg><sg><aa><nom>/کیا<prn><itg><pl><aa><nom>$ ^تم/تم<prn><pers><p2><pl><fam><nom>/تم<prn><pers><p2><pl><fam><obl>$ ^ہندی/ہندی<n><f><sg><nom>/ہندی<n><f><sg><obl>/ہندی<n><f><pl><nom>/ہندی<n><f><pl><obl>$ ^بولتے/بول<vblex><tv><impf><m><pl>$ ^ہو/ہو<vbser><imp><p2><sg>/ہو<vbser><imp><p2><pl>/ہو<vbser><pri><p2><sg>/ہو<vbser><pri><p2><pl>/ہونا<vblex><iv><prs><p2><pl>/ہونا<vblex><iv><imp><p2><sg>/ہونا<vblex><iv><imp><p2><pl>$
+[/g1w9D8vVcmTz]
+[i-y8tcZAG-RN#0] ^کیسے/کیس<det><ind><pl><m>$
+[/i-y8tcZAG-RN]
+[i4TRiyPF5eo_#0] ^کھلونا/کھلونا<n><m><sg><nom>/کھلونا<n><m><sg><obl>/کھلونا<n><m><pl><nom>/کھلونا<n><m><pl><obl>$ ^لاؤ/لا<vblex><tv><prs><p2><pl>/لا<vblex><tv><imp><p2><pl>$
+[/i4TRiyPF5eo_]
+[lnWJXDYplc9h#0] ?^کیا/کر<vblex><tv><perf><m><sg>/کیا<prn><itg><sg><aa><nom>/کیا<prn><itg><pl><aa><nom>$ ^آپ/آپ<prn><pers><p2><frm><pl><nom>/آپ<prn><pers><p2><frm><pl><obl>$ ^پڑھتے/پڑھ<vblex><tv><impf><m><pl>$ ^ہیں/ہو<vbser><pri><p3><pl>/ہو<vbser><pri><p1><pl>$
+[/lnWJXDYplc9h]
+[m6OPQqyQygig#0] ^کون/کیا<prn><itg><sg><nn><nom>/کیا<prn><itg><pl><nn><nom>$
+[/m6OPQqyQygig]
+[mpnAONCYp3MY#0] ^تیزی/تیزی<adv>$
+[/mpnAONCYp3MY]
+[mqlOZEYOM6c8#0] ^جنوبی/جنوبی<adj><m><sg><nom>/جنوبی<adj><m><sg><obl>/جنوبی<adj><m><pl><nom>/جنوبی<adj><m><pl><obl>/جنوبی<adj><f><sg><nom>/جنوبی<adj><f><sg><obl>/جنوبی<adj><f><pl><nom>/جنوبی<adj><f><pl><obl>$ ^کتھاایز/*کتھاایز$
+[/mqlOZEYOM6c8]
+[nOm_6LvFRl4M#0] ^اس/یہ<prn><dem><p3><mf><sg><prx><obl>$  ^مقابلہ/مقابلہ<n><m><sg><nom>$	^حیران/حیران<adj><m><sg><nom>/حیران<adj><m><sg><obl>/حیران<adj><m><pl><nom>/حیران<adj><m><pl><obl>/حیران<adj><f><sg><nom>/حیران<adj><f><sg><obl>/حیران<adj><f><pl><nom>/حیران<adj><f><pl><obl>$ ^کن/کیا<prn><itg><pl><obl>$ ^تھا/ہو<vbser><impf><p3><m><sg>$
+[/nOm_6LvFRl4M]
+[nVWVnMvT7A-w#0] ^ہر/ہر<adj><m><sg><nom>/ہر<adj><m><sg><obl>/ہر<adj><m><pl><nom>/ہر<adj><m><pl><obl>/ہر<adj><f><sg><nom>/ہر<adj><f><sg><obl>/ہر<adj><f><pl><nom>/ہر<adj><f><pl><obl>$ ^ایک/ایک<num>$ ^دن/دن<n><m><sg><nom>/دن<n><m><sg><obl>/دن<n><m><pl><nom>$ ^میں/میں<post>/میں<prn><pers><p1><sg><nom>$ ^مدرسہ/مدرسہ<n><m><sg><nom>$  ^جاتا/جا<vblex><iv><impf><m><sg>$ ^ہوں/ہو<vbser><pri><p1><sg>$
+[/nVWVnMvT7A-w]
+[naHFvTWDeIEt#0] ^گاڑی/گاڑ<vblex><tv><perf><f><sg>/گاڑ<vblex><tv><perf><f><pl>/گاڑی<n><f><sg><nom>/گاڑی<n><f><sg><obl>$ ^کے/کا<post><m><pl><gen>$ ^سامنے/سامنے<adv>$
+[/naHFvTWDeIEt]
+[oSBesNFFEGGC#0] ^مکر/مکر<vblex><iv><stem>/مکر<n><m><sg><nom>/مکر<n><m><sg><obl>/مکر<n><m><pl><nom>/مکر<n><m><pl><obl>$ ^سڑک/سڑک<vblex><tv><stem>/سڑک<n><f><sg><nom>/سڑک<n><f><sg><obl>$
+[/oSBesNFFEGGC]
+[pdsg_iehv7Oj#0] ?^یہ/یہ<prn><dem><p3><mf><sg><prx><nom>/یہ<prn><dem><p3><mf><pl><prx><nom>$ ^کب/کب<adv>$ ^شروع/شروع<n><f><sg><nom>/شروع<n><f><sg><obl>/شروع<n><f><pl><nom>/شروع<n><f><pl><obl>$ ^ہیی/*ہیی$
+[/pdsg_iehv7Oj]
+[qa-mDUmfjt6B#0] ^محفوظ/محفوظ<adj><m><sg><nom>/محفوظ<adj><m><sg><obl>/محفوظ<adj><m><pl><nom>/محفوظ<adj><m><pl><obl>/محفوظ<adj><f><sg><nom>/محفوظ<adj><f><sg><obl>/محفوظ<adj><f><pl><nom>/محفوظ<adj><f><pl><obl>$
+[/qa-mDUmfjt6B]
+[quPnvIXnGMz5#0] ^خوبصورت/خوبصورت<adj><m><sg><nom>/خوبصورت<adj><m><sg><obl>/خوبصورت<adj><m><pl><nom>/خوبصورت<adj><m><pl><obl>/خوبصورت<adj><f><sg><nom>/خوبصورت<adj><f><sg><obl>/خوبصورت<adj><f><pl><nom>/خوبصورت<adj><f><pl><obl>$ ^پھول/پھول<vblex><iv><stem>$
+[/quPnvIXnGMz5]
+[r6zfE26QuIEq#0] ^بڑا/بڑا<adj><m><sg><nom>$ ^بس/بس<vblex><tv><stem>$
+[/r6zfE26QuIEq]
+[rSoXh7ddBZmh#0] ^ایک/ایک<num>$
+[/rSoXh7ddBZmh]
+[rdIph8t73QAY#0] ^کیوں/کیوں<adv><itg>$
+[/rdIph8t73QAY]
+[uGKr5pwf09Ow#0] ^یہ/یہ<prn><dem><p3><mf><sg><prx><nom>/یہ<prn><dem><p3><mf><pl><prx><nom>$ ^ایک/ایک<num>$ ^سودا/*سودا$ ^تھا/ہو<vbser><impf><p3><m><sg>$
+[/uGKr5pwf09Ow]
+[uHLmqwO47ynd#0] ^سو/سو<num>/سو<vblex><iv><stem>/سو<vblex><iv><imp><p2><sg>$
+[/uHLmqwO47ynd]
+[vKwA5-i1eg_n#0] ^کدھر/کدھر<adv>$
+[/vKwA5-i1eg_n]
+[vTlmYLQ6IU_R#0] ^یہ/یہ<prn><dem><p3><mf><sg><prx><nom>/یہ<prn><dem><p3><mf><pl><prx><nom>$ ^ئڈی/*ئڈی$ ^ہے/ہو<vbser><pri><p3><sg>$
+[/vTlmYLQ6IU_R]
+[viARs7bnLxF7#0] ^یسلن/*یسلن$ ^منزل/*منزل$
+[/viARs7bnLxF7]
+[wAcvgxVic9Vx#0] ^ہمارا/ہم<prn><pers><p1><m><pl><gen>$ ^ملک/ملک<n><m><sg><nom>/ملک<n><m><sg><obl>/ملک<n><m><pl><nom>$
+[/wAcvgxVic9Vx]
+[wUCJKUHznuec#0] ^کمزور/کمزور<adj><m><sg><nom>/کمزور<adj><m><sg><obl>/کمزور<adj><m><pl><nom>/کمزور<adj><m><pl><obl>/کمزور<adj><f><sg><nom>/کمزور<adj><f><sg><obl>/کمزور<adj><f><pl><nom>/کمزور<adj><f><pl><obl>$ ^لڑکا/لڑکا<n><m><sg><nom>/لڑکا<n><m><sg><obl>/لڑکا<n><m><pl><nom>/لڑکا<n><m><pl><obl>$
+[/wUCJKUHznuec]
+[xIZCQjo71OIN#0] ^سچ/سچ<n><m><sg><nom>/سچ<n><m><sg><obl>/سچ<n><m><pl><nom>$ ^ہی/ہی<adj><m><sg><nom>/ہی<adj><m><sg><obl>/ہی<adj><m><pl><nom>/ہی<adj><m><pl><obl>/ہی<adj><f><sg><nom>/ہی<adj><f><sg><obl>/ہی<adj><f><pl><nom>/ہی<adj><f><pl><obl>$ ^جیتر/*جیتر$ ^ہے/ہو<vbser><pri><p3><sg>$
+[/xIZCQjo71OIN]
+[xSAwvey-Mwxc#0] ^گھر/گھر<n><m><sg><nom>/گھر<n><m><sg><obl>/گھر<n><m><pl><nom>$ ^کے/کا<post><m><pl><gen>$ ^اندر/اندر<adv>/اندر<np><ant><m><sg>$
+[/xSAwvey-Mwxc]
+[z65fdt1Nwdqh#0] ^وہ/وہ<prn><dem><p3><mf><sg><dst><nom>/وہ<prn><dem><p3><mf><pl><dst><nom>$ ^ہے/ہو<vbser><pri><p3><sg>$
+[/z65fdt1Nwdqh]
